@@ -1,0 +1,1805 @@
+﻿[
+   {
+      "name": "E.S. ABASOLO",
+      "location": {
+         "lng": 24.145463,
+         "lat": -110.331088
+      },
+      "address": "Blvd Mariano Abasolo entre Jalisco y Oaxaca",
+      "city": "La Paz",
+      "state": "Baja California Sur",
+      "cp": "23060 ",
+      "schedule": "",
+      "subTitle": "NPV - E.S. ABASOLO",
+      "image": "",
+      "products": [
+         1,
+         2,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "http://www.estacionabasolo.com"
+   },
+   {
+      "name": "E.S. ABASTOS",
+      "location": {
+         "lng": 19.14461,
+         "lat": -96.15932
+      },
+      "address": "Papaya No. 210",
+      "city": "Veracruz",
+      "state": "Veracruz",
+      "cp": "91963",
+      "schedule": "",
+      "subTitle": "E06817 - E.S. ABASTOS",
+      "image": "",
+      "products": [
+         1,
+         2,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "https://repsol.efectifactura.com"
+   },
+   {
+      "name": "E.S. ABC",
+      "location": {
+         "lng": 20.74452,
+         "lat": -103.4258
+      },
+      "address": "Avenida Acueducto, 1996",
+      "city": "Zapopan",
+      "state": "Jalisco",
+      "cp": "45138",
+      "schedule": "",
+      "subTitle": "E10118 - E.S. ABC",
+      "image": "",
+      "products": [
+         1,
+         2
+      ],
+      "phone": "",
+      "email": "",
+      "url": "http://www.estacionabc.com"
+   },
+   {
+      "name": "E.S. ACUEDUCTO",
+      "location": {
+         "lng": 20.74036,
+         "lat": -103.4254
+      },
+      "address": "Avenida Acueducto 1555",
+      "city": "Zapopan",
+      "state": "Jalisco",
+      "cp": "45138",
+      "schedule": "",
+      "subTitle": "E08363 - E.S. ACUEDUCTO",
+      "image": "",
+      "products": [
+         1,
+         2,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "http://www.estacionacueducto.com"
+   },
+   {
+      "name": "E.S. ALEXA",
+      "location": {
+         "lng": 19.52645,
+         "lat": -98.86069
+      },
+      "address": "Carretera México - Veracruz Km 44.5, Col. San Simón",
+      "city": "Texcoco",
+      "state": "Estado de México",
+      "cp": "48250",
+      "schedule": "",
+      "subTitle": "E05186 - E.S. ALEXA",
+      "image": "",
+      "products": [
+         1,
+         2,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "http://repsolalexasansimon.fortiddns.com:8088/ControlGasFE/"
+   },
+   {
+      "name": "E.S. BAHíA ASUNCIÓN",
+      "location": {
+         "lng": 27.145688,
+         "lat": -114.290777
+      },
+      "address": "Avenida Benito Juárez Y Avenida Pargo Mz. 089",
+      "city": "La Paz",
+      "state": "Baja California Sur",
+      "cp": "23960",
+      "schedule": "",
+      "subTitle": "E12110 - E.S. BAHíA ASUNCIÓN",
+      "image": "",
+      "products": [
+         1,
+         2,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "http://estacion.qualligas.com/12110/factura"
+   },
+   {
+      "name": "E.S. BELLO DEMETRIO",
+      "location": {
+         "lng": 20.95113,
+         "lat": -97.41624
+      },
+      "address": "Avenida Demetrio Ruiz Malerva No. 33 B",
+      "city": "Tuxpan",
+      "state": "Veracruz",
+      "cp": "92860",
+      "schedule": "",
+      "subTitle": "E00769 - E.S. BELLO DEMETRIO",
+      "image": "",
+      "products": [
+         1,
+         2
+      ],
+      "phone": "",
+      "email": "",
+      "url": ""
+   },
+   {
+      "name": "E.S. BOLÍVAR",
+      "location": {
+         "lng": 19.17411,
+         "lat": -96.13546
+      },
+      "address": "Avenida Poniente Miguel Alemán No. 1456",
+      "city": "Veracruz",
+      "state": "Veracruz",
+      "cp": "91750",
+      "schedule": "",
+      "subTitle": "E01034 - E.S. BOLÍVAR",
+      "image": "",
+      "products": [
+         1,
+         2,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "https://repsol.efectifactura.com"
+   },
+   {
+      "name": "E.S. CAMINO NACIONAL",
+      "location": {
+         "lng": 18.83869,
+         "lat": -97.12173
+      },
+      "address": "Camino Nacional No. 470",
+      "city": " Río Blanco",
+      "state": "Veracruz",
+      "cp": "94730",
+      "schedule": "",
+      "subTitle": "E00674 - E.S. CAMINO NACIONAL",
+      "image": "",
+      "products": [
+         1,
+         2,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "https://repsol.efectifactura.com/"
+   },
+   {
+      "name": "E.S. CANDELA",
+      "location": {
+         "lng": 20.0343,
+         "lat": -98.7988
+      },
+      "address": "Carretera México-Pachuca Km 79+370",
+      "city": "Pachuca",
+      "state": "Hidalgo",
+      "cp": "42119",
+      "schedule": "",
+      "subTitle": "E08468 - E.S. CANDELA",
+      "image": "",
+      "products": [
+         1,
+         2,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "http://www.estacionmaribelavila.com"
+   },
+   {
+      "name": "E.S. CAPITÁN",
+      "location": {
+         "lng": 18.96381,
+         "lat": -98.1746
+      },
+      "address": "Boulevard Capitán Carlos Camacho Espíritu No. 161 C",
+      "city": "Puebla",
+      "state": "Puebla",
+      "cp": "72425",
+      "schedule": "",
+      "subTitle": "E12014 - E.S. CAPITÁN",
+      "image": "",
+      "products": [
+         1,
+         2,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "https://repsol.efectifactura.com"
+   },
+   {
+      "name": "E.S. CHALCA",
+      "location": {
+         "lng": 19.38935,
+         "lat": -98.9801
+      },
+      "address": "Avenida Chimalhuacán No. 1",
+      "city": "Nezahualcóyotl",
+      "state": "Estado de México",
+      "cp": "57800",
+      "schedule": "",
+      "subTitle": "E09011 - E.S. CHALCA",
+      "image": "",
+      "products": [
+         1,
+         2,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "http://estacionchalca.com "
+   },
+   {
+      "name": "E.S. CICLOPE ORIENTE",
+      "location": {
+         "lng": 19.149846,
+         "lat": -98.776837
+      },
+      "address": "Carretera Federal México-Cuautla Km. 57 S/N, Col. San Francisco Zentlalpan",
+      "city": "Amecameca",
+      "state": "Estado de México",
+      "cp": "56930",
+      "schedule": "",
+      "subTitle": "E09233 - E.S. CICLOPE ORIENTE",
+      "image": "",
+      "products": [
+         1,
+         2,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "http://www.estacionelciclopedeloriente.com "
+   },
+   {
+      "name": "E.S. CIENEGUITAS",
+      "location": {
+         "lng": 19.4298,
+         "lat": -98.9619
+      },
+      "address": "Avenida del Peñón Esquina Pachtli No. 14",
+      "city": "Chimalhuacán",
+      "state": "Estado de México",
+      "cp": "56360",
+      "schedule": "",
+      "subTitle": "E07568 - E.S. CIENEGUITAS",
+      "image": "",
+      "products": [
+         1,
+         2
+      ],
+      "phone": "",
+      "email": "",
+      "url": "http://www.estacioncieneguitas.com"
+   },
+   {
+      "name": "E.S. CINTURÓN DE ORIÓN",
+      "location": {
+         "lng": 19.31565,
+         "lat": -98.934128
+      },
+      "address": "Avenida Cuauhtémoc 4421, Residencial Ayotla",
+      "city": "Ixtapaluca",
+      "state": "Estado de México",
+      "cp": "56555",
+      "schedule": "",
+      "subTitle": "E11599 - E.S. CINTURÓN DE ORIÓN",
+      "image": "",
+      "products": [
+         1,
+         2,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "http://www.estacioncinturondeorion.com"
+   },
+   {
+      "name": "E.S. CIRCUITO MEXIQUENSE",
+      "location": {
+         "lng": 19.486942,
+         "lat": -99.037116
+      },
+      "address": "Plaza San Marcos 4105 S/N, Plaza de Aragón",
+      "city": "Nezahualcóyotl",
+      "state": "Estado de México",
+      "cp": "57139",
+      "schedule": "",
+      "subTitle": "E11439 - E.S. CIRCUITO MEXIQUENSE",
+      "image": "",
+      "products": [
+         1,
+         2,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "http://www.estacionmexiquense.com"
+   },
+   {
+      "name": "E.S. CIRCUNVALACIÓN",
+      "location": {
+         "lng": 19.17853,
+         "lat": -96.14207
+      },
+      "address": "Avenida Miguel A. de Quevedo No. 5872",
+      "city": "Veracruz",
+      "state": "Veracruz",
+      "cp": "91750",
+      "schedule": "",
+      "subTitle": "E07589 - E.S. CIRCUNVALACIÓN",
+      "image": "",
+      "products": [
+         1,
+         2,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "https://repsol.efectifactura.com"
+   },
+   {
+      "name": "E.S. CIRCUS",
+      "location": {
+         "lng": 19.39814,
+         "lat": -99.02505
+      },
+      "address": "Avenida Pantitlán No. 333 Mz.8 Lt. 1-26, Col. Evolución",
+      "city": "Nezahualcóyotl",
+      "state": "Estado de México",
+      "cp": "57170",
+      "schedule": "",
+      "subTitle": "E07547 - E.S. CIRCUS",
+      "image": "",
+      "products": [
+         1,
+         2
+      ],
+      "phone": "",
+      "email": "",
+      "url": "http://www.estacionarisbetavila.com"
+   },
+   {
+      "name": "E.S. COLORINES",
+      "location": {
+         "lng": 18.81594,
+         "lat": -97.21061
+      },
+      "address": "Autopista México-Veracruz Km 258+100",
+      "city": "Nogales",
+      "state": "Veracruz",
+      "cp": "94720",
+      "schedule": "",
+      "subTitle": "E08433 - E.S. COLORINES",
+      "image": "",
+      "products": [
+         1,
+         2,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "http://www.estacioncolorines.com "
+   },
+   {
+      "name": "E.S. COLORINES AMATLAN",
+      "location": {
+         "lng": 18.8584,
+         "lat": -96.8717
+      },
+      "address": "Carretera Nacional Cordoba-Veracruz Km 7+887.5",
+      "city": "Amatlán de los Reyes",
+      "state": "Veracruz",
+      "cp": "94950",
+      "schedule": "",
+      "subTitle": "E09649 - E.S. COLORINES AMATLAN",
+      "image": "",
+      "products": [
+         1,
+         2,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": ""
+   },
+   {
+      "name": "E.S. CORTINES",
+      "location": {
+         "lng": 20.54098,
+         "lat": -97.45456
+      },
+      "address": "Boulevard Adolfo Ruiz Cortines No. 1204",
+      "city": "Poza Rica de Hidalgo",
+      "state": "Veracruz",
+      "cp": "93230",
+      "schedule": "",
+      "subTitle": "E06161 - E.S. CORTINES",
+      "image": "",
+      "products": [
+         1,
+         2
+      ],
+      "phone": "",
+      "email": "",
+      "url": "https://repsol.efectifactura.com"
+   },
+   {
+      "name": "E.S. COSTA VERDE",
+      "location": {
+         "lng": 18.09306,
+         "lat": -96.1286
+      },
+      "address": "Boulevard Benito Juárez No. 1",
+      "city": "Acatlan de Perez Figueroa",
+      "state": "Oaxaca",
+      "cp": "68310",
+      "schedule": "",
+      "subTitle": "E02964 - E.S. COSTA VERDE",
+      "image": "",
+      "products": [
+         1,
+         2,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": ""
+   },
+   {
+      "name": "E.S. CUAUTLAPAN",
+      "location": {
+         "lng": 18.87478,
+         "lat": -97.02684
+      },
+      "address": "Km 325 Carrt. Fed. Mexico-Veracruz, Col. Loc. Cuautlalpan",
+      "city": " Ixtaczoquitlán",
+      "state": "Veracruz",
+      "cp": "94463 ",
+      "schedule": "",
+      "subTitle": "E00673 - E.S. CUAUTLAPAN",
+      "image": "",
+      "products": [
+         1,
+         2,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "http://rcuautlapan.fortiddns.com:8088/controlgasfe/"
+   },
+   {
+      "name": "E.S. DEL OLMO",
+      "location": {
+         "lng": 19.399098,
+         "lat": -99.026014
+      },
+      "address": "Ángel de la Independencia 292, Evolución",
+      "city": "Nezahualcóyotl",
+      "state": "Estado de México",
+      "cp": "57700",
+      "schedule": "",
+      "subTitle": "E08138 - E.S. DEL OLMO",
+      "image": "",
+      "products": [
+         1,
+         2
+      ],
+      "phone": "",
+      "email": "",
+      "url": "http://www.estaciondelolmo.com "
+   },
+   {
+      "name": "E.S. EL NOPAL",
+      "location": {
+         "lng": 19.67706,
+         "lat": -98.83754
+      },
+      "address": "Carretera México-Tulancingo Km 25+300 Lado Izquierdo",
+      "city": "Teotihuacán",
+      "state": "Estado de México",
+      "cp": "31211",
+      "schedule": "",
+      "subTitle": "E11734 - E.S. EL NOPAL",
+      "image": "",
+      "products": [
+         1,
+         2,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "http://www.estacionelnopal.com"
+   },
+   {
+      "name": "E.S. ENERGÉTICOS DE CORDOBA",
+      "location": {
+         "lng": 18.827149,
+         "lat": -97.160769
+      },
+      "address": "Avenida Juárez No. 125, Col. Aurora",
+      "city": "Nogales",
+      "state": "Veracruz",
+      "cp": "94930",
+      "schedule": "",
+      "subTitle": "E00666 - E.S. ENERGÉTICOS DE CORDOBA",
+      "image": "",
+      "products": [
+         1,
+         2
+      ],
+      "phone": "",
+      "email": "",
+      "url": "http://repsol.edecordoba.fortiddns.com:8088/controlgasfe/"
+   },
+   {
+      "name": "E.S. ESCAMELA AGRICOLA",
+      "location": {
+         "lng": 18.85722,
+         "lat": -97.0891
+      },
+      "address": "Avenida Circunvalación Esquina Oriente 7 No. 2677",
+      "city": "Orizaba",
+      "state": "Veracruz",
+      "cp": "94345",
+      "schedule": "",
+      "subTitle": "E10357 - E.S. ESCAMELA AGRICOLA",
+      "image": "",
+      "products": [
+         1,
+         2,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "http://www.estacionescamelaagricola.com"
+   },
+   {
+      "name": "E.S. ESCAMELA SUR",
+      "location": {
+         "lng": 18.83758,
+         "lat": -97.09373
+      },
+      "address": "Prolongacion de Sur 13/ Primo de V. Y. T. Peñafiel No. 1596",
+      "city": "Orizaba",
+      "state": "Veracruz",
+      "cp": "94390",
+      "schedule": "",
+      "subTitle": "E10994 - E.S. ESCAMELA SUR",
+      "image": "",
+      "products": [
+         1,
+         2,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "http://estacionescamelasur.com/"
+   },
+   {
+      "name": "E.S. EVOLUCIÓN",
+      "location": {
+         "lng": 19.405338,
+         "lat": -99.014582
+      },
+      "address": "Av. Chimalhuacán No. 361, Manzana 18-A, Lote 01-02, Col. Evolución",
+      "city": "Nezahualcóyotl",
+      "state": "Estado de México",
+      "cp": "57000",
+      "schedule": "",
+      "subTitle": "E07753 - E.S. EVOLUCIÓN",
+      "image": "",
+      "products": [
+         1,
+         2
+      ],
+      "phone": "",
+      "email": "",
+      "url": "http://www.estacionevolucion.com "
+   },
+   {
+      "name": "E.S. FATIMA",
+      "location": {
+         "lng": 20.74139,
+         "lat": -103.4309
+      },
+      "address": "Valle Atemajac 2323",
+      "city": "Zapopan",
+      "state": "Jalisco",
+      "cp": "45138",
+      "schedule": "",
+      "subTitle": "E12114 - E.S. FATIMA",
+      "image": "",
+      "products": [
+         1,
+         2
+      ],
+      "phone": "",
+      "email": "",
+      "url": "http://www.estacionfatima.com"
+   },
+   {
+      "name": "E.S. FUNDADORES",
+      "location": {
+         "lng": 20.19351,
+         "lat": -96.86853
+      },
+      "address": "Boulevard Avenida Fundadores de San Rafael Oriente No. 611, San Rafael,",
+      "city": "Veracruz",
+      "state": "Veracruz",
+      "cp": "93620",
+      "schedule": "",
+      "subTitle": "E10030 - E.S. FUNDADORES",
+      "image": "",
+      "products": [
+         1,
+         2,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "https://repsol.efectifactura.com"
+   },
+   {
+      "name": "E.S. GAS CORDOBA",
+      "location": {
+         "lng": 18.9015,
+         "lat": -96.95351
+      },
+      "address": "Avenida 11 No. 3418",
+      "city": "Córdoba",
+      "state": "Veracruz",
+      "cp": "94550 ",
+      "schedule": "",
+      "subTitle": "E00437 - E.S. GAS CORDOBA",
+      "image": "",
+      "products": [
+         1,
+         2,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "https://repsol.efectifactura.com"
+   },
+   {
+      "name": "E.S. GASOCHALCO",
+      "location": {
+         "lng": 19.264388,
+         "lat": -98.903102
+      },
+      "address": "Carretera Chalco-Tlahuac No. 500",
+      "city": "Chalco",
+      "state": "Estado de México",
+      "cp": "56607",
+      "schedule": "",
+      "subTitle": "E07725 - E.S. GASOCHALCO",
+      "image": "",
+      "products": [
+         1,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "http://www.estaciongasochalco.com"
+   },
+   {
+      "name": "E.S. GASOJAL",
+      "location": {
+         "lng": 20.68849,
+         "lat": -103.373
+      },
+      "address": "Avenida Americas No.666",
+      "city": "Guadalajara",
+      "state": "Jalisco",
+      "cp": "44600",
+      "schedule": "",
+      "subTitle": "E11737 - E.S. GASOJAL",
+      "image": "",
+      "products": [
+         1,
+         2
+      ],
+      "phone": "",
+      "email": "",
+      "url": "http://www.estaciongasojal.com"
+   },
+   {
+      "name": "E.S. GASSO",
+      "location": {
+         "lng": 22.909266,
+         "lat": -109.949824
+      },
+      "address": "Todos los Santos 178, Cabo San Lucas",
+      "city": "Los Cabos",
+      "state": "Baja California Sur",
+      "cp": "23450",
+      "schedule": "",
+      "subTitle": "E08618 - E.S. GASSO",
+      "image": "",
+      "products": [
+         1,
+         2,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "http://www.estaciongasso.com"
+   },
+   {
+      "name": "E.S. GILGA OAXACA",
+      "location": {
+         "lng": 18.08178,
+         "lat": -96.13903
+      },
+      "address": "Plan de Tuxtepec No. 1",
+      "city": "Acatlán de Figueroa",
+      "state": "Oaxaca",
+      "cp": "68380",
+      "schedule": "",
+      "subTitle": "E05420 - E.S. GILGA OAXACA",
+      "image": "",
+      "products": [
+         1,
+         2,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "https://repsol.efectifactura.com"
+   },
+   {
+      "name": "E.S. HEDAL",
+      "location": {
+         "lng": 20.96486,
+         "lat": -97.4054
+      },
+      "address": "Avenida Adolfo López Mateos 198",
+      "city": "Tuxpan",
+      "state": "Veracruz",
+      "cp": "92820",
+      "schedule": "",
+      "subTitle": "E11170 - E.S. HEDAL",
+      "image": "",
+      "products": [
+         1,
+         2,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "https://repsol.efectifactura.com"
+   },
+   {
+      "name": "E.S. HEDAL 2",
+      "location": {
+         "lng": 20.55395,
+         "lat": -97.4681
+      },
+      "address": "Acceso Cazones II",
+      "city": "Tihuatlán",
+      "state": "Veracruz",
+      "cp": "92912",
+      "schedule": "",
+      "subTitle": "E06909 - E.S. HEDAL 2",
+      "image": "",
+      "products": [
+         1,
+         2,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "https://repsol.efectifactura.com"
+   },
+   {
+      "name": "E.S. HONESTIDAD",
+      "location": {
+         "lng": 19.308769,
+         "lat": -98.833257
+      },
+      "address": "Autopista México-Puebla KM 35+500 S/N, San Marcos Huixtoco",
+      "city": "Chalco",
+      "state": "Estado de México",
+      "cp": "56643",
+      "schedule": "",
+      "subTitle": "E10679 - E.S. HONESTIDAD",
+      "image": "",
+      "products": [
+         1,
+         2,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "http://www.estacionhonestidad.com"
+   },
+   {
+      "name": "E.S. INDUSTRIAL JALISCO",
+      "location": {
+         "lng": 20.64067,
+         "lat": -103.3521
+      },
+      "address": "Avenida Gobierno Luis G Curiel No. 2446",
+      "city": "Guadalajara",
+      "state": "Jalisco",
+      "cp": "44940",
+      "schedule": "",
+      "subTitle": "E01545 - E.S. INDUSTRIAL JALISCO",
+      "image": "",
+      "products": [
+         1,
+         2,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "http://www.estacionindustrialjalisco.com"
+   },
+   {
+      "name": "E.S. LA MILPA",
+      "location": {
+         "lng": 19.56922,
+         "lat": -98.65619
+      },
+      "address": "Carretera México - Veracruz Km 49",
+      "city": "Calpulalpan",
+      "state": "Tlaxcala",
+      "cp": "90224",
+      "schedule": "",
+      "subTitle": "E08508 - E.S. LA MILPA",
+      "image": "",
+      "products": [
+         1,
+         2,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "http://www.estacionlamilpadecalpulalpan.com"
+   },
+   {
+      "name": "E.S. LAS FLORES",
+      "location": {
+         "lng": 19.356815,
+         "lat": -99.198685
+      },
+      "address": "Boulevard Adolfo López Mateos 2173. Col. Los Alpes",
+      "city": "Àlvaro Obregón",
+      "state": "Ciudad de México",
+      "cp": "1010",
+      "schedule": "",
+      "subTitle": "E13457 - E.S. LAS FLORES",
+      "image": "",
+      "products": [
+         1,
+         2
+      ],
+      "phone": "",
+      "email": "",
+      "url": "http://www.estacionlasaguilaspicacho.com"
+   },
+   {
+      "name": "E.S. LAZARO",
+      "location": {
+         "lng": 16.76469,
+         "lat": -93.38528
+      },
+      "address": "Libramiento Poniente S/N",
+      "city": "Ocozocoautla de Espinoza",
+      "state": "Chiapas",
+      "cp": "29140",
+      "schedule": "",
+      "subTitle": "E00345 - E.S. LAZARO",
+      "image": "",
+      "products": [
+         1,
+         2,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "http://www.estacionlazaro.com "
+   },
+   {
+      "name": "E.S. LEALTAD",
+      "location": {
+         "lng": 19.414471,
+         "lat": -99.032229
+      },
+      "address": "Chimalhuacán 234, Agua Azul",
+      "city": "Nezahualcóyotl",
+      "state": "Estado de México",
+      "cp": "57500",
+      "schedule": "",
+      "subTitle": "E11611 - E.S. LEALTAD",
+      "image": "",
+      "products": [
+         1,
+         2,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "http://www.estacionlealtad.com"
+   },
+   {
+      "name": "E.S. LOS ARCOS",
+      "location": {
+         "lng": 20.67416,
+         "lat": -103.3842
+      },
+      "address": "Avenida Ignacio L. Vallarta 2605, Arcos Vallarta",
+      "city": "Guadalajara",
+      "state": "Jalisco",
+      "cp": "44130",
+      "schedule": "",
+      "subTitle": "E01519 - E.S. LOS ARCOS",
+      "image": "",
+      "products": [
+         1,
+         2
+      ],
+      "phone": "",
+      "email": "",
+      "url": "http://www.estacionlosarcos.com"
+   },
+   {
+      "name": "E.S. LOS COCOS",
+      "location": {
+         "lng": 19.18351,
+         "lat": -96.13724
+      },
+      "address": "Avenida Miguel Alemán No. 415",
+      "city": "Veracruz",
+      "state": "Veracruz",
+      "cp": "91700",
+      "schedule": "",
+      "subTitle": "E01033 - E.S. LOS COCOS",
+      "image": "",
+      "products": [
+         1,
+         2,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "https://repsol.efectifactura.com"
+   },
+   {
+      "name": "E.S. LOS POTRILLOS",
+      "location": {
+         "lng": 20.53864,
+         "lat": -97.44511
+      },
+      "address": "Avenida 20 de Noviembre No. 998",
+      "city": "Pozarica de Hidalgo",
+      "state": "Veracruz",
+      "cp": "93230",
+      "schedule": "",
+      "subTitle": "E06345 - E.S. LOS POTRILLOS",
+      "image": "",
+      "products": [
+         1,
+         2
+      ],
+      "phone": "",
+      "email": "",
+      "url": "https://repsol.efectifactura.com/"
+   },
+   {
+      "name": "E.S. MELCHOR OCAMPO",
+      "location": {
+         "lng": 20.06059,
+         "lat": -97.05897
+      },
+      "address": "Avenida Melchor Ocampo No. 512, Martínez de la Torre",
+      "city": "Veracruz",
+      "state": "Veracruz",
+      "cp": "93600",
+      "schedule": "",
+      "subTitle": "E08013 - E.S. MELCHOR OCAMPO",
+      "image": "",
+      "products": [
+         1,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "https://repsol.efectifactura.com"
+   },
+   {
+      "name": "E.S. MINEZOTA",
+      "location": {
+         "lng": 19.388199,
+         "lat": -99.029861
+      },
+      "address": "Basílica de Guadalupe 3, Metropolitana 2nda sección",
+      "city": "Nezahualcóyotl",
+      "state": "Estado de México",
+      "cp": "57740",
+      "schedule": "",
+      "subTitle": "E08043 - E.S. MINEZOTA",
+      "image": "",
+      "products": [
+         1,
+         2
+      ],
+      "phone": "",
+      "email": "",
+      "url": "http://www.estacionminezota.com"
+   },
+   {
+      "name": "E.S. MISANTLA",
+      "location": {
+         "lng": 20.05432,
+         "lat": -97.04571
+      },
+      "address": "Carretera Estatal Martínez-Misantla Km 1 No. 800, Martínez de la Torre",
+      "city": "Veracruz",
+      "state": "Veracruz",
+      "cp": "93610",
+      "schedule": "",
+      "subTitle": "E08186 - E.S. MISANTLA",
+      "image": "",
+      "products": [
+         1,
+         2,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "https://repsol.efectifactura.com"
+   },
+   {
+      "name": "E.S. NAUTLA",
+      "location": {
+         "lng": 20.343294,
+         "lat": -96.888426
+      },
+      "address": "Km 83.5 Carretera Poza Rica-Nautla",
+      "city": "Tecolutla",
+      "state": "Veracruz",
+      "cp": "91630",
+      "schedule": "",
+      "subTitle": "E00747 - E.S. NAUTLA",
+      "image": "",
+      "products": [
+         1,
+         2,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "https://repsol.efectifactura.com"
+   },
+   {
+      "name": "E.S. OCOZOCOAUTLA BERRIOZABAL",
+      "location": {
+         "lng": 16.76811,
+         "lat": -93.2966
+      },
+      "address": "Carretera Ocozocoautla Km 132+70",
+      "city": "Berriozabal",
+      "state": "Chiapas",
+      "cp": "29130",
+      "schedule": "",
+      "subTitle": "E08471 - E.S. OCOZOCOAUTLA BERRIOZABAL",
+      "image": "",
+      "products": [
+         1,
+         2,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "http://www.estacionberriozabal.com"
+   },
+   {
+      "name": "E.S. OCOZOCOAUTLA TAPACHULA",
+      "location": {
+         "lng": 14.91567,
+         "lat": -92.34282
+      },
+      "address": "Carretera Huixtla Tapachula Km 281+656",
+      "city": "Tapachula",
+      "state": "Chiapas",
+      "cp": "30820",
+      "schedule": "",
+      "subTitle": "E11691 - E.S. OCOZOCOAUTLA TAPACHULA",
+      "image": "",
+      "products": [
+         1,
+         2,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "http://www.estaciontapachula.com"
+   },
+   {
+      "name": "E.S. ORIENTE 31",
+      "location": {
+         "lng": 18.86332,
+         "lat": -97.10865
+      },
+      "address": "Avenida Oriente 31 No. 240 y Calle 4 Norte",
+      "city": "Orizaba",
+      "state": "Veracruz",
+      "cp": "94310",
+      "schedule": "",
+      "subTitle": "E04008 - E.S. ORIENTE 31",
+      "image": "",
+      "products": [
+         1,
+         2,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "https://repsol.efectifactura.com"
+   },
+   {
+      "name": "E.S. ORIENTE 6",
+      "location": {
+         "lng": 18.85292,
+         "lat": -97.0785
+      },
+      "address": "Oriente 6 No. 2900",
+      "city": "Orizaba",
+      "state": "Veracruz",
+      "cp": " 94340",
+      "schedule": "",
+      "subTitle": "E00662 - E.S. ORIENTE 6",
+      "image": "",
+      "products": [
+         1,
+         2,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "https://repsol.efectifactura.com/"
+   },
+   {
+      "name": "E.S. PALMA SOLA",
+      "location": {
+         "lng": 19.77428,
+         "lat": -96.43259
+      },
+      "address": "Carretera Cardel-Nautla-Palma Sola Km 70, ",
+      "city": "Alto Lucero",
+      "state": "Veracruz",
+      "cp": "91477",
+      "schedule": "",
+      "subTitle": "E03104 - E.S. PALMA SOLA",
+      "image": "",
+      "products": [
+         1,
+         2,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "http://www.estacionpalmasola.com"
+   },
+   {
+      "name": "E.S. PALMIRA",
+      "location": {
+         "lng": 24.184061,
+         "lat": -110.300817
+      },
+      "address": "Carretera La Paz - Pichilingue, S/N. Col. Lomas de Palmira",
+      "city": "La Paz",
+      "state": "Baja California Sur",
+      "cp": "23010",
+      "schedule": "",
+      "subTitle": "E11293 - E.S. PALMIRA",
+      "image": "",
+      "products": [
+         1,
+         2,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "http://www.estacion-palmira.com"
+   },
+   {
+      "name": "E.S. PANTEPEC",
+      "location": {
+         "lng": 20.9026,
+         "lat": -97.66768
+      },
+      "address": "Boulevard Alamo-Idolo S/N",
+      "city": " Alamo Temapache",
+      "state": "Veracruz",
+      "cp": "92733",
+      "schedule": "",
+      "subTitle": "E07556 - E.S. PANTEPEC",
+      "image": "",
+      "products": [
+         1,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "http://www.estacionpantepec.com"
+   },
+   {
+      "name": "E.S. PAZJOTA",
+      "location": {
+         "lng": 24.118816,
+         "lat": -110.335351
+      },
+      "address": "Avenida Santa Ana S/N, Col. Santa María",
+      "city": "La Paz",
+      "state": "Baja California Sur",
+      "cp": "23080",
+      "schedule": "",
+      "subTitle": "E11944 - E.S. PAZJOTA",
+      "image": "",
+      "products": [
+         1,
+         2,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "http://estacion-pazjota.com"
+   },
+   {
+      "name": "E.S. PLUTARCO - IZTACALCO",
+      "location": {
+         "lng": 19.398034,
+         "lat": -99.116821
+      },
+      "address": "Avenida Plutarco Elías Calles 430, Los Reyes",
+      "city": "Iztacalco",
+      "state": "Ciudad de México",
+      "cp": "16020",
+      "schedule": "",
+      "subTitle": "E09057 - E.S. PLUTARCO - IZTACALCO",
+      "image": "",
+      "products": [
+         1,
+         2
+      ],
+      "phone": "",
+      "email": "",
+      "url": "http://www.estacionplutarco.com/"
+   },
+   {
+      "name": "E.S. RAUL VELASCO",
+      "location": {
+         "lng": 19.2905,
+         "lat": -97.91933
+      },
+      "address": "Negrete Sur No. 3",
+      "city": "Huamantla",
+      "state": "Tlaxcala",
+      "cp": "90505",
+      "schedule": "",
+      "subTitle": "E09499 - E.S. RAUL VELASCO",
+      "image": "",
+      "products": [
+         1,
+         2,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "http://www.estacionraulvelasco.com"
+   },
+   {
+      "name": "E.S. REAL BOCA DEL RIO",
+      "location": {
+         "lng": 19.14084,
+         "lat": -96.11285
+      },
+      "address": "Ejercito Mexicano No. 1123",
+      "city": "Boca del Río",
+      "state": "Veracruz",
+      "cp": "94297",
+      "schedule": "",
+      "subTitle": "E10907 - E.S. REAL BOCA DEL RIO",
+      "image": "",
+      "products": [
+         1,
+         2,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "http://www.estacionrealbocadelrio.com"
+   },
+   {
+      "name": "E.S. REAL CORDOBA",
+      "location": {
+         "lng": 18.87498,
+         "lat": -96.9162
+      },
+      "address": "Boulevard Cordoba-Penuela No. 4358",
+      "city": "Córdoba",
+      "state": "Veracruz",
+      "cp": "94690",
+      "schedule": "",
+      "subTitle": "E10358 - E.S. REAL CORDOBA",
+      "image": "",
+      "products": [
+         1,
+         2,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "http://www.estacionrealcordoba.com/"
+   },
+   {
+      "name": "E.S. REAL MALTRATA",
+      "location": {
+         "lng": 18.81609,
+         "lat": -97.21996
+      },
+      "address": "Autopista México-Cordoba Km 247",
+      "city": "Maltrata",
+      "state": "Veracruz",
+      "cp": "94700",
+      "schedule": "",
+      "subTitle": "E09299 - E.S. REAL MALTRATA",
+      "image": "",
+      "products": [
+         1,
+         2,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "http://www.estacionrealmaltrata.com/"
+   },
+   {
+      "name": "E.S. REAL ORIZABA",
+      "location": {
+         "lng": 18.84919,
+         "lat": -97.08842
+      },
+      "address": "Oriente 6 No. 1743 Esquina Sur 33",
+      "city": "Orizaba",
+      "state": "Veracruz",
+      "cp": "94300",
+      "schedule": "",
+      "subTitle": "E07561 - E.S. REAL ORIZABA",
+      "image": "",
+      "products": [
+         1,
+         2,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "http://estacionrealorizaba.com/ "
+   },
+   {
+      "name": "E.S. REPÚBLICA",
+      "location": {
+         "lng": 20.67489,
+         "lat": -103.3161
+      },
+      "address": "República 1436",
+      "city": "Guadalajara",
+      "state": "Jalisco",
+      "cp": "44700",
+      "schedule": "",
+      "subTitle": "E10986 - E.S. REPÚBLICA",
+      "image": "",
+      "products": [
+         1,
+         2,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "http://www.estacionrepublica.com"
+   },
+   {
+      "name": "E.S. ROCIO DEL CARMEN",
+      "location": {
+         "lng": 19.36711,
+         "lat": -98.9912
+      },
+      "address": "Avenida Texcoco No. 748, Colonia Floresta Municipio de los Reyes la Paz, ",
+      "city": "La Paz",
+      "state": "Estado de México",
+      "cp": "56420",
+      "schedule": "",
+      "subTitle": "E11061 - E.S. ROCIO DEL CARMEN",
+      "image": "",
+      "products": [
+         1,
+         2,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "http://www.estacionrociodelcarmengonzalez.com"
+   },
+   {
+      "name": "E.S. SALSUA",
+      "location": {
+         "lng": 19.271119,
+         "lat": -98.890559
+      },
+      "address": "Avenida Cuauhtémoc Poniente 1500, Mz 19 lote 51, La bomba",
+      "city": "Chalco",
+      "state": "Estado de México",
+      "cp": "56600",
+      "schedule": "",
+      "subTitle": "E13504 - E.S. SALSUA",
+      "image": "",
+      "products": [
+         1,
+         2,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "http://www.estacionsalsua.com"
+   },
+   {
+      "name": "E.S. SAN FRANCISCO",
+      "location": {
+         "lng": 19.351436,
+         "lat": -98.856883
+      },
+      "address": "Carretera a Coatepec KM 4.4 S/N, San Francisco Acuautla",
+      "city": "Ixtapaluca",
+      "state": "Estado de México",
+      "cp": "56580",
+      "schedule": "",
+      "subTitle": "E10919 - E.S. SAN FRANCISCO",
+      "image": "",
+      "products": [
+         1,
+         2,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "http://www.estacionsanfrancisco.com"
+   },
+   {
+      "name": "E.S. SAN RAFAEL",
+      "location": {
+         "lng": 20.080234,
+         "lat": -97.033565
+      },
+      "address": "Lt.2- Mza-1 Zona-7 No. 600 (Km 2 Mtz-Torre-S.Raf), Martínez de la Torre",
+      "city": "Veracruz",
+      "state": "Veracruz",
+      "cp": "93600",
+      "schedule": "",
+      "subTitle": "E05089 - E.S. SAN RAFAEL",
+      "image": "",
+      "products": [
+         1,
+         2,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "https://repsol.efectifactura.com"
+   },
+   {
+      "name": "E.S. SANTA ANA",
+      "location": {
+         "lng": 18.877115,
+         "lat": -97.108387
+      },
+      "address": "Carretera Santa Ana-Orizaba No. 1188",
+      "city": "Mariano Escobedo",
+      "state": "Veracruz",
+      "cp": "94420",
+      "schedule": "",
+      "subTitle": "E05767 - E.S. SANTA ANA",
+      "image": "",
+      "products": [
+         1,
+         3
+      ],
+      "phone": "+52 272 721 8000",
+      "email": "",
+      "url": "https://repsol.efectifactura.com"
+   },
+   {
+      "name": "E.S. SARGENTO",
+      "location": {
+         "lng": 24.069989,
+         "lat": -109.992825
+      },
+      "address": "Carretera Rural La Ventana-Sargento No. 64",
+      "city": "La Paz",
+      "state": "Baja California Sur",
+      "cp": "23232",
+      "schedule": "",
+      "subTitle": "E09286 - E.S. SARGENTO",
+      "image": "",
+      "products": [
+         1,
+         2,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "http://rsargento.fortiddns.com:8088/controlgasfe/"
+   },
+   {
+      "name": "E.S. SAYULA",
+      "location": {
+         "lng": 19.88209,
+         "lat": -103.5855472
+      },
+      "address": "Avenida Avila Camacho 449",
+      "city": "Sayula",
+      "state": "Jalisco",
+      "cp": "49300",
+      "schedule": "",
+      "subTitle": "E05556 - E.S. SAYULA",
+      "image": "",
+      "products": [
+         1,
+         2,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "http://www.estacionsayula.com/"
+   },
+   {
+      "name": "E.S. SERVIGILGA",
+      "location": {
+         "lng": 19.141014,
+         "lat": -96.118875
+      },
+      "address": "Paseo del Ejército Mexicano, 217",
+      "city": "Boca del Río",
+      "state": "Veracruz",
+      "cp": "94297",
+      "schedule": "",
+      "subTitle": "E06620 - E.S. SERVIGILGA",
+      "image": "",
+      "products": [
+         1,
+         2,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "https://repsol.efectifactura.com"
+   },
+   {
+      "name": "E.S. SIETE BANDERAS",
+      "location": {
+         "lng": 19.292797,
+         "lat": -99.216758
+      },
+      "address": "Carretera Picacho Ajusco 537, Lomas de Padierna",
+      "city": "Tlalpan",
+      "state": "Ciudad de México",
+      "cp": "14240",
+      "schedule": "",
+      "subTitle": "E10402 - E.S. SIETE BANDERAS",
+      "image": "",
+      "products": [
+         1,
+         2,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "http://www.estacionsietebanderas.com"
+   },
+   {
+      "name": "E.S. SIMPA CUAUTITLÁN",
+      "location": {
+         "lng": 19.668878,
+         "lat": -99.181092
+      },
+      "address": "Av 16 de Septiembre, 14, Col. Centro",
+      "city": "Cuautitlán",
+      "state": "Estado de México",
+      "cp": "54800",
+      "schedule": "",
+      "subTitle": "E09890 - E.S. SIMPA CUAUTITLÁN",
+      "image": "",
+      "products": [
+         1,
+         2,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "http://www.estacioncuautitlan.com"
+   },
+   {
+      "name": "E.S. SONIA ÁVILA-HASLET",
+      "location": {
+         "lng": 19.429346,
+         "lat": -99.051194
+      },
+      "address": "Calle 4 No. 165 Mz-249 L-1 y 10, Col. Estado de México",
+      "city": "Nezahualcóyotl",
+      "state": "Estado de México",
+      "cp": "57210",
+      "schedule": "",
+      "subTitle": "E08061 - E.S. SONIA ÁVILA-HASLET",
+      "image": "",
+      "products": [
+         1,
+         2
+      ],
+      "phone": "",
+      "email": "",
+      "url": "http://www.estacionsoniaavila.com"
+   },
+   {
+      "name": "E.S. SUPER GAS POTRERO",
+      "location": {
+         "lng": 18.8906,
+         "lat": -96.80165
+      },
+      "address": "Avenida Ejercito Nacional No. 1",
+      "city": "Atoyac",
+      "state": "Veracruz",
+      "cp": "91965",
+      "schedule": "",
+      "subTitle": "E00445 - E.S. SUPER GAS POTRERO",
+      "image": "",
+      "products": [
+         1,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "https://repsol.efectifactura.com/"
+   },
+   {
+      "name": "E.S. SUREÑOS",
+      "location": {
+         "lng": 23.481605,
+         "lat": -109.714524
+      },
+      "address": "Frente a La Plaza Principal de La Localidad Santiago",
+      "city": "Los Cabos",
+      "state": "Baja California Sur",
+      "cp": "23500",
+      "schedule": "",
+      "subTitle": "E01707 - E.S. SUREÑOS",
+      "image": "",
+      "products": [
+         1,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "http://rsureno.fortiddns.com:8088/ControlGasFE/"
+   },
+   {
+      "name": "E.S. TAPATÍA",
+      "location": {
+         "lng": 20.627595,
+         "lat": -103.320897
+      },
+      "address": "Niños Heroes no. 720, San Pedro",
+      "city": "Tlaquepaque",
+      "state": "Jalisco",
+      "cp": "45560",
+      "schedule": "",
+      "subTitle": "E04854 - E.S. TAPATÍA",
+      "image": "",
+      "products": [
+         1,
+         2,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "http://www.estaciontapatia.com"
+   },
+   {
+      "name": "E.S. TEQUILA SIXTO",
+      "location": {
+         "lng": 20.882305,
+         "lat": -103.8330736
+      },
+      "address": "Avenida Sixto Gorjon No. 229",
+      "city": "Tequila",
+      "state": "Jalisco",
+      "cp": "46400",
+      "schedule": "",
+      "subTitle": "E01622 - E.S. TEQUILA SIXTO",
+      "image": "",
+      "products": [
+         1,
+         2,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "http://www.estacionsixtogorjon.com"
+   },
+   {
+      "name": "E.S. TLALPAN",
+      "location": {
+         "lng": 19.281459,
+         "lat": -99.214903
+      },
+      "address": "Carretera Picacho Ajusco 914, Jardines del Ajusco",
+      "city": "Tlalpan",
+      "state": "Ciudad de México",
+      "cp": "14200",
+      "schedule": "",
+      "subTitle": "E10439 - E.S. TLALPAN",
+      "image": "",
+      "products": [
+         1,
+         2,
+         3
+      ],
+      "phone": "",
+      "email": "",
+      "url": "http://www.estaciontlalpan.com"
+   },
+   {
+      "name": "E.S. TÉLIX",
+      "location": {
+         "lng": 19.387609,
+         "lat": -99.003477
+      },
+      "address": "Avenida Pantitlán No. 533, Col. La Perla",
+      "city": "Nezahualcóyotl",
+      "state": "Estado de México",
+      "cp": "57820",
+      "schedule": "",
+      "subTitle": "E07420 - E.S. TÉLIX",
+      "image": "",
+      "products": [
+         1,
+         2
+      ],
+      "phone": "",
+      "email": "",
+      "url": "http://www.estaciontextil.com"
+   }
+]

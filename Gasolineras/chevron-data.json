@@ -1,0 +1,8 @@
+stations.push(new aStation('9999-14058', 'Ca&#241;on Del Sainz', 'Avenida del Roble No. 14058', '', 32.43441, -116.953, 'baja california', 'tijuana'));
+stations.push(new aStation('9999-19161', 'Loma Dorada', 'Circuito Loma Dorada No. 19161', '', 32.49984, -116.909, 'baja california', 'tijuana'));
+stations.push(new aStation('9999-199', 'La Union', 'Carretera a San Felipe No. 199', '', 32.60459, -115.436, 'baja california', 'mexicali'));
+stations.push(new aStation('9999-4690', 'Flamingos', 'Boulevard Cuauht&#233;moc Sur No. 4690', '', 32.49725, -117.02, 'baja california', 'tijuana'));
+stations.push(new aStation('9999-16500', 'Los Alamos', 'Boulevard Insurgentes No. 16500', '', 32.50465, -116.952, 'baja california', 'tijuana'));
+stations.push(new aStation('9999-902', 'Otay Tecnologico', 'Calle 4ta. Sur No. 902', '', 32.53723, -116.923, 'baja california', 'tijuana'));
+stations.push(new aStation('9999-18378', 'Gato Bronco', 'Boulevard Manuel J. Clouthier No. 18378', '', 32.49483, -116.924, 'baja california', 'tijuana'));
+stations.push(new aStation('9999-23460', 'Las Fuentes', 'Ca&#241;adas del Florido 30 No 23460', '', 32.46892, -116.846, 'baja california', 'tijuana'));

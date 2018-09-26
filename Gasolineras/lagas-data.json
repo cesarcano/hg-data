@@ -1,0 +1,801 @@
+{
+	"venues":[
+		{
+			"id":"E07511",
+			"name":"LA GAS | MÉRIDA NORTE",
+			"estado":"Yucatán",
+			"ciudad":"Mérida",
+			"direccion":"Calle 9-A No 304 X 12 Y 12-A Col Santa Gertrudis Copo, CP 97305 Merida, Yucatan",
+			"contact":{},
+			"check":1,
+			"location":
+			{
+				"lat":21.036518,
+				"lng":-89.591495,
+				"cc":"MX",
+				"country":"México",
+				"formattedAddress":["México"]
+			}
+		},
+		{
+			"id":"E11517",
+			"check":1,
+			"name":"LA GAS | KANISTE",
+			"estado":"Campeche",
+			"ciudad":"Campeche",
+			"direccion":"Avenida Jose Lopez Portillo s/n Col. Fraccionamiento Kaniste C.P. 24038 Campeche, Campeche",
+			"contact":{},
+			"location":
+			{
+				"lat":19.826327,
+				"lng":-90.552363,
+				"cc":"MX",
+				"country":"México",
+				"formattedAddress":["México"]
+			}
+		},
+		{
+			"id":"E06612",
+			"check":1,
+			"name":"LA GAS | AMERICAS",
+			"estado":"Quintana Roo",
+			"ciudad":"Cancún",
+			"direccion":"MZA 8 MZA 1 LOTE 3 INT B AV. TULUM ESQ. NICHUPTE (PLAZA LAS AMERICAS)",
+			"contact":{},
+			"location":
+			{
+				"lat":21.14392,
+				"lng":-86.82313,
+				"cc":"MX",
+				"country":"México",
+				"formattedAddress":["México"]
+			}
+		},{
+			"id":"E06001",
+			"check":1,
+			"name":"LA GAS | MINA",
+			"estado":"Villahermosa",
+			"ciudad":"Tabasco",
+			"direccion":"Prolongacion Paseo Francisco Javier Mina y Eusebio Castillo, No. 324, Col. Casa Blanca, C.P. 88060 Centro, Tabasco.",
+			"contact":{},
+			"location":
+			{
+				"lat":18.000339,
+				"lng":-92.919689,
+				"cc":"MX",
+				"country":"México",
+				"formattedAddress":["México"]
+			}
+		},{
+			"id":"E06001",
+			"check":1,
+			"name":"LA GAS | CD. PEMEX",
+			"estado":"Macuspana",
+			"ciudad":"Tabasco",
+			"direccion":"Carretera El Portón-Cd Pemex km 23 rancheria el Limón segunda sección, C.P. 86727, Macuspana, Tabasco",
+			"contact":{},
+			"location":
+			{
+				"lat":17.84571,
+				"lng":-92.50108,
+				"cc":"MX",
+				"country":"México",
+				"formattedAddress":["México"]
+			}
+		},
+		{
+			"id":"E07803",
+			"check":1,
+			"name":"LA GAS | HEROES",
+			"estado":"Qintanta Roo",
+			"ciudad":"Chetumal",
+			"direccion":"Av. Insurgentes Nùm. 288 Col. Leona Vicario, Mza. 14 lotes 1,2,5 y 06 Zona XLII, C.P. 77016 Othón P. Blanco, Quintana Roo.",
+			"contact":{},
+			"location":
+			{
+				"lat":18.519590,
+				"lng":-88.299580,
+				"cc":"MX",
+				"country":"México",
+				"formattedAddress":["México"]
+			}
+		},
+		{
+			"id":"E07803",
+			"check":1,
+			"name":"LA GAS | OTOCH",
+			"estado":"Qintanta Roo",
+			"ciudad":"Chetumal",
+			"direccion":"Avenida Insurgentes #41 lote 1 Esquina Avenida Universidad, Chetumal Q. Roo, C.P. 77058",
+			"contact":{},
+			"location":
+			{
+				"lat":18.51364,
+				"lng":-88.27996,
+				"cc":"MX",
+				"country":"México",
+				"formattedAddress":["México"]
+			}
+		},
+		{
+			"id":"E07803",
+			"check":1,
+			"name":"LA GAS | KUKULCÁN",
+			"estado":"Qintanta Roo",
+			"ciudad":"Chetumal",
+			"direccion":"Av. Álvaro Obregón #342,346 y 348  Col. Centro, Chetumal, Q. Roo C.P. 77000",
+			"contact":{},
+			"location":
+			{
+				"lat":18.49746,
+				"lng":-88.30565,
+				"cc":"MX",
+				"country":"México",
+				"formattedAddress":["México"]
+			}
+		},
+		{
+			"id":"E07804",
+			"check":1,
+			"name":"LA GAS | BENITO JUAREZ",
+			"estado":"Campeche",
+			"ciudad":"Campeche",
+			"direccion":"Prolongación de la Avenida Benito Juárez entre calle 11 y 13 # 24, Poblado de IMI, C.P. 24560, Campeche, Campeche",
+			"contact":{},
+			"location":
+			{
+				"lat":19.874144,
+				"lng":-90.488439,
+				"cc":"MX",
+				"country":"México",
+				"formattedAddress":["México"]
+			}
+		},
+		{
+			"id":"E05941",
+			"check":1,
+			"name":"LA GAS | AGUA VERDE",
+			"estado":"Puerto Aventuras",
+			"ciudad":"Quintanta Roo",
+			"direccion":"Lote 2, Manzana 29, Plano 03, Bahía Akumal, Puerto, Aventuras, Q. Roo",
+			"contact":{},
+			"location":
+			{
+				"lat":20.506011,
+				"lng":-87.229171,
+				"cc":"MX",
+				"country":"México",
+				"formattedAddress":["México"]
+			}
+		},
+		{
+			"id":"E12532",
+			"check":1,
+			"name":"LA GAS | SODZIL",
+			"estado":"Yucatán",
+			"ciudad":"Mérida",
+			"direccion":"Anillo Periférico Manuel Berzunza x 19 diagonal y 26 Tablaje catastral 38980 CP 97302 Col Sodzil Mérida Yucatán (A un costado de Acerofertas)",
+			"contact":{},
+			"location":
+			{
+				"lat":21.0439759,
+				"lng":-89.6137153,
+				"cc":"MX",
+				"country":"México",
+				"formattedAddress":["México"]
+			}
+		},
+		{
+			"id":"E06327",
+			"check":1,
+			"name":"LA GAS | VISTA ALEGRE",
+			"estado":"Yucatán",
+			"ciudad":"Mérida",
+			"direccion":"Calle 7 No 512 Col Maya, CP 97134 Merida, Yucatan",
+			"contact":{},
+			"location":
+			{
+				"lat":21.021743,
+				"lng":-89.576478,
+				"cc":"MX",
+				"country":"México",
+				"formattedAddress":["México"]
+			}
+		},
+		{
+			"id":"E04692",
+			"check":1,
+			"name":"LA GAS | TANLUM",
+			"estado":"Yucatán",
+			"ciudad":"Mérida",
+			"direccion":"CALLE 8a X Circuito Colonias y 39 Colonia Pedregales de Tanlum, Mérida, Yucatán",
+			"contact":{},
+			"location":
+			{
+				"lat":20.997678,
+				"lng":-89.628362,
+				"cc":"MX",
+				"country":"México",
+				"formattedAddress":["México"]
+			}
+		},
+		{
+			"id":"E04692",
+			"check":1,
+			"name":"LA GAS | REAL MONTEJO",
+			"estado":"Yucatán",
+			"ciudad":"Mérida",
+			"direccion":"Calle 51 No. 640 entre Calle 53 y Calle 51B Real Montejo, Mérida, Yucatán C.P. 97302",
+			"contact":{},
+			"location":
+			{
+				"lat":21.03826,
+				"lng":-89.66869,
+				"cc":"MX",
+				"country":"México",
+				"formattedAddress":["México"]
+			}
+		},
+		{
+			"id":"E06901",
+			"check":1,
+			"name":"LA GAS | ISLA DE TRIS",
+			"estado":"Campeche",
+			"ciudad":"Carmen",
+			"direccion":"Av. Isla de Tris No. 111 Col. Francisco I. Madero, C.P. 24190, localidad Ciudad del Carmen, Campeche ",
+			"contact":{},
+			"location":
+			{
+				"lat":18.648170,
+				"lng":-91.804850,
+				"cc":"MX",
+				"country":"México",
+				"formattedAddress":["México"]
+			}
+		},
+		{
+			"id":"E06901",
+			"check":1,
+			"name":"LA GAS | ISLA AGUADA",
+			"estado":"Campeche",
+			"ciudad":"Carmen",
+			"direccion":"Manzana 46 Zona 1 Lote 1 S/N C.P. 24100 Isla Aguada, Municipio del Carmen, Campeche",
+			"contact":{},
+			"location":
+			{
+				"lat":18.78428,
+				"lng":-91.49183,
+				"cc":"MX",
+				"country":"México",
+				"formattedAddress":["México"]
+			}
+		},
+		{
+			"id":"E11144",
+			"check":1,
+			"name":"LA GAS | CHILUCA",
+			"estado":"Tulum",
+			"ciudad":"Quintana Roo",
+			"direccion":"Región 11 de la Reserva Territorial del IPAE Manzana 13 Local 1, Tulum Quintana Roo C.P. 77760",
+			"contact":{},
+			"location":
+			{
+				"lat":20.216260,
+				"lng":-87.445999,
+				"cc":"MX",
+				"country":"México",
+				"formattedAddress":["México"]
+			}
+		},
+		{
+			"id":"E12540",
+			"check":1,
+			"name":"LA GAS | CANEK",
+			"estado":"Mérida",
+			"ciudad":"Yucatán",
+			"direccion":"CANEK Calle 59-A #601 x 88 y 90 Col. Centro CP97000",
+			"contact":{},
+			"location":
+			{
+				"lat":20.977244,
+				"lng":-89.643179,
+				"cc":"MX",
+				"country":"México",
+				"formattedAddress":["México"]
+			}
+		},
+		{
+			"id":"E12540",
+			"check":1,
+			"name":"LA GAS | JUAN PABLO III",
+			"estado":"Mérida",
+			"ciudad":"Yucatán",
+			"direccion":"Calle 63 No. 302A Fracc. Juan Pablo II entre calle 18 y calle 20 Mérida, Yucatán, C.P. 97246",
+			"contact":{},
+			"location":
+			{
+				"lat":20.95944,
+				"lng":-89.67609,
+				"cc":"MX",
+				"country":"México",
+				"formattedAddress":["México"]
+			}
+		},
+		{
+			"id":"E06427",
+			"check":1,
+			"name":"LA GAS | MAR CARIBEÑO",
+			"estado":"Quintana Roo",
+			"ciudad":"Benito Juárez",
+			"direccion":"Region 228, Mza. 104, Lotes 14,15 y 16, Cancun Quintana Roo",
+			"contact":{},
+			"location":
+			{
+				"lat":21.175064,
+				"lng":-86.860414,
+				"cc":"MX",
+				"country":"México",
+				"formattedAddress":["México"]
+			}
+		},
+		{
+			"id":"E09568",
+			"check":1,
+			"name":"LA GAS | CAPOTE",
+			"estado":"Quintana Roo",
+			"ciudad":"Benito Juárez",
+			"direccion":"Blvd. Luis Donaldo Colosio Smz. 57, Mza. 03, Lote 18-04 (entrada al Fracc. Las Americas) Cancun, Benito Juarez, Quintana Roo",
+			"contact":{},
+			"location":
+			{
+				"lat":21.126273,
+				"lng":-86.832445,
+				"cc":"MX",
+				"country":"México",
+				"formattedAddress":["México"]
+			}
+		},
+		{
+			"id":"E11159",
+			"check":1,
+			"name":"LA GAS | SANTA BLANCA",
+			"estado":"Quintana Roo",
+			"ciudad":"Benito Juárez",
+			"direccion":"Calle Heberto Castillo MartinezL, Lote 451-05, Manzana 01, Smza 244, C.P. 77500, Cancun, Quintana Roo.",
+			"contact":{},
+			"location":
+			{
+				"lat":21.2056,
+				"lng":-86.84255,
+				"cc":"MX",
+				"country":"México",
+				"formattedAddress":["México"]
+			}
+		},
+		{
+			"id":"E04646",
+			"check":1,
+			"name":"LA GAS | FRANCISCO DE MONTEJO",
+			"estado":"Yucatán",
+			"ciudad":"Mérida",
+			"direccion":"Periferico Tab. Cat. No. 13950. Fcon de Montejo (al lado de transo yucarro) bajo el puente de Dzitia",
+			"contact":{},
+			"location":
+			{
+				"lat":21.034022,
+				"lng":-89.655860,
+				"cc":"MX",
+				"country":"México",
+				"formattedAddress":["México"]
+			}
+		},
+		{
+			"id":"E07239",
+			"check":1,
+			"name":"LA GAS | OCUITZAPOTITLAN",
+			"estado":"Tabasco",
+			"ciudad":"Villahermosa",
+			"direccion":"Carretera Villahermosa Frontera Km. 15 s/n, C.P. 86270, Medellin y Madero 2a. Sección, Villahermosa, Tabasco",
+			"contact":{},
+			"location":
+			{
+				"lat":18.113959,
+				"lng":-92.864857,
+				"cc":"MX",
+				"country":"México",
+				"formattedAddress":["México"]
+			}
+		},
+		{
+			"id":"E12024",
+			"check":1,
+			"name":"LA GAS | UMAN",
+			"estado":"Yucatán",
+			"ciudad":"Mérida",
+			"direccion":"Km 19.5 Carretera Merida-Uman c. 21 No 471 Col. Ampliación Ciudad Industrial (a un costado de la empresa Dypaq ) ",
+			"contact":{},
+			"location":
+			{
+				"lat":20.919079,
+				"lng":-89.700583,
+				"cc":"MX",
+				"country":"México",
+				"formattedAddress":["México"]
+			}
+		},
+		{
+			"id":"E06489",
+			"check":1,
+			"name":"LA GAS | ESCARCEGA",
+			"estado":"Campeche",
+			"ciudad":"Escarcega",
+			"direccion":"Calle 30 mza.2, zona 1, Lote 1, Colonia Unidad, Esfuerzo y Trabajo II C.P. 24350,  Escarcega Campeche.",
+			"contact":{},
+			"location":
+			{
+				"lat":18.607610,
+				"lng":-90.747890,
+				"cc":"MX",
+				"country":"México",
+				"formattedAddress":["México"]
+			}
+		},
+		{
+			"id":"E03580",
+			"check":1,
+			"name":"LA GAS | SAN JOSE",
+			"estado":"Campeche",
+			"ciudad":"Carmen",
+			"direccion":"Carretera Escárcega Villahermosa km. 239,  región del bajo Candelaria,  c.p. 24100 Municipio del Carmen,  Campeche.",
+			"contact":{},
+			"location":
+			{
+				"lat":18.388420,
+				"lng":-91.191860,
+				"cc":"MX",
+				"country":"México",
+				"formattedAddress":["México"]
+			}
+		},
+		{
+			"id":"E06645",
+			"check":1,
+			"name":"LA GAS|  KABAH",
+			"estado":"Quintana Roo",
+			"ciudad":"Cancún",
+			"direccion":"Smza 17 Mza 3 Lote 1 Y 2 s/n Av. Libramiento Kabah-Copan (Parque Kabah) ",
+			"contact":{},
+			"location":
+			{
+				"lat":21.1431,
+				"lng":-86.83428,
+				"cc":"MX",
+				"country":"México",
+				"formattedAddress":["México"]
+			}
+		},
+		{
+			"id":"E07244",
+			"check":1,
+			"name":"LA GAS | ACORO",
+			"estado":"Quintana Roo",
+			"ciudad":"Cancún",
+			"direccion":"Av. Nichupte y Kinik Mza 1 Lote 1 Smza 51 Cancun Q.Roo (Gran Plaza) ",
+			"contact":{},
+			"location":
+			{
+				"lat":21.14064,
+				"lng":-86.8558,
+				"cc":"MX",
+				"country":"México",
+				"formattedAddress":["México"]
+			}
+		},
+		{
+			"id":"E07244C",
+			"check":1,
+			"name":"LA GAS | CAUCEL",
+			"estado":"Yucatán",
+			"ciudad":"Mérida",
+			"direccion":"Carr Merida-Caucel Tab Cat 10075 CP 97300 (a espaldas de walt mart) ",
+			"contact":{},
+			"location":
+			{
+				"lat":20.997824,
+				"lng":-89.675920,
+				"cc":"MX",
+				"country":"México",
+				"formattedAddress":["México"]
+			}
+		},
+		{
+			"id":"EXXX",
+			"check":1,
+			"name":"LA GAS | CANDELARIA",
+			"estado":"Campeche",
+			"ciudad":"Campeche",
+			"direccion":"Calle 23 s/n y calle s/nombre Infonavit Las Palmas III 24029 Candelaria, Campeche",
+			"contact":{},
+			"location":
+			{
+				"lat":18.195670,
+				"lng":-91.046200,
+				"cc":"MX",
+				"country":"México",
+				"formattedAddress":["México"]
+			}
+		},
+		{
+			"id":"E07244B",
+			"check":1,
+			"name":"LA GAS | UNIVERSIDAD",
+			"estado":"TABASCO",
+			"ciudad":"CENTRO",
+			"direccion":"Av. Universidad No. 228 Col. Casa Blanca, C.P. 86060, Centro Tabasco",
+			"contact":{},
+			"location":
+			{
+				"lat":18.005681,
+				"lng":-92.924247,
+				"cc":"MX",
+				"country":"México",
+				"formattedAddress":["México"]
+			}
+		},
+		{
+			"id":"E00545",
+			"check":1,
+			"name":"LA GAS | KANASÍN",
+			"estado":"YUCATÁN",
+			"ciudad":"KANASÍN",
+			"direccion":"Calle 19 Num. 25 x 36 Centro, Kanasin , Yucatan CP97370",
+			"contact":{},
+			"location":
+			{
+				"lat":20.939701,
+				"lng":-89.567602,
+				"cc":"MX",
+				"country":"México",
+				"formattedAddress":["México"]
+			}
+		},
+		{
+			"id":"E0000",
+			"check":1,
+			"name":"LA GAS | KOBÉN",
+			"estado":"CAMPECHE",
+			"ciudad":"CAMPECHE",
+			"direccion":"Carretera federal 180 campeche-merida km 12+035 tramo campeche-koben cp 24500",
+			"contact":{},
+			"location":
+			{
+				"lat":19.900596,
+				"lng":-90.447301,
+				"cc":"MX",
+				"country":"México",
+				"formattedAddress":["México"]
+			}
+		},
+		{
+			"id":"E00000",
+			"check":1,
+			"name":"LA GAS | LÁZARO CÁRDENAS",
+			"estado":"CAMPECHE",
+			"ciudad":"CAMPECHE",
+			"direccion":"Av. Lazaro cardenas s/n entre calle peru y solidaridad col. Las flores, san francisco campeche, campeche cp 24097",
+			"contact":{},
+			"location":
+			{
+				"lat":19.821336,
+				"lng":-90.525850,
+				"cc":"MX",
+				"country":"México",
+				"formattedAddress":["México"]
+			}
+		},
+				{
+			"id":"E00000",
+			"check":1,
+			"name":"LA GAS | FEDERACUN",
+			"estado":"QUINTANA ROO",
+			"ciudad":"SOLIDARIDAD",
+			"direccion":"Av. 45 norte col. Luis Donaldo Colosio II, Mz 559, Lote 03,04,05 y 06 Playa del Carmen Quintana Roo. Cp 77710",
+			"contact":{},
+			"location":
+			{
+				"lat":20.655146,
+				"lng":-87.06439,
+				"cc":"MX",
+				"country":"México",
+				"formattedAddress":["México"]
+			}
+		},
+		{
+			"id":"E00000",
+			"check":1,
+			"name":"LA GAS | POXILÁ",
+			"estado":"CAMPECHE",
+			"ciudad":"CAMPECHE",
+			"direccion":"Carretera federal 180 campeche-merida km 139 T.C 5967 parcela 108 Z-6 p1/1 Poxilá, Uman, Yucatan",
+			"contact":{},
+			"location":
+			{
+				"lat":20.7897848,
+				"lng":-89.8162019,
+				"cc":"MX",
+				"country":"México",
+				"formattedAddress":["México"]
+			}
+		},
+		{
+			"id":"E00000",
+			"check":1,
+			"name":"LA GAS | PERIFÉRICO PONIENTE",
+			"estado":"YUCATÁN",
+			"ciudad":"Mérida",
+			"direccion":"Anillo Periférico Manuel Berzunza Colonia Felipe Carillo Puerto Ampliación Cd. Industrial Tablaje Catastral 19016 Mérida, Yucatán, C.P. 97288",
+			"contact":{},
+			"location":
+			{
+				"lat":20.95006,
+				"lng":-89.703,
+				"cc":"MX",
+				"country":"México",
+				"formattedAddress":["México"]
+			}
+		},
+		{
+			"id":"E00000",
+			"check":1,
+			"name":"LA GAS | PERIFÉRICO CAMPECHE",
+			"estado":"CAMPECHE",
+			"ciudad":"CAMPECHE",
+			"direccion":"Carretera Campeche Tenabo Km. 12.070, c.p. 24520  en China Campeche, Campeche ",
+			"contact":{},
+			"location":
+			{
+				"lat":19.7918429,
+				"lng":-90.61275628,
+				"cc":"MX",
+				"country":"México",
+				"formattedAddress":["México"]
+			}
+		},
+		{
+			"id":"E00000",
+			"check":1,
+			"name":"LA GAS | POMUCH",
+			"estado":"CAMPECHE",
+			"ciudad":"POMUCH",
+			"direccion":"Carretera Federal Campeche Mérida, Tramo Tenabo Hecelchakán, Km. 53.260 en el municipio de Hecelchakan Pomuch Campeche ",
+			"contact":{},
+			"location":
+			{
+				"lat":20.1324,
+				"lng":-90.16732,
+				"cc":"MX",
+				"country":"México",
+				"formattedAddress":["México"]
+			}
+		},
+		{
+			"id":"E00000",
+			"check":1,
+			"name":"LA GAS | PERIFÉRICO ORIENTE",
+			"estado":"MÉRIDA",
+			"ciudad":"YUCATÁN",
+			"direccion":"Calle 25-C ANILLO PERIFERICO No. 600 col. BENITO JUAREZ  CP 97178,  Merida, Yucatán México",
+			"contact":{},
+			"location":
+			{
+				"lat":20.95618,
+				"lng":-89.56865,
+				"cc":"MX",
+				"country":"México",
+				"formattedAddress":["México"]
+			}
+		},
+		{
+			"id":"E10827",
+			"check":1,
+			"name":"LA GAS | MATEMÁTICAS",
+			"estado":"MÉRIDA",
+			"ciudad":"YUCATÁN",
+			"direccion":"Calle 1 x 54-A y 56 # 218-T Col. Chuburna de hidalgo,  C.P. 97200 Merida Yucatan, ",
+			"contact":{},
+			"location":
+			{
+				"lat":21.047977,
+				"lng":-89.645004,
+				"cc":"MX",
+				"country":"México",
+				"formattedAddress":["México"]
+			}
+		},
+			{
+			"id":"E10827",
+			"check":1,
+			"name":"LA GAS | XCUMPICH",
+			"estado":"YUCATÁN",
+			"ciudad":"MÉRIDA",
+			"direccion":"Calle 3 # 239 x 34 y 60 Col. Xcumpich, Merida Yucatan Mexico, CP. 97204",
+			"contact":{},
+			"location":
+			{
+				"lat":21.040701,
+				"lng":-89.631808,
+				"cc":"MX",
+				"country":"México",
+				"formattedAddress":["México"]
+			}
+		},
+		{
+			"id":"E10828",
+			"check":1,
+			"name":"LA GAS | CIUDAD INDUSTRIAL",
+			"estado":"QUINTANA ROO",
+			"ciudad":"CANCÚN",
+			"direccion":"SM 97 MZA 11 X COMALCALCO S/N LOTE 11 Y 12  COL. CIUDAD INDUSTRIAL CP 77530 Benito Juarez, Cancun Quintana Roo",
+			"contact":{},
+			"location":
+			{
+				"lat":21.1483056,
+				"lng":-86.860272,
+				"cc":"MX",
+				"country":"México",
+				"formattedAddress":["México"]
+			}
+		},
+			{
+			"id":"E10829",
+			"check":1,
+			"name":"LA GAS | MOON PALACE",
+			"estado":"QUINTANA ROO",
+			"ciudad":"CANCÚN",
+			"direccion":"MZA. 13 LOTE 3, SM48,  Benito Juarez, Cancún, Q. Roo CP. 77506",
+			"contact":{},
+			"location":
+			{
+				"lat":20.979004,
+				"lng":-86.8602501,
+				"cc":"MX",
+				"country":"México",
+				"formattedAddress":["México"]
+			}
+		},
+		{
+			"id":"E04524",
+			"check":1,
+			"name":"LA GAS | CHICHÍ SUÁREZ",
+			"estado":"YUCATÁN",
+			"ciudad":"MÉRIDA",
+			"direccion":"Calle 35 Lote 44-A y 45-A x 20 Poligono 108 Itzimna ( Frente a la Ixtabay)",
+			"contact":{},
+			"location":
+			{
+				"lat":20.998029,
+				"lng":-89.571016,
+				"cc":"MX",
+				"country":"México",
+				"formattedAddress":["México"]
+			}
+		},
+		{
+			"id":"E04524",
+			"check":1,
+			"name":"LA GAS | CHICHÍ 3",
+			"estado":"YUCATÁN",
+			"ciudad":"MÉRIDA",
+			"direccion":"Calle 43 No. 200 x 4 y 6 Colonia Leandro Valle",
+			"contact":{},
+			"location":
+			{
+				"lat":20.99428,
+				"lng":-89.5625,
+				"cc":"MX",
+				"country":"México",
+				"formattedAddress":["México"]
+			}
+		}
+]
+}

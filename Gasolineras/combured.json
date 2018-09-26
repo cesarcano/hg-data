@@ -1,0 +1,42 @@
+[
+   {
+      "address": "Golfo de México 112",
+      "store": "La Posada",
+      "thumb": "<img width=\"45\" height=\"45\" src=\"http://combured.com.mx/wp-content/uploads/2016/11/combured-La-Posada-150x150.jpg\" class=\"wpsl-store-thumb wp-post-image\" alt=\"La Posada\" />",
+      "id": "27",
+      "distance": 2.9,
+      "permalink": "http://combured.com.mx/stores/la-posada/",
+      "address2": "Santa fé",
+      "city": "San Luis Potosí",
+      "state": "San Luis Potosí",
+      "zip": "78070",
+      "country": "México",
+      "lat": "22.144978",
+      "lng": "-100.946287",
+      "phone": "(444)818.15.03",
+      "fax": "",
+      "email": "",
+      "hours": "<table class=\"wpsl-opening-hours\"><tr><td>Lunes</td><td><time>9:00 AM - 5:00 PM</time></td></tr><tr><td>Martes</td><td><time>9:00 AM - 5:00 PM</time></td></tr><tr><td>Miércoles</td><td><time>9:00 AM - 5:00 PM</time></td></tr><tr><td>Jueves</td><td><time>9:00 AM - 5:00 PM</time></td></tr><tr><td>Viernes</td><td><time>9:00 AM - 5:00 PM</time></td></tr><tr><td>Sábado</td><td>Cerrado</td></tr><tr><td>Domingo</td><td>Cerrado</td></tr></table>",
+      "url": ""
+   },
+   {
+      "address": "Av. Motales Saucito 2425",
+      "store": "Morales",
+      "thumb": "<img width=\"45\" height=\"45\" src=\"http://combured.com.mx/wp-content/uploads/2016/11/Combured-Morales-Las-Vias900x400-150x150.jpg\" class=\"wpsl-store-thumb wp-post-image\" alt=\"Morales\" />",
+      "id": "30",
+      "distance": 5,
+      "permalink": "http://combured.com.mx/stores/morales/",
+      "address2": "La loma",
+      "city": "San Luis Potosí",
+      "state": "San Luis Potosí",
+      "zip": "",
+      "country": "México",
+      "lat": "22.168183",
+      "lng": "-101.018579",
+      "phone": "(444)841-2482",
+      "fax": "",
+      "email": "",
+      "hours": "<table class=\"wpsl-opening-hours\"><tr><td>Lunes</td><td><time>9:00 AM - 5:00 PM</time></td></tr><tr><td>Martes</td><td><time>9:00 AM - 5:00 PM</time></td></tr><tr><td>Miércoles</td><td><time>9:00 AM - 5:00 PM</time></td></tr><tr><td>Jueves</td><td><time>9:00 AM - 5:00 PM</time></td></tr><tr><td>Viernes</td><td><time>9:00 AM - 5:00 PM</time></td></tr><tr><td>Sábado</td><td>Cerrado</td></tr><tr><td>Domingo</td><td>Cerrado</td></tr></table>",
+      "url": ""
+   }
+]

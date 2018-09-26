@@ -1,0 +1,500 @@
+[
+  {
+     "direccion": "Blvd Mariano Abasolo entre Jalisco y Oaxaca",
+     "lat": -110.331088,
+     "lng": 24.145463,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Papaya No. 210",
+     "lat": -96.15932,
+     "lng": 19.14461,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Avenida Acueducto, 1996",
+     "lat": -103.4258,
+     "lng": 20.74452,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Avenida Acueducto 1555",
+     "lat": -103.4254,
+     "lng": 20.74036,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Carretera México - Veracruz Km 44.5, Col. San Simón",
+     "lat": -98.86069,
+     "lng": 19.52645,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Avenida Benito Juárez Y Avenida Pargo Mz. 089",
+     "lat": -114.290777,
+     "lng": 27.145688,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Avenida Demetrio Ruiz Malerva No. 33 B",
+     "lat": -97.41624,
+     "lng": 20.95113,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Avenida Poniente Miguel Alemán No. 1456",
+     "lat": -96.13546,
+     "lng": 19.17411,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Camino Nacional No. 470",
+     "lat": -97.12173,
+     "lng": 18.83869,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Carretera México-Pachuca Km 79+370",
+     "lat": -98.7988,
+     "lng": 20.0343,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Boulevard Capitán Carlos Camacho Espíritu No. 161 C",
+     "lat": -98.1746,
+     "lng": 18.96381,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Avenida Chimalhuacán No. 1",
+     "lat": -98.9801,
+     "lng": 19.38935,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Carretera Federal México-Cuautla Km. 57 S/N, Col. San Francisco Zentlalpan",
+     "lat": -98.776837,
+     "lng": 19.149846,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Avenida del Peñón Esquina Pachtli No. 14",
+     "lat": -98.9619,
+     "lng": 19.4298,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Avenida Cuauhtémoc 4421, Residencial Ayotla",
+     "lat": -98.934128,
+     "lng": 19.31565,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Plaza San Marcos 4105 S/N, Plaza de Aragón",
+     "lat": -99.037116,
+     "lng": 19.486942,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Avenida Miguel A. de Quevedo No. 5872",
+     "lat": -96.14207,
+     "lng": 19.17853,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Avenida Pantitlán No. 333 Mz.8 Lt. 1-26, Col. Evolución",
+     "lat": -99.02505,
+     "lng": 19.39814,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Autopista México-Veracruz Km 258+100",
+     "lat": -97.21061,
+     "lng": 18.81594,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Carretera Nacional Cordoba-Veracruz Km 7+887.5",
+     "lat": -96.8717,
+     "lng": 18.8584,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Boulevard Adolfo Ruiz Cortines No. 1204",
+     "lat": -97.45456,
+     "lng": 20.54098,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Boulevard Benito Juárez No. 1",
+     "lat": -96.1286,
+     "lng": 18.09306,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Km 325 Carrt. Fed. Mexico-Veracruz, Col. Loc. Cuautlalpan",
+     "lat": -97.02684,
+     "lng": 18.87478,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Ángel de la Independencia 292, Evolución",
+     "lat": -99.026014,
+     "lng": 19.399098,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Carretera México-Tulancingo Km 25+300 Lado Izquierdo",
+     "lat": -98.83754,
+     "lng": 19.67706,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Avenida Juárez No. 125, Col. Aurora",
+     "lat": -97.160769,
+     "lng": 18.827149,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Avenida Circunvalación Esquina Oriente 7 No. 2677",
+     "lat": -97.0891,
+     "lng": 18.85722,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Prolongacion de Sur 13/ Primo de V. Y. T. Peñafiel No. 1596",
+     "lat": -97.09373,
+     "lng": 18.83758,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Av. Chimalhuacán No. 361, Manzana 18-A, Lote 01-02, Col. Evolución",
+     "lat": -99.014582,
+     "lng": 19.405338,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Valle Atemajac 2323",
+     "lat": -103.4309,
+     "lng": 20.74139,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Boulevard Avenida Fundadores de San Rafael Oriente No. 611, San Rafael,",
+     "lat": -96.86853,
+     "lng": 20.19351,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Avenida 11 No. 3418",
+     "lat": -96.95351,
+     "lng": 18.9015,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Carretera Chalco-Tlahuac No. 500",
+     "lat": -98.903102,
+     "lng": 19.264388,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Avenida Americas No.666",
+     "lat": -103.373,
+     "lng": 20.68849,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Todos los Santos 178, Cabo San Lucas",
+     "lat": -109.949824,
+     "lng": 22.909266,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Plan de Tuxtepec No. 1",
+     "lat": -96.13903,
+     "lng": 18.08178,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Avenida Adolfo López Mateos 198",
+     "lat": -97.4054,
+     "lng": 20.96486,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Acceso Cazones II",
+     "lat": -97.4681,
+     "lng": 20.55395,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Autopista México-Puebla KM 35+500 S/N, San Marcos Huixtoco",
+     "lat": -98.833257,
+     "lng": 19.308769,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Avenida Gobierno Luis G Curiel No. 2446",
+     "lat": -103.3521,
+     "lng": 20.64067,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Carretera México - Veracruz Km 49",
+     "lat": -98.65619,
+     "lng": 19.56922,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Boulevard Adolfo López Mateos 2173. Col. Los Alpes",
+     "lat": -99.198685,
+     "lng": 19.356815,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Libramiento Poniente S/N",
+     "lat": -93.38528,
+     "lng": 16.76469,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Chimalhuacán 234, Agua Azul",
+     "lat": -99.032229,
+     "lng": 19.414471,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Avenida Ignacio L. Vallarta 2605, Arcos Vallarta",
+     "lat": -103.3842,
+     "lng": 20.67416,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Avenida Miguel Alemán No. 415",
+     "lat": -96.13724,
+     "lng": 19.18351,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Avenida 20 de Noviembre No. 998",
+     "lat": -97.44511,
+     "lng": 20.53864,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Avenida Melchor Ocampo No. 512, Martínez de la Torre",
+     "lat": -97.05897,
+     "lng": 20.06059,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Basílica de Guadalupe 3, Metropolitana 2nda sección",
+     "lat": -99.029861,
+     "lng": 19.388199,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Carretera Estatal Martínez-Misantla Km 1 No. 800, Martínez de la Torre",
+     "lat": -97.04571,
+     "lng": 20.05432,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Km 83.5 Carretera Poza Rica-Nautla",
+     "lat": -96.888426,
+     "lng": 20.343294,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Carretera Ocozocoautla Km 132+70",
+     "lat": -93.2966,
+     "lng": 16.76811,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Carretera Huixtla Tapachula Km 281+656",
+     "lat": -92.34282,
+     "lng": 14.91567,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Avenida Oriente 31 No. 240 y Calle 4 Norte",
+     "lat": -97.10865,
+     "lng": 18.86332,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Oriente 6 No. 2900",
+     "lat": -97.0785,
+     "lng": 18.85292,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Carretera Cardel-Nautla-Palma Sola Km 70, ",
+     "lat": -96.43259,
+     "lng": 19.77428,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Carretera La Paz - Pichilingue, S/N. Col. Lomas de Palmira",
+     "lat": -110.300817,
+     "lng": 24.184061,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Boulevard Alamo-Idolo S/N",
+     "lat": -97.66768,
+     "lng": 20.9026,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Avenida Santa Ana S/N, Col. Santa María",
+     "lat": -110.335351,
+     "lng": 24.118816,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Avenida Plutarco Elías Calles 430, Los Reyes",
+     "lat": -99.116821,
+     "lng": 19.398034,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Negrete Sur No. 3",
+     "lat": -97.91933,
+     "lng": 19.2905,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Ejercito Mexicano No. 1123",
+     "lat": -96.11285,
+     "lng": 19.14084,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Boulevard Cordoba-Penuela No. 4358",
+     "lat": -96.9162,
+     "lng": 18.87498,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Autopista México-Cordoba Km 247",
+     "lat": -97.21996,
+     "lng": 18.81609,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Oriente 6 No. 1743 Esquina Sur 33",
+     "lat": -97.08842,
+     "lng": 18.84919,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "República 1436",
+     "lat": -103.3161,
+     "lng": 20.67489,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Avenida Texcoco No. 748, Colonia Floresta Municipio de los Reyes la Paz, ",
+     "lat": -98.9912,
+     "lng": 19.36711,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Avenida Cuauhtémoc Poniente 1500, Mz 19 lote 51, La bomba",
+     "lat": -98.890559,
+     "lng": 19.271119,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Carretera a Coatepec KM 4.4 S/N, San Francisco Acuautla",
+     "lat": -98.856883,
+     "lng": 19.351436,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Lt.2- Mza-1 Zona-7 No. 600 (Km 2 Mtz-Torre-S.Raf), Martínez de la Torre",
+     "lat": -97.033565,
+     "lng": 20.080234,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Carretera Santa Ana-Orizaba No. 1188",
+     "lat": -97.108387,
+     "lng": 18.877115,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Carretera Rural La Ventana-Sargento No. 64",
+     "lat": -109.992825,
+     "lng": 24.069989,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Avenida Avila Camacho 449",
+     "lat": -103.5855472,
+     "lng": 19.88209,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Paseo del Ejército Mexicano, 217",
+     "lat": -96.118875,
+     "lng": 19.141014,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Carretera Picacho Ajusco 537, Lomas de Padierna",
+     "lat": -99.216758,
+     "lng": 19.292797,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Av 16 de Septiembre, 14, Col. Centro",
+     "lat": -99.181092,
+     "lng": 19.668878,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Calle 4 No. 165 Mz-249 L-1 y 10, Col. Estado de México",
+     "lat": -99.051194,
+     "lng": 19.429346,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Avenida Ejercito Nacional No. 1",
+     "lat": -96.80165,
+     "lng": 18.8906,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Frente a La Plaza Principal de La Localidad Santiago",
+     "lat": -109.714524,
+     "lng": 23.481605,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Niños Heroes no. 720, San Pedro",
+     "lat": -103.320897,
+     "lng": 20.627595,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Avenida Sixto Gorjon No. 229",
+     "lat": -103.8330736,
+     "lng": 20.882305,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Carretera Picacho Ajusco 914, Jardines del Ajusco",
+     "lat": -99.214903,
+     "lng": 19.281459,
+     "marca": "RAPSOL"
+  },
+  {
+     "direccion": "Avenida Pantitlán No. 533, Col. La Perla",
+     "lat": -99.003477,
+     "lng": 19.387609,
+     "marca": "RAPSOL"
+  }
+]

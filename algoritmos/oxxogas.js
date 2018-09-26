@@ -7,7 +7,7 @@ $(document).ready(function () {
 function peticion() {
   $.ajax({
     type: "GET",
-    url: "https://raw.githubusercontent.com/cesarcano/hg-data/master/Gasolineras/lagas-data.json",
+    url: "https://raw.githubusercontent.com/cesarcano/hg-data/master/Gasolineras/oxxogas-data.json",
     dataType: "JSON",
     success: function (response) {
       response.forEach(element => {
@@ -21,11 +21,11 @@ function createHGjson(json_item) {
     "direccion" : "",
     "lat" : "",
     "lng" : "",
-    "marca" : "LA GAS"
+    "marca" : "OXXO GAS"
   } 
-  hg_gas.lat = json_item.location.lat
-  hg_gas.lng = json_item.location.lng;
-  hg_gas.direccion = json_item.direccion;
+  hg_gas.lat = json_item.lat
+  hg_gas.lng = json_item.long;
+  hg_gas.direccion = json_item.address;
 
   print(hg_gas);
 }

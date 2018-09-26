@@ -1,0 +1,3050 @@
+[
+  {
+     "direccion": "Av. Colón #100 Ote., esq. Bernardo Reyes, Col. Central. Monterrey, N.L.",
+     "lat": 25.686718,
+     "lng": -100.322927,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Lazaro Cardenas Esq. Alfareros No. 1590,Alfareros,Monterrey,Nuevo Leon",
+     "lat": 25.63722222,
+     "lng": -100.3113889,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Alfonso Reyes Y Calz. Victoria,.,Monterrey,Nuevo Leon",
+     "lat": 25.689553,
+     "lng": -100.317078,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Eugenio Garza Sada #220, Col. Roma. Monterrey, N.L.",
+     "lat": 25.655447,
+     "lng": -100.294518,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Francisco Marquez # 450,Obrera,Monterrey,Nuevo Leon",
+     "lat": 25.676706,
+     "lng": -100.290836,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Solidaridad Pte. R. Frias Y 5 Ene 7070 16 Sep.,.,Monterrey,Nuevo Leon",
+     "lat": 25.730082,
+     "lng": -100.346174,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av.A.Ruiz Cortinez No.3505,Mitras Norte,Monterrey,Nuevo Leon",
+     "lat": 25.705,
+     "lng": -100.3480556,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Revolución #3941,Villa Del Rio,Monterrey,Nuevo Leon",
+     "lat": 25.636447,
+     "lng": -100.272376,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Francisco I. Madero No. 2886,Mitras Sur,Monterrey,Nuevo Leon",
+     "lat": 25.68666667,
+     "lng": -100.3413889,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Felix U. Gomez No. 2820,Moderna,Monterrey,Nuevo Leon",
+     "lat": 25.698101,
+     "lng": -100.294995,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. San Jeronimo # 1001,S/D,Monterrey,Nuevo Leon",
+     "lat": 25.675336,
+     "lng": -100.364178,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Paseo De Los Leones #1239, Cumbres 1er. Sector. Monterrey, N.L.",
+     "lat": 25.697277,
+     "lng": -100.356531,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Constitución #3908, Churubusco, Monterrey, Nuevo León",
+     "lat": 25.682686,
+     "lng": -100.267609,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Luis Donaldo Colosio #311 , Barrio Chapultepec, Cd. Solidaridad, Monterrey, Nuevo León",
+     "lat": 25.763595,
+     "lng": -100.400616,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Prolongación Francisco I. Madero #4345-A Col. Fierro, Monterrey, N.L.",
+     "lat": 25.68613,
+     "lng": -100.268634,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Garza Sada 7105-D Salida a Carr. Nacional",
+     "lat": 25.5975,
+     "lng": -100.2630556,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Penitenciaria 849-A, Col. Ferrocarrilera, Mty, N.L. Entre Martin Campos y Federico Rendon",
+     "lat": 25.723396,
+     "lng": -100.337131,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Gonzalitos 910 Nte Esquina con Lincoln, Col. Mitras Norte",
+     "lat": 25.714471,
+     "lng": -100.350588,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Abraham Lincoln No. 6771, Esq. Celso Cepeda Col. Plutarco Elias Calles, Monterrey, N.L.",
+     "lat": 25.74777778,
+     "lng": -100.3858333,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Lincoln No. 5797 Esq. Antiguos Ejidatarios, Monterey, N.L.",
+     "lat": 25.768129,
+     "lng": -100.41513,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "AV. Vicente Guerrero 3730 Esq. Francisco Gonzalez Bocanegra Monterrey, N.L.",
+     "lat": 25.71333333,
+     "lng": -100.3077778,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Revolución #5200, Col. Contry, Monterrey N.L.",
+     "lat": 25.625695,
+     "lng": -100.273461,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "AV. CABEZADA # 1100 BARRIO MIRASOL 2 SECTOR 66072",
+     "lat": 25.77361111,
+     "lng": -100.3805556,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "AV. FIDEL VELAZQUEZ # 3234 MITRAS NORTE 64320",
+     "lat": 25.716736,
+     "lng": -100.346894,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Venustiano Carranza Sur #480, Col. Maria Luisa. Monterrey, N.L.",
+     "lat": 25.674278,
+     "lng": -100.332853,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "AZTLAN # 7113 GRANJA SANITARIA 30523",
+     "lat": 25.7375,
+     "lng": -100.3502778,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Ruiz Cortinez y Simon Bolivar No.2185, Col. Mitras Centro. Monterrey, Nuevo Leon",
+     "lat": 25.704575,
+     "lng": -100.341953,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "AV. AZTLAN 9300 ESQ. DE LA HUERTA UNIDAD SAN BERNABE IV SECTOR MONTERREY.",
+     "lat": 25.76222222,
+     "lng": -100.3722222,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Emiliano Zapata No. 207, Col. Emiliano Zapata. Monterrey, Nuevo Leon",
+     "lat": 25.70138889,
+     "lng": -100.3613889,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "PROLONGACION RUIZ CORTINES No. 723 PTE COL. MITRAS NORTE",
+     "lat": 25.70777778,
+     "lng": -100.3558333,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "AV. LINCOLN No295 COL. MITRAS NORTE MONTERREY",
+     "lat": 25.71261,
+     "lng": -100.346878,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Aaron Saenz #1349, esq. Privada Arnulfo Garza. Monterrey, N.L. ",
+     "lat": 25.674567,
+     "lng": -100.371999,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Vicente Guerrero #1216, esq. Luis Mora. Col. Sarabia. Monterrey, N.L.",
+     "lat": 25.686672,
+     "lng": -100.312087,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Universidad #498 esq. Mariano Saas, Col. Regina. Monterrey, N.L. ",
+     "lat": 25.706324,
+     "lng": -100.31449,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carretera Nacional 4288-A,Excomunidad De La Estanzuela,Monterrey,Nuevo Leon",
+     "lat": 25.56611111,
+     "lng": -100.2388889,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carretera Nacional Km. 263 No. 6250-A,Los Cristales,Monterrey,Nuevo Leon",
+     "lat": 25.53583333,
+     "lng": -100.2188889,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carretera Nacional km 269, SC, Monterrey, Nuevo León",
+     "lat": 25.56527778,
+     "lng": -100.2394444,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Ruiz Cortinez No.550,Mitras Centro,Monterrey,Nuevo Leon",
+     "lat": 25.70444444,
+     "lng": -100.3475,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Rodrigo Gomez No. 1445 Col. Central",
+     "lat": 25.71666667,
+     "lng": -100.3419444,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Eugenio Garza Sada No. 5911 Col. Villa las Fuentes",
+     "lat": 25.61083,
+     "lng": -100.270563,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "AV. RODRIGO GOMEZ No. 6000 ESQ. LAS PLANICIES COL MOCTEZUMA",
+     "lat": 25.735285,
+     "lng": -100.342882,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Jimenez #957, Col. Centro. Monterrey, N.L.",
+     "lat": 25.683484,
+     "lng": -100.316215,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "CARR. BRISEÑAS VISTAHERMOSA KM 1.5",
+     "lat": 20.26023611,
+     "lng": -102.552375,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "KM 40 CARRT. TECOMAN-PLAYA AZUL S/D 60800",
+     "lat": 18.67504444,
+     "lng": -103.6808556,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "KM. 9 CARR.GUADALAJARA-EL SALTO CENTRO 45680",
+     "lat": 20.51174167,
+     "lng": -103.1926861,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Aguascalientes Nte. No. 724, Col. Centro comercial Agropecuario, Aguascalientes, Ags.",
+     "lat": 21.915097,
+     "lng": -102.292531,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carretera Panamericana Sur km. 121. Aguascalientes, Ags.",
+     "lat": 21.813917,
+     "lng": -102.285794,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Convención No. 1402 Gómez, Aguascalientes, Ags.",
+     "lat": 21.885981,
+     "lng": -102.313489,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Aguascalientes #3402 Sur, Col. Prados del Sur, Aguascalientes, Ags.",
+     "lat": 21.859506,
+     "lng": -102.299439,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. De La Convención y Héroes de Nacozari, Aguascalientes, Ags.",
+     "lat": 21.901828,
+     "lng": -102.288822,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Roma #242. Col. Del Valle. Aguascalientes, Ags.",
+     "lat": 21.872017,
+     "lng": -102.318317,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Aguascalientes Nte. #999, Bosques Del Prado Oriente,Aguascalientes, Ags",
+     "lat": 21.914539,
+     "lng": -102.281628,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd. Zacatecas #304, Fracc. El Plateado. Aguascalientes, Ags.",
+     "lat": 21.906289,
+     "lng": -102.292586,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "AVE.MAHATMA GANDHI #719 FRACC.TORRES DE SAN FRANCISCO.",
+     "lat": 21.83465556,
+     "lng": -102.2938167,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "BLVD.JOSE MARIA CHAVEZ 1108,FRACC.LINDAVISTA",
+     "lat": 21.86752778,
+     "lng": -102.2941556,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "BLVD.PROLONGACION JUAREZ 312,COL.CENTRO,CP.36960",
+     "lat": 20.61955278,
+     "lng": -101.6680139,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "CARRETERA IRAPUATO-LEON KM 23.920 SAN JOSE DE LLANOS C.P. 36266",
+     "lat": 20.84223611,
+     "lng": -101.3152472,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd. San Roque # 1139, Col. Fracc. Colon. Irapuato, Guanajuato",
+     "lat": 20.657389,
+     "lng": -101.341007,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd. Alejandro de la Cruz Saucedo #1300, Col. El Barreno, Jesús María, Aguascalientes, Ags.",
+     "lat": 21.984803,
+     "lng": -102.335853,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carr. Lagos - León, Km 354-460 #5000, Ejido La Moya. Lagos de Moreno, Jalisco. ",
+     "lat": 21.32006389,
+     "lng": -101.88325,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "BLVD.JOSE MARIA MORELOS #213 ESQ.VILLAMAGNA COL.EL PELUCHAN ",
+     "lat": 21.17370833,
+     "lng": -101.6612306,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd. Mariano Escobedo No. 4804, Col. Satelite. León, Guanajuato",
+     "lat": 21.121785,
+     "lng": -101.722221,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd. San Juan del Bosco #101, Col. Ejido La Joya. León Guanajuato. ",
+     "lat": 21.139171,
+     "lng": -101.724976,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd. Juan Jose Torres Landa #901,Prados Verdes. León, Gto.",
+     "lat": 21.10068333,
+     "lng": -101.6725833,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd. Manuel J. Clouthier #208 y Cerro Gordo, Hda. Cerro Gordo. León, Gto.",
+     "lat": 21.16120556,
+     "lng": -101.6924917,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd. Miguel Hidalgo #1602, esq. José Ma. Belauz, Villa Insurgentes. León, Gto.",
+     "lat": 21.147028,
+     "lng": -101.671861,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd. Aeropuerto Km. 3.5 #860, San José El Alto. León, Gto.",
+     "lat": 21.079675,
+     "lng": -101.609061,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd. Juan José Torres Landa S/N Esq. Colina Dorada,Colinas De San Isidro. León, Gto.",
+     "lat": 21.09646667,
+     "lng": -101.6339778,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd, Alonso De Torres Esq. Emilio Portes Gil S/N,San Jose Del Consuelo,Leon,Guanajuato",
+     "lat": 21.14429722,
+     "lng": -101.6477861,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd. La Luz esq. Blvd Vicente Valtierra No 4402,Brisas del Carmen,León,Guanajuato",
+     "lat": 21.11041667,
+     "lng": -101.6014417,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd Antonio Madrazo esq Blvd Jose Maria Morelos 1501,San Jose del Consuelo, Leon, Guanajuato",
+     "lat": 21.16319722,
+     "lng": -101.6479944,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "blvd delta 202 A Col Industrial Delta Leon, Guanajuato",
+     "lat": 21.08849167,
+     "lng": -101.6226917,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd Jose Torres Landa, Esq. con Calle San Marcial ",
+     "lat": 21.09993889,
+     "lng": -101.6253444,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd Miguel Cervantes Esq. con calle San Marcial",
+     "lat": 21.11301111,
+     "lng": -101.7102639,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd Juan Jose Torres Landa No. 2508 Col. Buenos Aires, Leon Guanajuato",
+     "lat": 21.09818333,
+     "lng": -101.6700111,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd Antonio Madrazo No. 2302 Fracc. Villas Vasco de Quiroga, Leon Guanajuato",
+     "lat": 21.14863889,
+     "lng": -101.6547167,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd Vicente Valtierra No. 3708 Col. San Pedro de los Hernandez, Leon Guanajuato",
+     "lat": 21.12780278,
+     "lng": -101.6442556,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd. Manuel J. Clouthier No. 702 Fracc. Cerro Gordo, Leon Guanajuato",
+     "lat": 21.16731944,
+     "lng": -101.693,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd. Delta No. 102, Col. San Jose de Santa Julia, Leon Guanajuato",
+     "lat": 21.092575,
+     "lng": -101.61695,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "PORTICO NO. 101 INDUSTRIAL LAS BRISAS 00000",
+     "lat": 21.11245556,
+     "lng": -101.6246833,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "BLVD.ADOLFO LOPEZ MATEOS 1002 OTE CP.37260,COL.EL COECILLO",
+     "lat": 21.11951944,
+     "lng": -101.6691056,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "BLVD.VICENTE VALTIERRA #2602,COL.EL COECILLO,CP. 37390",
+     "lat": 21.12971389,
+     "lng": -101.6581333,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "BLVD.TORRES LANDA #101,COL.INDUSTRIAL JUAREZ CP. 37457 ",
+     "lat": 21.10301389,
+     "lng": -101.6892694,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "CARRETERA QUERETARO-SAN LUIS POTOSI KM.22+500 DEL.SANTA ROSA JAUREGUI,C.P. 76220",
+     "lat": 20.76581389,
+     "lng": -100.4464806,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "BLVD.BERNARDO QUINTANA 2402-A, COL. EL ARCANGEL",
+     "lat": 20.61789722,
+     "lng": -100.4526833,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "AV.CERRO DEL SOMBRERETE #.1130 COL PUERTA DE BELEN ",
+     "lat": 20.64252222,
+     "lng": -100.4154722,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "BLVD.BERNARDO QUINTANA #551 FRACC.LA LUNA DEL.FELIPE CARRILLO PUERTO",
+     "lat": 20.6166,
+     "lng": -100.4506944,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Paseo Constituyentes No. 1449, Col. El Pueblito. Corregidora, Queretaro",
+     "lat": 20.54159444,
+     "lng": -100.4312333,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Camino de Los Candiles # 13, Col. Los Olvera, C.P. 76901, Corregidora, Queretaro",
+     "lat": 20.55811,
+     "lng": -100.412167,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "BLVD.SALIDA A CUERAMARO #45,COL.PRIVADA DE REYES C.P. 36200",
+     "lat": 20.87229444,
+     "lng": -101.5268472,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "CARRETERA SALAMANCA-IRAPUATO KM. 98+200 4TO. FRACCIONAMIENTO RANCHO CR 36875",
+     "lat": 20.59487222,
+     "lng": -101.2350556,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "BLVD.J.M CLOUTHIER #1140,COL.PREDIO DEL MONTE, C.P.36720",
+     "lat": 20.59254722,
+     "lng": -101.1839889,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "CALLE HEROES DE CANANEA #101, COL. LOS ALAMOS C.P.36750",
+     "lat": 20.56608611,
+     "lng": -101.1862,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Prol. Muñoz No. 205 , Col. Villa Campestre, Cp. 78190, San Luis Potosi, S.L.P.",
+     "lat": 22.16113611,
+     "lng": -101.0001778,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carretera federal #45 km 156+400 LEON-SILAO COL. NVO MEXICO SILAO, GTO",
+     "lat": 20.97915833,
+     "lng": -101.4770889,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "BLVD. EMILIANO ZAPATA NUM. 4 LORENZO MOSQUEDA 36000",
+     "lat": 20.95810278,
+     "lng": -101.6090611,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "PROL.5 DE MAYO #99,ZONA CENTRO C.P.36100",
+     "lat": 20.94335833,
+     "lng": -101.4190667,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Lopez Mateos # 205,Lagrange,San Nicolas De Los Garza,Nuevo Leon",
+     "lat": 25.72555556,
+     "lng": -100.2583333,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "LUIS H.DUCOING #103,ZONA CENTRO C.P. 36100",
+     "lat": 20.95429444,
+     "lng": -101.4248278,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "ALVARO OBREGON #194, COL. CENTRO C.P 36100",
+     "lat": 20.95159722,
+     "lng": -101.435375,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Miguel Aleman #1866,S/C,San Nicolas De Los Garza,Nuevo Leon",
+     "lat": 25.733076,
+     "lng": -100.209775,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Calle 21 #276x18, Cd. Industrial. Mérida Yucatán.",
+     "lat": 20.93328333,
+     "lng": -89.67225833,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Calzada Union 230-A Col. Hacienda Los Morales. San Nicolás de los Garza, N.L.",
+     "lat": 25.717611,
+     "lng": -100.235824,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "CARR. GDL – CHAPALA KM 20",
+     "lat": 20.46476389,
+     "lng": -103.2576083,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Pedro J. Mendez Num. 919 Poniente S/C ",
+     "lat": 22.92277778,
+     "lng": -98.07944444,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Niños Heroes No. 400,Centro Sur,Allende,Nuevo Leon",
+     "lat": 25.274981,
+     "lng": -100.017506,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Lopez Mateos, No. 4200, Col. Rincon de Oriente, San Nicolás de los Garza, N.L.",
+     "lat": 25.73194444,
+     "lng": -100.2483333,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Autopista al Aeropuerto y Carr. Monterrey-Caderey.700,S/C,Apodaca,Nuevo Leon",
+     "lat": 25.696873,
+     "lng": -100.143539,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carretera Santa Rosa-Apodaca No. 200,Fracc. Valle Del Salduero,Apodaca,Nuevo Leon",
+     "lat": 25.81444444,
+     "lng": -100.2166667,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "AV. FELIX GALVAN NO. 600 FIDEL VELAZQUEZ SANCHEZ 66490",
+     "lat": 25.714727,
+     "lng": -100.252876,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carretera Monterrey-Miguel Alemán km 22.8, Centro, Apocada, Nuevo León",
+     "lat": 25.78916667,
+     "lng": -100.1455556,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "JORGE TREVIÑO NO. 689 LAS PALMAS 66430",
+     "lat": 25.74888889,
+     "lng": -100.2805556,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carretera Monterrey - Nuevo Laredo 4803. Apodaca, Nuevo Leon",
+     "lat": 25.834647,
+     "lng": -100.254853,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carr. Salinas Victoria, No. 3096, Apodaca N.L.",
+     "lat": 25.8775,
+     "lng": -100.2530556,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "AV. UNIVERSIDAD NO. 1011 CASA BELLA 66400",
+     "lat": 25.75888889,
+     "lng": -100.2961111,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Camino Real A Santa Rosa #500-A Esq.Cartagena,Hacienda El Mezquital,Apodaca,Nuevo Leon",
+     "lat": 25.767905,
+     "lng": -100.241499,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "AV. CRISTINA LARRALDE NUM. 600 ESQ. SIERRA DE IGUANA FRACC. SAN IGNACIO COL. LAS PUENTES 7o SECTOR SAN NICOLAS DE LOS GARZA",
+     "lat": 25.74944444,
+     "lng": -100.2791667,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Miguel Aleman #300, Col. Centro. Apodaca, N.L.",
+     "lat": 25.777446,
+     "lng": -100.182592,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carrt. Huinala # 398,Villas De Huinala,Apodaca,Nuevo Leon",
+     "lat": 25.746603,
+     "lng": -100.194111,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Antigua Carr. A Roma #8001, entre entronque con Mezquital, Col. Mezquital. Apodaca, N.L. ",
+     "lat": 25.739774,
+     "lng": -100.239199,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Del Telefono No. 113,Padilla,Apodaca,Nuevo Leon",
+     "lat": 25.745125,
+     "lng": -100.177624,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Avenida Mezquital-Santa Rosa No. 4950,S/C,Apodaca,Nuevo Leon",
+     "lat": 25.78222222,
+     "lng": -100.2258333,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "AV. MORENITA MIA N° 100 A COL. VALLE SOL, SAN NICOLÁS DE LOS GARZA, NUEVO LEÓN",
+     "lat": 25.768891,
+     "lng": -100.279151,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Reforma #800 Pte. Apodaca, N.L.",
+     "lat": 25.780714,
+     "lng": -100.197935,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carretera Huinala - Dulces Nombres No.300, Apodaca, Nuevo León",
+     "lat": 25.741135,
+     "lng": -100.158423,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Jose Vasconcelos #667, Col. Centro, San Pedro Garza Garcia, Nuevo Leon",
+     "lat": 25.66083333,
+     "lng": -100.3983333,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carr. Miguel Alemán, Km. 14 + 920, Apodaca, Nuevo León.",
+     "lat": 25.736937,
+     "lng": -100.206862,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Corea Esq. Con Av. Bosque Real Col. Bosque Real Dos ",
+     "lat": 25.77777778,
+     "lng": -100.2408333,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carretera Monterrey-Saltillo #1300-1,S/C,Santa Catarina,Nuevo Leon",
+     "lat": 25.68611111,
+     "lng": -100.4686111,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carr. Mezquital Santa Rosa No 100, Esq. Camino Mezquital, Apodaca",
+     "lat": 25.75366,
+     "lng": -100.235787,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "CARRETERA CADEREYTA-REYNOSA KM. 27, CADEREYTA JIMÉNEZ, N.L. C.P. 67480",
+     "lat": 25.598318,
+     "lng": -100.028057,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Manuel J. Clouthier S/N,San Humberto,Santa Catarina,Nuevo Leon",
+     "lat": 25.68416667,
+     "lng": -100.4358333,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carretera Monterrey - Laredo No. 1701,Sc,General Escobedo,Nuevo Leon",
+     "lat": 25.802643,
+     "lng": -100.276589,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd. Lopez Portillo # 18. General Escobedo, Nuevo Leon",
+     "lat": 25.768224,
+     "lng": -100.291412,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Ave. Perimetral Norte No. 103-A,Mision De Santa Catarina,Santa Catarina,Nuevo Leon",
+     "lat": 25.69638889,
+     "lng": -100.4536111,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carretera Saltillo Monterrey - Tramo Libramiento,Km. 28+700,General Escobedo,Nuevo Leon",
+     "lat": 25.82166667,
+     "lng": -100.3205556,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carretera Libramiento Noreste 3700, SC, General Escobedo, N.L.",
+     "lat": 25.821328,
+     "lng": -100.321368,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Miguel Aleman S/N,Enrique Rangel,Santa Catarina,Nuevo Leon",
+     "lat": 25.662213,
+     "lng": -100.458315,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Raul Salinas # 714,Felipe Carrillo,General Escobedo,Nuevo Leon",
+     "lat": 25.79055556,
+     "lng": -100.325,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Raul Lozano #526, Fraccionamiento los Girasoles, Escobedo, N.L.",
+     "lat": 25.79194444,
+     "lng": -100.3272222,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "AV. RAUL SALINAS LOZANO NUM. 300 COL. VILLAS DE ESCOBEDO",
+     "lat": 25.77722222,
+     "lng": -100.3169444,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "AV. BOULEVARD BENITO JUAREZ NO. 511 S/C ESCOBEDO NUEVO LEON",
+     "lat": 25.78055556,
+     "lng": -100.2852778,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "AV. BENITO JUAREZ NO.300-A COL. LAZARO CARDENAS ESCOBEDO.",
+     "lat": 25.78527778,
+     "lng": -100.3016667,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carr. Mty-Saltillo km 23.5 Col.Las Aanacuas, Santa Catarina Nuevo Leon",
+     "lat": 25.68611111,
+     "lng": -100.4927778,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "CARR A GARCIA KM6 PUERTO DURAZNO GARCIA, NL.",
+     "lat": 25.74805556,
+     "lng": -100.5277778,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Libramiento Noreste #8000 Esq. Luis Donaldo Colosio Col. El Puerto del Durazno, García, N.L.",
+     "lat": 25.74194444,
+     "lng": -100.5138889,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "AV. CUAUHTEMOC # 1280 RESIDENCIAL CUAUHTEMOC 66360",
+     "lat": 25.685,
+     "lng": -100.443333,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carr. a las Grutas Km 11.1 a Garcia ",
+     "lat": 25.77555556,
+     "lng": -100.5655556,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Lincoln No. 3000, Garcia, N.L.",
+     "lat": 25.78388889,
+     "lng": -100.4619444,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av.Cuauhtemoc y Prol. Blvd.C.T.M., Col. Fracc. Residencial Cuauhtemoc. Santa Catarina, N.L.",
+     "lat": 25.685157,
+     "lng": -100.443807,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "LIBRAMIENTO NORESTE 3.875 EN GARCIA, N.L. ",
+     "lat": 25.726826,
+     "lng": -100.534454,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "CARRT. NACIONAL KM. 255 NUM. 204 FRACC. CUATRO CAMINOS 67300",
+     "lat": 25.47833333,
+     "lng": -100.1783333,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Heriberto Castillo Num. 1000 García, N.L. ",
+     "lat": 25.782249,
+     "lng": -100.576137,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Prolong. Francisco I. Madero # 4510,Francisco I. Madero,Guadalupe,Nuevo Leon",
+     "lat": 25.68638889,
+     "lng": -100.2638889,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Avenida San Rafael No. 96,Riberas De La Purisima,Guadalupe,Nuevo Leon",
+     "lat": 25.695134,
+     "lng": -100.230826,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "CARRT. NACIONAL # 103 EL CERCADO 67320",
+     "lat": 25.41361111,
+     "lng": -100.1397222,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Acapulco Esq. Av.Malvinas, Guadalupe,Nuevo Leon",
+     "lat": 25.721971,
+     "lng": -100.20255,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carretera General Zuazua S/N,Fraccionamiento Real De Palmas,General Zuazua,Nuevo Leon",
+     "lat": 25.90555556,
+     "lng": -100.1608333,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Ruiz Cortinez # 1400-A,Nueva Linda Vista,Guadalupe,Nuevo Leon",
+     "lat": 25.703009,
+     "lng": -100.231422,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Constituyentes De Nuevo León #103,Escamilla. Guadalupe, N.L.",
+     "lat": 25.696366,
+     "lng": -100.261695,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd. Los Fundadores km 9.1, Labor del Llano, Arteaga, Coahuila de Zaragoza",
+     "lat": 25.44301667,
+     "lng": -100.8656667,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Camino A Las Escobas No.1614-A,Dos Rios,Guadalupe,Nuevo Leon",
+     "lat": 25.681367,
+     "lng": -100.169114,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Miguel Aleman Numero 5391-A,La Purisima,Guadalupe,Nuevo Leon",
+     "lat": 25.694174,
+     "lng": -100.239977,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carr Saltillo -Zacatecas KM 113 S/C Concepcion del Oro, Zacatecas",
+     "lat": 24.61468333,
+     "lng": -101.3740528,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Eloy Cavazos No.7840-1,Rincon De La Sierra,Guadalupe,Nuevo Leon",
+     "lat": 25.648711,
+     "lng": -100.189336,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Benito Juarez S/N, Col. Centro. Guadalupe, N.L.",
+     "lat": 25.679618,
+     "lng": -100.265326,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Chapultepec #2700, Col. Valle De Chapultepec. Guadalupe, N.L.",
+     "lat": 25.666148,
+     "lng": -100.269663,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Acueducto No. 300,Jardines De La Silla,Guadalupe,Nuevo Leon",
+     "lat": 25.644344,
+     "lng": -100.185475,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Maestro Israel Cavazos Garza 335,Fracc. Privadas De San Miguel,Guadalupe,Nuevo Leon",
+     "lat": 25.700414,
+     "lng": -100.163744,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. México No. 7601, Fracc. Parque industrial La Silla, Guadalupe, Nuevo León",
+     "lat": 25.655905,
+     "lng": -100.182605,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Acceso km 9+200 Autopista Monterrey-Cadereyta, SC, Guadalupe, Nuevo León",
+     "lat": 25.693195,
+     "lng": -100.183651,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Ruiz Cortines #2001, Guadalupe N.L",
+     "lat": 25.707962,
+     "lng": -100.179193,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carr. Fed Saltillo - Matehuala km 93600 Col. Jesus Ma Puerto Nopalillos",
+     "lat": 24.39544444,
+     "lng": -100.3872361,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Benito Juarez Esq. Av. Central, Guadalupe, NL",
+     "lat": 25.674849,
+     "lng": -100.19159,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Ruiz Cortines #241 Col. Nueva Libertad, Guadalupe N.L",
+     "lat": 25.703284,
+     "lng": -100.250487,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Jardines de la Silla # 301, Col. Valle de San Roque. Guadalupe, N.L.",
+     "lat": 25.64828,
+     "lng": -100.1889,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "BLVD. MIGUEL DE LA MADRID # 3900, COL. JARDINES DE SAN RAFAEL, GUADALUPE, N.L.",
+     "lat": 25.69333333,
+     "lng": -100.2138889,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "BLVD. 16 DE SEPTIEMBRE NO. 601 . 27980",
+     "lat": 25.44758333,
+     "lng": -102.1722778,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carretera a Monclova km25 y Porfirio Diaz Num. 203 nte Col. Centro Hgo.",
+     "lat": 25.974641,
+     "lng": -100.442463,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd. Miguel Ramos Arizpe No. 157, Parque industrial, Ramos Arizpe, Coahuila de Zaragoza",
+     "lat": 25.54424444,
+     "lng": -100.939125,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carretera A Reynosa Km 298 No. 106-A,Colinas De San Juan,Juarez,Nuevo Leon",
+     "lat": 25.63777778,
+     "lng": -100.0861111,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Autopista Monterrey - Reynosa Km. 33.7, S/C, Cadereyta Jimenez, Nuevo León",
+     "lat": 25.60194444,
+     "lng": -99.97138889,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carretera Monterrey - Reynosa km. 13, SC, Juarez, Nuevo León",
+     "lat": 25.65944444,
+     "lng": -100.1455556,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd. Plan de Guadalupe No. 200, Zona Centro, Ramos Arizpe, Coahuila de Zaragoza",
+     "lat": 25.53939444,
+     "lng": -100.9490333,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Arturo B. de la Garza No. 1506 Esq. 20 de Septiembre, Villa Juarez N.L.",
+     "lat": 25.65138889,
+     "lng": -100.1072222,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "CALZADA SALTO DEL AGUA NO. 1851 QUINTA MANANTIALES 25904",
+     "lat": 25.51163889,
+     "lng": -100.939175,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carretera Monterrey Reynosa No. 5480",
+     "lat": 25.674108,
+     "lng": -100.19076,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carr. Huinala-Villa de Juarez No. 300 Apodaca, N.L.",
+     "lat": 25.714161,
+     "lng": -100.137954,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "CALLEINDUSTRIA AGROQUIMICA #890, PARQUE INDUSTRIAL SALTILLO-RAMOS ARIZPE, RAMOS ARIZPE, COAHUILA",
+     "lat": 25.559745,
+     "lng": -100.92298,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. San Roque 103 Fracc. América Unida, Cd. Benito Juarez ",
+     "lat": 25.64888889,
+     "lng": -100.1436111,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "ARTURO B. DE LA GARZA L-2M-9 #408 JUAREZ N.L.",
+     "lat": 25.64611111,
+     "lng": -100.0963889,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carr. Mty-Nuevo Laredo # 8465 Col. Modulo Industrial America. Nuevo Laredo, Tmps.",
+     "lat": 27.421435,
+     "lng": -99.533668,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av.Hidalgo #985-A Entre Libram. Mty-Victoria,Centro,Linares,Nuevo Leon",
+     "lat": 24.850136,
+     "lng": -99.57198,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "BLVD. CARLOS MORALES #2631 COL. LA GRAN HACIENDA, RAMOS ARIZPE, COAHUILA 25900",
+     "lat": 25.53168611,
+     "lng": -100.943275,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd. Díaz Ordaz S/N Esq. Av. Marqueta Col. Potrero Santa Teresa Linares N.L",
+     "lat": 24.8725,
+     "lng": -99.57888889,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Perif. Luis Echeverria Esq. Blvd. Carranza No. 140,Latinoamericana,Saltillo,Coahuila de Zaragoza",
+     "lat": 25.44733611,
+     "lng": -100.9889556,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Francisco Coss e Hidalgo,.,Saltillo,Coahuila De Zaragoza",
+     "lat": 25.431625,
+     "lng": -100.9936917,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Presidente Cardenas Y Allende, Saltillo,Coahuila De Zaragoza",
+     "lat": 25.43089722,
+     "lng": -100.9975639,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Periferico Luis Echeverria No. 1612,Lomas De Lourdes,Saltillo,Coahuila De Zaragoza",
+     "lat": 25.38936667,
+     "lng": -100.9947639,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Periferico Luis Echeverria Alvarez # 3437,Saltillo 2000,Saltillo,Coahuila De Zaragoza",
+     "lat": 25.45520556,
+     "lng": -101.0278917,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd. Venustiano Carranza # 5530,Fraccionamiento Las Haciendas,Saltillo,Coahuila",
+     "lat": 25.47262222,
+     "lng": -100.9765611,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carlos Abedrop Davila No. 2780,Las Palmas,Saltillo,Coahuila De Zaragoza",
+     "lat": 25.41412778,
+     "lng": -100.9717056,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd. Jesus Valdez Sanchez S/N,Fracc. El Tapanco,Saltillo,Coahuila De Zaragoza",
+     "lat": 25.44182778,
+     "lng": -100.9534833,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "CARRETERA MERIDA-CANCUN SIN 77500",
+     "lat": 21.10698889,
+     "lng": -86.96089167,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Prolongación Otilio Gonzalez No. 2939, Valle Santa Elena, Saltillo, Coahuila",
+     "lat": 25.40525,
+     "lng": -100.9748667,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carr. Federal Merida-Cancun Km 309",
+     "lat": 21.13517222,
+     "lng": -86.90611111,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carr. Federal Merida-Cancun km 273",
+     "lat": 20.99428056,
+     "lng": -87.18716667,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd. Al Garrafon S/N",
+     "lat": 21.24398333,
+     "lng": -86.738375,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd. Luis Donaldo Colosio, Num 214 Col Ciudas Mirasierra Saltillo Coahuila",
+     "lat": 25.43148889,
+     "lng": -100.9253556,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. 39 #433-435, Merida Yucatan",
+     "lat": 20.98113333,
+     "lng": -89.5895,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Periferico Luis Echavarria Alvarez No. 2252 Col. Ciudad Satelite Norte",
+     "lat": 25.455575,
+     "lng": -100.0097333,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carretera Los Gonzalez Esquina el Rosario Fracc Santa Susana",
+     "lat": 25.45444722,
+     "lng": -100.9547944,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd. Antonio Cardenas No. 1564 Col. Lomas de Chapultepec, Saltillo Coahuila",
+     "lat": 25.40403611,
+     "lng": -100.9993278,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd. Venustiano Carranza No.7625 COL. Los Rodriguez",
+     "lat": 25.49453889,
+     "lng": -100.9670528,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd. Los Gonzalez No. 4368 Col. Los Gonzalez",
+     "lat": 25.47169444,
+     "lng": -100.9482083,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Periferico Luis Echeverria #3855 Ote. Esq. Rio Panuco",
+     "lat": 25.40879722,
+     "lng": -100.9789556,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "BLVD. LUIS DONALDO COLOSIO NO. 8051 . 25305",
+     "lat": 25.43843333,
+     "lng": -100.9263028,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "BLVD. JESUS VALDES SANCHEZ NO. 254 EL LLANO 25386",
+     "lat": 25.44555833,
+     "lng": -100.8938889,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "BLVD. ANTONIO CARDENAS # 2020 BELLAVISTA 25000",
+     "lat": 25.40045278,
+     "lng": -101.0009417,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "PERIFERICO LUIS ECHEVERRIA #1950 COL. AVICOLA, SALTILLO, COAHUILA ",
+     "lat": 25.43320833,
+     "lng": -100.9712944,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "BLVD. EMILIO ARIZPE DE LA MAZA #2335, COL. LOMAS DEL SUR, SALTILLO, COAHUILA",
+     "lat": 25.36906944,
+     "lng": -101.0032278,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "BLVD. ANTONIO CARDENAS 7870, RANCHO LA SOLEDAD Y EL REFUGIO, SALTILLO, COAHUILA",
+     "lat": 25.352349,
+     "lng": -101.022058,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "EULALIO GUTIERREZ TREVIÑO NO. 1095 TULIPANES 25204",
+     "lat": 25.451125,
+     "lng": -100.9559,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "BLVD. MATAMOROS # 5720 LUIS HORACIO SALINAS 27440",
+     "lat": 25.53480278,
+     "lng": -103.3838028,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carr. Torreon - Coyote km 21, ejido El Fenix, Municipio Matamoros, Coah C.P. 27450",
+     "lat": 25.690919,
+     "lng": -103.301847,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd. Independencia No. 2700 Ote. Y Calle Rio Sala,Las Magdalenas,Torreon,Coahuila de Zaragoza",
+     "lat": 25.57118056,
+     "lng": -103.4195389,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Ave. Francisco Sarabia 845 Col. Villa California, Torreon, Coah. C.P. 27089",
+     "lat": 25.54050556,
+     "lng": -103.3837778,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carr La Union - La Partida 850 ejido Ana Torreon Coah CP 27410",
+     "lat": 25.68638889,
+     "lng": -103.36895,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Calzada Nogales 958 Col Villa Jacarandas Torreon Coah C.P. 27110",
+     "lat": 25.57220556,
+     "lng": -103.4419611,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd. Antonio Madrazo #1101 Col. Las Trojes. León, Gto.",
+     "lat": 21.141494,
+     "lng": -101.660444,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd. Hidalgo s/n, Col. Fracciones de Echeveste. León, Gto. ",
+     "lat": 21.181633,
+     "lng": -101.663581,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Revolucion #10 Col. San Vicente. Tlajomulco de Zuñiga, Jalisco",
+     "lat": 20.506621,
+     "lng": -103.281947,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Gobernador Curiel #2177 y #2163 Col. Ferrocarril. Guadalajara, Jalisco",
+     "lat": 20.644633,
+     "lng": -103.352283,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Alcalde, esq. Av. Patria #32, Col. El Batán. Zapopan, Jalisco.",
+     "lat": 20.716628,
+     "lng": -103.345442,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. López Mateos Sur #2955, Col. Agua Blanca. Zapopan, Jalisco.",
+     "lat": 20.606844,
+     "lng": -103.431819,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av Tecnológico esq. Pinabete #6514, Col. Parral, Chihuahua, Chih.",
+     "lat": 28.676653,
+     "lng": -106.102197,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Tecnológico, esq. Elias Muller #10313, Col. Deportistas. Chihuahua, Chih.",
+     "lat": 28.692328,
+     "lng": -106.115197,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Calle 27 #1000, Col. Obrera. Chihuahua, Chih.",
+     "lat": 28.642206,
+     "lng": -106.068214,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Independencia y Blvd. Jose Fuentes Mares, Col. Santa Rosa. Chihuahua, Chih.",
+     "lat": 28.621664,
+     "lng": -106.051645,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carretera Guadalajara - Morelia Km. 36. Tlajomulco de Zuñiga, Jalisco",
+     "lat": 20.436725,
+     "lng": -103.544925,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Periférico de la Juventud s/n Fracc. Barrancas. Chihuahua, Chih.",
+     "lat": 28.670722,
+     "lng": -106.132928,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Homero #3101, Col. Cond. Parque Complejo Ind. Chihuahua. Chihuahua, Chih.",
+     "lat": 28.712614,
+     "lng": -106.105081,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "H. Colegio Militar y Vicente Suarez, Col. Nombre de Dios. Chihuahua, Chih.",
+     "lat": 28.688275,
+     "lng": -106.084214,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Calle 7a. Poniente No. 1503. Delicias, Chih.",
+     "lat": 28.187707,
+     "lng": -105.487559,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Km 31+498 Carrt.Mex-Cd.Juarez Trm.Chih-El Sueco, Col. Sacramento. Chihuahua, Chih.",
+     "lat": 28.865465,
+     "lng": -106.226108,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Gonzalez Ortega #1500 Esq. Camino Real, Col. Chavira. Camargo, Chih.",
+     "lat": 27.67675,
+     "lng": -105.181733,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carr.Mex-Chihuahua Calle Fco. Marquez, Col. Veteranos. Chihuahua, Chih.",
+     "lat": 28.604803,
+     "lng": -105.996044,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Lázaro Cárdenas #2517.Monterrey, N.L.",
+     "lat": 25.648694,
+     "lng": -100.329556,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carretera Nacional 2000, Col. La Estanzuela. Monterrey, N.L.",
+     "lat": 25.587256,
+     "lng": -100.258728,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. las Torres # 100 Pte., Col. Nuestra Senora de Fatima. Gral. Escobedo, N.L.",
+     "lat": 25.781175,
+     "lng": -100.310394,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Acapulco S/N, Col. Fracc. San Miguel Sector Golondrina. Apodaca, N.L.",
+     "lat": 25.719386,
+     "lng": -100.180036,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Calle Sicomoro No. 301, Col. Residencial Ebanos Norte 2do. Sector. Apodaca, N.L.",
+     "lat": 25.791292,
+     "lng": -100.234936,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Ave. Santa Engracia # 127, Col. Fracc. Privadas de Camino Real. Gral. Escobedo, N.L.",
+     "lat": 25.808014,
+     "lng": -100.389531,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Las Palmas #430, Col. Valle de las Palmas. Apodaca, N.L.",
+     "lat": 25.784563,
+     "lng": -100.266625,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Avenida la Luz # 6113, 6113-1, Col. La Estanzuela. Monterrey, N.L.",
+     "lat": 25.589622,
+     "lng": -100.249684,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carretera a San Miguel 2929, Col. Sc. Guadalupe, N.L.",
+     "lat": 25.709393,
+     "lng": -100.181595,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Reforma No. 1905 Poniente, Col. Centro. Monterrey, N.L.",
+     "lat": 25.686853,
+     "lng": -100.330581,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carret. a Huinala Km 2 # 1008, Col. S/C. Apodaca, N.L.",
+     "lat": 25.744811,
+     "lng": -100.180628,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd. Acapulco #4600, Col. Las Brisas. Monterrey, N.L.",
+     "lat": 25.62229444,
+     "lng": 100.2812917,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carr. Libre a Celaya Km 5, Col. El Pueblito, C.P. 76900, Corregidora, Queretaro",
+     "lat": 20.542008,
+     "lng": -100.431375,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd. San Juan Bosco #2934 Col. El Mirador. León, Gto.",
+     "lat": 21.151753,
+     "lng": -101.729156,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Cincunvalación Oblatos #2047. Col. Oblatos, esq. Rivas Guillen. Guadalajara, Jalisco. ",
+     "lat": 20.690189,
+     "lng": -103.303879,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Calzada Independencia Ote #870. Guadalajara, Jalisco. ",
+     "lat": 20.687136,
+     "lng": -103.335226,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carrt. 45 Tramo Delicias-Chih. Km 138+168.69, Col. S/D. Delicias, Chihuahua",
+     "lat": 28.200389,
+     "lng": -105.453524,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Km. 1308 Carr. Panamericana a Cd. Juarez, Col. Lagunilla. Camargo, Chihuahua",
+     "lat": 27.678289,
+     "lng": -105.161522,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Ave. Luis H. Alvarez #902, Col. La Pila. Camargo, Chihuahua",
+     "lat": 27.668448,
+     "lng": -105.170226,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Vialidad Norte-Sur Camargo #110. Col. Carretera. Camargo, Chihuahua",
+     "lat": 27.679283,
+     "lng": -105.151763,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Ejército Mexicano Km. 9.5 #347, Col. Fidel Velázquez. Gómez Palacio, Dgo. ",
+     "lat": 25.573317,
+     "lng": -103.520144,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd. Solidaridad # 6828, Col. Fraccionamiento Los Olivos. Irapuato, Guanajuato",
+     "lat": 20.662423,
+     "lng": -101.315829,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Guerrero #1240 Col Centro. Irapuato, Guanajuato",
+     "lat": 20.682446,
+     "lng": -101.353613,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Periferico Torreon-Lerdo Km 3, Col. Miguel Hidalgo. Gomez Palacio, Durango",
+     "lat": 25.581461,
+     "lng": -103.477762,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Benito Juárez y Comonfort, Col. Centro. Camargo, Chihuahua",
+     "lat": 27.692137,
+     "lng": -105.17269,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Benito Juárez y Moctezuma, Col. Centro. Camargo, Chihuahua",
+     "lat": 27.695104,
+     "lng": -105.176087,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Mariano Jimenez y Libertad, Col. ., C.P. 33980, Jimenez, Chihuahua",
+     "lat": 27.137505,
+     "lng": -104.913945,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Silvestre Terrazas # 13001, Col. Labor de Terrazas. Chihuahua, Chihuahua",
+     "lat": 28.582925,
+     "lng": -106.119939,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carr. Aguascalientes-Zacatecas Km 28.5, Col. Ejido de San Francisco. Pabellon de Arteaga, Aguascalientes",
+     "lat": 22.123885,
+     "lng": -102.283289,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Patria, Moctezuma y Sta. Catalina, Col. El Mirador Del Sol. Zapopan, Jalisco",
+     "lat": 20.650772,
+     "lng": -103.42272,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Patria No. 1350, Col. Fracc. Jardines Universidad. Zapopan, Jalisco",
+     "lat": 20.69468,
+     "lng": -103.414906,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carr. Chihuahua-Delicias, Km.209. Chihuahua, Chihuahua",
+     "lat": 28.58384,
+     "lng": -105.960315,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Fernando Baeza Melendez No. 223, Col. Tierra y Libertad. Delicias, Chihuahua",
+     "lat": 28.178048,
+     "lng": -105.459668,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Sor Juana Ines de la Cruz No. 1707, Col. Del Parque. Jimenez, Chihuahua",
+     "lat": 27.125612,
+     "lng": -104.919242,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Cuauhtémoc # 1214 Col. El Pueblo, Monclova, Coahuila",
+     "lat": 26.919776,
+     "lng": -101.417427,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Aquiles Serdan y Carr. a Irapuato. Pueblo Nuevo, Guanajuato.",
+     "lat": 20.527912,
+     "lng": -101.369327,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Luis Donaldo Colosio #716, Col. Barrio San Carlos. Monterrey, NL.",
+     "lat": 25.767911,
+     "lng": -100.393711,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carretera Chihuahua Delicias Km. 206. Aquiles Serdan, Chihuahua",
+     "lat": 28.560242,
+     "lng": -105.954094,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Casimiro Liceaga No. 1007, Col. Alvaro Obregon. Irapuato, Guanajuato",
+     "lat": 20.67324,
+     "lng": -101.35943,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carr. Saltillo - Matehuala km. 57. Galeana N.L.",
+     "lat": 25.168625,
+     "lng": -100.722842,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Prol.Constituyentes Lote 33 Mzn. 100 Etapa Uno, Col. Las Trojes. Corregidora, Queretaro",
+     "lat": 20.53441,
+     "lng": -100.450674,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Arandas No. 1112, Col. La Estancia. Irapuato, Guanajuato",
+     "lat": 20.696876,
+     "lng": -101.36107,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Avenida Paseo de la Solidaridad No. 10399, Col. Plan Guanajuato. Irapuato, Guanajuato",
+     "lat": 20.683724,
+     "lng": -101.338999,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carretera Nacional # 2004 Sur, Col. Buena Vista. Allende, Nuevo Leon",
+     "lat": 25.262764,
+     "lng": -100.011677,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carretera a Saltillo Km 339, Col. Los Treviño.Santa Catarina, Nuevo Leon",
+     "lat": 25.675499,
+     "lng": -100.442985,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd. A. Garcia No. 103. Garcia, Nuevo Leon",
+     "lat": 25.802625,
+     "lng": -100.586051,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carretera Nacional Monterrey Allende Km. 214.5, Col. Comunidad Calles. Montemorelos, Nuevo Leon",
+     "lat": 25.220802,
+     "lng": -99.931458,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Haciendas Del Valle No. 6705, Col. Haciendas Del Valle. Chihuahua, Chihuahua",
+     "lat": 28.633497,
+     "lng": -106.119065,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. 18 de Marzo #1545, Col. Las Águilas. Zapopan, Jalisco",
+     "lat": 20.628204,
+     "lng": -103.409879,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Constitucion #240 Esq. Cipres, Col. Loma Bonita. Tonala, Jalisco",
+     "lat": 20.649621,
+     "lng": -103.261125,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Prolongación Lincoln S/N. Garcia, Nuevo Leon",
+     "lat": 25.80628,
+     "lng": -100.561406,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Progreso #111, Col. Barrio de Zaragoza. Montemorelos, Nuevo Leon",
+     "lat": 25.187932,
+     "lng": -99.831265,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Zaragoza # 400 Pte Esq. Carrt. Nacional, Col. Centro. Allende, Nuevo Leon",
+     "lat": 25.278102,
+     "lng": -100.02147,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Avenida Hidalgo #2704, Col. Ejido de Valtierrilla. Salamanca, Guanajuato",
+     "lat": 20.557259,
+     "lng": -101.165093,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Vialidad Carretera Chihuahua-Aldama #10100, Col. El Leon. Chihuahua, Chihuahua",
+     "lat": 28.673415,
+     "lng": -106.025913,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Km. 0.6 Carretera Jimenez-Zavalza. Jimenez, Chihuahua",
+     "lat": 27.126367,
+     "lng": -104.901701,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Autopista de Cuota Saltillo-Laredo No. 6700, Escobedo N.L.",
+     "lat": 25.817014,
+     "lng": -100.395262,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Eje Vial Juan Gabriel No.9805, Col. Puente Alto. Cd. Juarez, Chihuahua",
+     "lat": 31.629297,
+     "lng": -106.461549,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carr. Cd. Juarez Casas Grandes #5450, Col. Fracc. Jarudo Del Norte. Cd.Juarez, Chihuahua",
+     "lat": 31.674976,
+     "lng": -106.438367,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carr.Juarez-Porvenir No. 7115, Col. Fracc.Virreyes. Cd. Juárez, Chihuahua",
+     "lat": 31.723312,
+     "lng": -106.419862,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av Lopez Mateos y V Guerrero, Col. Partido Romero. Cd. Juárez, Chihuahua",
+     "lat": 31.733782,
+     "lng": -106.449118,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carr. Panamericana No. 6024 y Calle Nayarit, Col. El Granjero. Cd. Juárez, Chihuahua",
+     "lat": 31.664729,
+     "lng": -106.426922,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd. Bernardo Norsagary # 5490, Col. Francisco Villa. Cd. Juárez, Chihuahua",
+     "lat": 31.760178,
+     "lng": -106.509444,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Eje Juan Gabriel No. 5471 Esq. Ponciano Arriaga. Cd. Juárez, Chihuahua",
+     "lat": 31.675642,
+     "lng": -106.445725,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Calle Jilotepec No.10104_Y_Calle Hiedra, Col. Ampliacion Infonavit-Aeropuerto. Cd. Juárez, Chihuahua",
+     "lat": 31.660138,
+     "lng": -106.391606,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd. Independencia No. 2710, Col. Lote Bravo. Cd. Juárez, Chihuahua",
+     "lat": 31.604487,
+     "lng": -106.37411,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd. Juan Pablo Ii No. 1147, Col. Zaragoza. Cd. Juárez, Chihuahua",
+     "lat": 31.655747,
+     "lng": -106.340469,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Tecnologico #9581, Esq. Calle Santos, Col. Zacate Blanco. Cd. Juárez, Chihuahua",
+     "lat": 31.621497,
+     "lng": -106.445689,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "P. Elías Calles y Simón Barba, Col. 3a. Burócrata, Cd. Juárez, Ch.",
+     "lat": 31.721418,
+     "lng": -106.443255,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Solidaridad Iberoamericana # 7969, Col. Residencial Aeropuerto. El Salto , Jalisco",
+     "lat": 20.538793,
+     "lng": -103.296596,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Vialidad Sacramento y Potrero Viejo No. 6303, Col. Nombre de Dios. Chihuahua, Chihuahua",
+     "lat": 28.70996,
+     "lng": -106.083133,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Tratado de libre comercio #1009, CP 32882, Colonia Constitución. Ojinaga, Chihuahua",
+     "lat": 29.55804,
+     "lng": -104.404764,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd. Oscar Flores No.12, Col. Constitucion. Ojinaga, Chihuahua",
+     "lat": 29.558354,
+     "lng": -104.411996,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Circuito Universitario #401, Col. Fracc. Residencial Cafetales. Chihuahua, Chihuahua",
+     "lat": 28.722115,
+     "lng": -106.148355,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Allende y Dr. Quiroz Cuaron No. 1400, Col. Abraham Gonzalez. Jimenez, Chihuahua",
+     "lat": 27.12371,
+     "lng": -104.908643,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carr. a Guadalajara-El Verde Km 4.2, Col. Jardines Lomas Del Verde. El Salto , Jalisco",
+     "lat": 20.560891,
+     "lng": -103.276427,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Melchor Ocampo #3000 Col. Pacifico. Chihuahua, Chihuahua.",
+     "lat": 28.625568,
+     "lng": -106.070068,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Valle Del Guadiana # 325, Col. Parque Industrial Gomez Palacio. Gomez Palacio, Durango",
+     "lat": 25.558768,
+     "lng": -103.465967,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Km. 6 Carr. Atotonilco-Guadalajara. Atotonilco El Alto, Jalisco",
+     "lat": 20.540448,
+     "lng": -102.56406,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Adolfo Ruiz Cortinez #1300, Col. Cd. de la Barca. La Barca, Jalisco",
+     "lat": 20.302226,
+     "lng": -102.541485,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd. Manuel J Clouthier #262, Col. 15 de Mayo. Celaya, Guanajuato",
+     "lat": 20.550109,
+     "lng": -100.839184,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd. Adolfo Lopez Mateos No. 1102, Col. Obregon, C.P. 37320, Leon, Guanajuato",
+     "lat": 21.133829,
+     "lng": -101.687363,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carr. Guadalajara - Zacatecas Km. 306.5. Zacatecas, Zacatecas",
+     "lat": 22.761645,
+     "lng": -102.653378,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd. Isidro Lopez Zertuche No. 2770, Col. Los Maestros. Saltillo, Coahuila.",
+     "lat": 25.448749,
+     "lng": -100.997919,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Paseo de Los Insurgentes #1905. Esq.Oceano Atlantico. Leon, Guanajuato",
+     "lat": 21.147074,
+     "lng": -101.703279,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Trasviña y Retes #5901 Esq. Rio de Janeiro, Col. Panamericana. Chihuahua, Chihuahua",
+     "lat": 28.648669,
+     "lng": -106.110765,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carretera a Chihuahua - Aldama km. 24 + 900. Aldama, Chihuahua",
+     "lat": 28.812856,
+     "lng": -105.934629,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Alfonso Reyes # 209, Col. Contry, C.P. 64860, Monterrey, Nuevo Leon",
+     "lat": 25.640505,
+     "lng": -100.282531,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd. Vicente Valtierra #4101, Col. Jardines de Oriente 4° sección. León, Guanajuato.",
+     "lat": 21.128454,
+     "lng": -101.645328,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Coahuila Lote 1 Col. Paseo Guadalupe. Guadalupe, Nuevo León.",
+     "lat": 25.651861,
+     "lng": -100.159926,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Camino Lateral Al Camino Real S/N. La Cruz, Chihuahua",
+     "lat": 27.854372,
+     "lng": -105.200597,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Prol. Zaragoza #71 Col. La Capilla. Santiago de Querétaro, Querétaro. ",
+     "lat": 20.579556,
+     "lng": -100.413512,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Niños Héroes #129 Col. Centro. Ocotlán, Jalisco",
+     "lat": 20.346824,
+     "lng": -102.777311,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carretera Guadalajara - Ocotlán KM 32.5 Col. Centro. Poncitlán, Jalisco. ",
+     "lat": 20.37604,
+     "lng": -102.930165,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Hidalgo #1477 Pte., Col. Ex-Seminario. Monterrey, Nuevo Leon",
+     "lat": 25.670226,
+     "lng": -100.335904,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Chapultepec #1844 Ote., Col. Buenos Aires. Monterrey, Nuevo Leon",
+     "lat": 25.666473,
+     "lng": -100.279821,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Cuauhtemoc Esq Con Aldama y Privada Jesus Sil, Col. Zona Centro. Monclova, Coahuila.",
+     "lat": 26.907327,
+     "lng": -101.418845,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd. San Buenaventura # 1900, Col. Fracc. Magisterio. Monclova, Coahuila",
+     "lat": 26.907327,
+     "lng": -101.418845,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Miguel de la Madrid, esq. Paseo de las Maravillas #986, Col. Corral de Barrancos. Jesus María, Aguascalientes.",
+     "lat": 21.938132,
+     "lng": -102.325769,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Camino a San Sebastián El Grande-Tlajomulco #1575. Tlajomulco de Zuñiga, Jalisco. ",
+     "lat": 20.514855,
+     "lng": -103.410826,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carr. Gomez Palacio-Jimenez Km2 Manzana 2, Lote 5, Col. Valle de Guadiana. Gómez Palacio, Durango",
+     "lat": 25.61214,
+     "lng": -103.512158,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carr. Gomez Palacio-Jimenez Km2 Manzana 2, Lote 5, Col. Valle de Guadiana. Gómez Palacio, Durango",
+     "lat": 25.610676,
+     "lng": -103.512134,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carr. Monclova-Castaños, Km182. Monclova, Coahuila.",
+     "lat": 26.804837,
+     "lng": -101.420645,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Ave. Del Hospital #343 Col Valle de San Blas. García, Nuevo León.",
+     "lat": 25.80144,
+     "lng": -100.567193,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carr. Irapuato - Silao Predio La Fortuna. Silao, Guanajuato.",
+     "lat": 20.90117,
+     "lng": -101.368588,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carr. Juventino Rosas - Celaya Km. 4 s/n. Juventino Rosas, Guanajuato.",
+     "lat": 20.630141,
+     "lng": -100.969698,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Libramiento Nororiente #7541 Carretera Federal, Col. Km. 7, C.P. 1, Irapuato, Guanajuato",
+     "lat": 20.70322,
+     "lng": -101.321514,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carretera Guanajuato- Puentecillas Km 0+480, comunidad de Yerbabuena, Guanajuato, Guanajuato.",
+     "lat": 20.964002,
+     "lng": -101.280202,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Boulevard Aeropuerto #2000. Apodaca, Nuevo Leon",
+     "lat": 25.778832,
+     "lng": -100.121787,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carretera Guadalupe Zacatecas - Cosio Aguascalientes km. 67 + 500. Cuauhtemoc, Zacatecas",
+     "lat": 22.460857,
+     "lng": -102.346633,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Enrique Corona Morfin #710, Col. Aguilas. Villa de Alvarez, Colima",
+     "lat": 19.280393,
+     "lng": -103.742315,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Acámbaro #350, Col. Santa Amalia. Colima, Colima",
+     "lat": 19.229859,
+     "lng": -103.703813,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carr. Tlajomulco-San Miguel Cuyutlan KM 7 + 700, Col. San Miguel Cuyutlan. Tlajomulco de Zuñiga, Jalisco. ",
+     "lat": 20.455234,
+     "lng": -103.437053,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Autopista Mexico- Queretaro km. 174 + 020. San Juan del Río, Querétaro. ",
+     "lat": 20.454803,
+     "lng": -100.088811,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Calle Nigromante #102, esq. Manuel Alvárez. Colima, Colima",
+     "lat": 19.245728,
+     "lng": -103.72785,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Maria Ahumada Ent. El Naranjal y Andador #434, Col. Burocratica Municipal. Villa de Alvarez, Colima",
+     "lat": 19.273704,
+     "lng": -103.740424,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Presidente Cardenas #1332 Esq. Jose Ma. Lafragua, Col. Centro. Saltillo Coahuila",
+     "lat": 25.424931,
+     "lng": -100.985123,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd. Los Fundadores #4004 Col. Vista Hermosa. Saltillo, Coahuila",
+     "lat": 25.428697,
+     "lng": -100.9556,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd. Salomon Abedrop # 4651, Col. Postal Cerritos. Saltillo, Coahuila",
+     "lat": 25.411257,
+     "lng": -100.956451,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Periferico Luis Echeverria # 6133 Col. San Ramon. Saltillo, Coahuila",
+     "lat": 25.416274,
+     "lng": -100.975547,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Paseo de los Huertos #1191, Col. Paseo de los Huertos. Juárez, Nuevo León",
+     "lat": 25.621982,
+     "lng": -100.104508,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av Chapultepec #1847. Col. Buenos Aires. Monterey, Nuevo León. ",
+     "lat": 25.666841,
+     "lng": -100.280571,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carr. Lagos de Moreno - San Luis Potosí km. 3.5. Lagos de Moreno, Jalisco. ",
+     "lat": 21.389625,
+     "lng": -101.875332,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carr. México-Toluca km.61.5 Col. Santa Ana. Toluca, Toluca. ",
+     "lat": 19.286856,
+     "lng": -99.606527,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Pino Suarez # 6322, Col. Buena Vista. Nuevo Laredo, Tamaulipas",
+     "lat": 27.49543,
+     "lng": -99.540328,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carr. Anahuac # 7448-A, Col. 20 de Noviembre. Nuevo Laredo, Tamaulipas",
+     "lat": 27.481048,
+     "lng": -99.551041,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Prol. Blvd. Lic. Antonio Ortiz Mena # 297, Col. El Potrero. Hidalgo Del Parral, Chihuahua",
+     "lat": 26.932079,
+     "lng": -105.68177,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Siglo XXI #1770. Jesus Maria, Aguascalientes",
+     "lat": 21.949954,
+     "lng": -102.321197,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd. Independencia #1661, Col. Fracc. San Isidro. Torreon, Coahuila",
+     "lat": 25.562489,
+     "lng": -103.43139,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carr. Federal Chihuahua-Hgo. Del Parral Km 183+400, Col. Sin Colonia. Hidalgo Del Parral, Chihuahua",
+     "lat": 26.944203,
+     "lng": -105.645597,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Prolongacion Independencia, Col. Vella Vista. Hidalgo Del Parral, Chihuahua",
+     "lat": 26.928125,
+     "lng": -105.650953,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Cesar Lopez de Lara #2702, Col. San Rafael. Nuevo Laredo, Tamaulipas",
+     "lat": 27.474752,
+     "lng": -99.51777,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Guatemala # 1903, Col. Guerrero. Nuevo Laredo, Tamaulipas",
+     "lat": 27.482829,
+     "lng": -99.507455,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd. Timoteo Lozano #1302, Col. La Noria. León, Guanajuato. ",
+     "lat": 21.070367,
+     "lng": -101.641182,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd. Aquiles Serdan #301, esq. Calle Melchor Ocampo Zona Centro. San Francisco del Rincón, Guanajuato.",
+     "lat": 21.023353,
+     "lng": -101.85181,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Henequén #10114, Esq. José M. Torres, Col. Fideicomiso Salvacar. Cd. Juárez, Chihuahua.",
+     "lat": 31.648347,
+     "lng": -106.39115,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd. Gustavo Galaz Km 182 # 320, Col. Asturias. Monclova, Coahuila",
+     "lat": 26.838866,
+     "lng": -101.42403,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Calzada Revolución #6251, Col. Buena Vista, Nuevo Laredo, Tamaulipas.",
+     "lat": 27.496756,
+     "lng": -99.549609,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Churubusco #750, esq. Francisco Beltrán, Col. Venustiano Carranza. Monterrey, N.L. ",
+     "lat": 25.691794,
+     "lng": -100.268626,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Libramiento Nororiente #5578 Col. El Carrizalito. Irapuato, Guanajuato",
+     "lat": 20.694428,
+     "lng": -101.312804,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Prolongación Irrigación #507-A. Col. Cuauhtemoc. Celaya, Guanajuato. ",
+     "lat": 20.536199,
+     "lng": -100.784685,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Manuel Doblado #700, Col. Centro. Villagrán, Gto. ",
+     "lat": 20.515883,
+     "lng": -101.000555,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd. Francisco Villa #1103, esq. Sinaí, Col. Jardines de Oriente. León, Gto.",
+     "lat": 21.12621,
+     "lng": -101.647804,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. El Sauz #1496, Col. Las Casas. Celaya, Guanajuato. ",
+     "lat": 20.549498,
+     "lng": -100.846634,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Nicolás Bravo #202, Col. Centro. Tototlán, Jalisco.",
+     "lat": 20.544455,
+     "lng": -102.787464,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carr. Tepatitlán de Morelos - San Juan de los Lagos, entre 307 y 304. Valle de Guadalupe, Jalisco. ",
+     "lat": 21.051533,
+     "lng": -102.57802,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd. Los Fundadores #2820, Col. Centro. Saltillo, Coahuila",
+     "lat": 25.427144,
+     "lng": -100.966677,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd. Paseo de la Reforma #2105, Col. Provivienda. Saltillo, Coahuila",
+     "lat": 25.427028,
+     "lng": -100.975913,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "KM 1 Carr-Moroleón-Morelia. Moroleón, Guanajuato",
+     "lat": 20.125653,
+     "lng": -101.18079,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Cabezada #9007, Col. Barrio Aztlan. Monterrey, Nuevo León",
+     "lat": 25.775245,
+     "lng": -100.381563,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Hermosillo # 501, Col. Deportivo Huinala 5to. Sector. Apodaca, Nuevo León",
+     "lat": 25.730418,
+     "lng": -100.186773,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Jose Angel Conchello # 2409, Col. Reforma. Monterrey, Nuevo León",
+     "lat": 25.694798,
+     "lng": -100.297695,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd. Faja de Oro #803 Col. Centro, Salamanca, Guanajuato",
+     "lat": 20.579685,
+     "lng": -101.205238,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carretera Federal 45 Silao - Irapuato, Km. 142 + 358. Silao Guanajuato.",
+     "lat": 20.905392,
+     "lng": -101.374551,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carr. Guadalajara-Barra de Navidad #1500. Acatlán de Juárez, Jalisco",
+     "lat": 20.433489,
+     "lng": -103.57919,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Guadalajara Tepic #1500, Col. Santa Sofia. El Arenal, Jalisco",
+     "lat": 20.777672,
+     "lng": -103.659758,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Feliz U. Gomez #304 Nte, Col. Centro. Monterrey, N.L.",
+     "lat": 25.676621,
+     "lng": -100.298033,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Benito Juarez 628 Col Niños Héroes. Guadalupe, N.L.",
+     "lat": 25.66777,
+     "lng": -100.177111,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carr. a Reynosa #150 Col. Fraccionamiento El Sabinal. Juarez N.L.",
+     "lat": 25.652904,
+     "lng": -100.111498,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carr. Monterrey a Colombia #1201, Col. Los Altos. Escobedo N.L.",
+     "lat": 25.793182,
+     "lng": -100.292826,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Diego Diaz de Berlanga #124, Col. Bosques de Anáhuac. San Nicolás de los Garza, N.L.",
+     "lat": 25.729904,
+     "lng": -100.274439,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av Morones Prieto # 3200 entre 5 de Mayo y Av Azte, Col. Azteca. Guadalupe, Nuevo León",
+     "lat": 25.687482,
+     "lng": -100.246382,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Acueducto #401 Col. Balcones de Anáhuac. Escobedo N.L.",
+     "lat": 25.765244,
+     "lng": -100.32286,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Acueducto #200, Col. Balcones de Anáhuac. Escobedo N.L.",
+     "lat": 25.764626,
+     "lng": -100.323249,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carr. Miguel Aleman #603, Col. Centro. Apodaca, N.L.",
+     "lat": 25.777832,
+     "lng": -100.183759,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Ignacio Zaragoza #210 Col. Centro. Apodaca N.L.",
+     "lat": 25.777804,
+     "lng": -100.186774,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Pedro Martinez Ote #1807 Col. Nuevo Repueblo. Monterrey N.L.",
+     "lat": 25.662988,
+     "lng": -100.297584,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carr. a Colombia #804 Col. Ampliación Lázaro Cárdenas. Escobedo N.L.",
+     "lat": 25.795247,
+     "lng": -100.293498,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Jose Eleuterio Gonzalez #513, Col. Mitras Norte. Monterrey N.L.",
+     "lat": 25.711683,
+     "lng": -100.349952,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Benito Juarez # 500 Esq. Lib. a Carrt. Marin. Zuazua, Nuevo León",
+     "lat": 25.89107,
+     "lng": -100.115055,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Libramiento Juárez-Cadereyta Km. 23, Col. La Puerta. Juárez, Nuevo León",
+     "lat": 25.62405,
+     "lng": -100.065173,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carr. Monterrey- Cd Victoria Lib. Montemorelos km 200. Montemorelos N.L.",
+     "lat": 25.140793,
+     "lng": -99.835906,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Francisco Sarabia #801 Col. Ciudad Nazas. Torreón, Coahuila.",
+     "lat": 25.545577,
+     "lng": -103.389573,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Danubio #2600, Col. Fracc. Riberas de Sacramento. Chihuahua, Chihuahua",
+     "lat": 28.781197,
+     "lng": -106.172442,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Ferrocarril 15, Col. Centro. Bermejillo, Durango",
+     "lat": 25.894482,
+     "lng": -103.62463,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Calle 5 de Febrero # 142 Col las Conchas. Guadalajara, Jalisco",
+     "lat": 20.65951,
+     "lng": -103.338625,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carretera Guadalajara - Saltillo Km. 46.6 S/N, Col. La Hacienda de Guadalupe. Ixtlahuacan Del Rio, Jalisco",
+     "lat": 20.848754,
+     "lng": -103.257501,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carretera a Saltillo #2892, Col. Villa de Guadalupe. Zapopan, Jalisco",
+     "lat": 20.759933,
+     "lng": -103.340464,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Netzahualcoyotl esq. Toltecas, Col. Buenos Aires. Zacatecas, Zacatecas",
+     "lat": 22.77117,
+     "lng": -102.592468,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carretera Federal 45 Silao - Irapuato, Km. 157 + 570, Col. Nuevo México. Silao Guanajuato. ",
+     "lat": 20.954732,
+     "lng": -101.489769,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Paseo Adolfo López Mateos No. 102, Zinacantepec, Estado de México",
+     "lat": 19.289302,
+     "lng": -99.696092,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Vialidad Solidaridad #605, Santa Ana Tlapaltitla. Metepec, Estado de México",
+     "lat": 19.273858,
+     "lng": -99.629005,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carr. Toluca-Atlacomulco Km. 56.5, Atlacomulco, Estado de México",
+     "lat": 19.766958,
+     "lng": -99.857126,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carr. México-Toluca Km 44.5 S/N. Pob. San Miguel Ameyalco. Ocoyoacac, Estado de México.",
+     "lat": 19.283654,
+     "lng": -99.457207,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carretera México-Toluca Km. 42.5, San Juan Coapanoaya, Ocoyoacac, Estado de México.",
+     "lat": 19.288139,
+     "lng": -99.444084,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. 5 de Mayo Esq. Av. de las Torres, San Francisco Coaxusco. Metepec, Estado de México",
+     "lat": 19.272294,
+     "lng": -99.630845,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd. Narciso Bassols #600. Tenango del Valle, Estado de México.",
+     "lat": 19.114184,
+     "lng": -99.588827,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Adolfo López Mateos #102. Zinacantepec, Estado de Mexico.",
+     "lat": 19.288857,
+     "lng": -99.696202,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carretera México Toluca Km. 44. Lerma, Estado de México.",
+     "lat": 19.285791,
+     "lng": -99.456334,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd. León - San Francisco del Rincón Km. 6-171, Col. Buena Vista. Purisima del Rincón, Guanajuato",
+     "lat": 21.045882,
+     "lng": -101.792582,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carretera Federal Guadalajara Saltillo Km 52. Ixtlahuacan Del Rio, Jalisco",
+     "lat": 20.887471,
+     "lng": -103.227895,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Km. 6.5 Del Corredor Industrial El Salto Ex-Hacienda. El Salto, Jalisco",
+     "lat": 20.542454,
+     "lng": -103.262249,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Ruiz Cortinez No. 720 \"A\" Oriente, Col. Victoria. Monterrey, Nuevo León",
+     "lat": 25.703816,
+     "lng": -100.30347,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Cam.Huinala-Mezquital #510, esq. Carr. Miguel Aleman. Apodaca, Nuevo León",
+     "lat": 25.747282,
+     "lng": -100.202187,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carretera a Miguel Aleman Km. 8, Col. 18 de Marzo. Guadalupe, Nuevo León",
+     "lat": 25.69575,
+     "lng": -100.232573,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Manuel Ordoñes #1423 Pte. Col. Zimix Sur. Santa Catarina, Nuevo León",
+     "lat": 25.677168,
+     "lng": 25.677168,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Ignacio Morones Prieto #117, Col. La Banda. Santa Catarina, Nuevo León",
+     "lat": 25.656178,
+     "lng": -100.449569,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Ruiz Cortines #620, Col. Central de Carga. Guadalupe, Nuevo León",
+     "lat": 25.703176,
+     "lng": -100.239307,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Ignacio Morones Prieto #789 Pte. San Pedro Garza Garcia, Nuevo León",
+     "lat": 25.670914,
+     "lng": -100.396693,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Vasconcelos #1543, Col. Mirasierra. San Pedro Garza Garcia, Nuevo León",
+     "lat": 25.656013,
+     "lng": -100.387487,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Felix U. Gomez # 1602 Nte., Col. Terminal. Monterrey, Nuevo León",
+     "lat": 25.687486,
+     "lng": -100.296612,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Jose Maria Luis Mora #148, Col. Ocho Cedros. Toluca, Estado de México",
+     "lat": 19.256962,
+     "lng": -99.667166,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Jose Maria Luis Mora #148, Col. Ocho Cedros. Toluca, Estado de México",
+     "lat": 19.256962,
+     "lng": -99.667166,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carr. Toluca-Zitacuaro Km 17.5, Col. Paraje Yukon. Almoloya de Juarez, Estado de México",
+     "lat": 19.358717,
+     "lng": -99.80317,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carr. Toluca-Zitacuaro Km 46.5, Col. Jesus Maria. Villa Victoria, Estado de México",
+     "lat": 19.417486,
+     "lng": -99.999334,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd. Aeropuerto #1440, Col. Predio Santa Fé. León, Guanajuato.",
+     "lat": 21.072089,
+     "lng": -101.598407,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carr. México - Pachuca Km.75. Zapopan de Juárez, Hidalgo.",
+     "lat": 20.010041,
+     "lng": -98.82184,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "16 de Septiembre #172 Col. Obregon. León, Guanajuato",
+     "lat": 21.135305,
+     "lng": -101.680793,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Mariano J Garcia #555, Col Los Pinos. Irapuato, Guanajuato.",
+     "lat": 20.652206,
+     "lng": -101.358565,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carr. Guanajuato - Juventino Rosas, Col. Arroyo Verde. Guanajuato, Gto",
+     "lat": 20.981763,
+     "lng": -101.283113,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Valle de Santiago #1815, Col. Santa Elena de la Cruz. Salamanca, Guanajuato.",
+     "lat": 20.541115,
+     "lng": -101.204449,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carr. Irapuato-Abasolo #6063 Col Granja Mexicalli. Irapuato, Gto",
+     "lat": 20.6276,
+     "lng": -101.393796,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd. Díaz Ordaz #664, Col. Barrio de San Miguel. Irapuato, Guanajuato.",
+     "lat": 20.679178,
+     "lng": -101.346729,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carr. Ixtlahuaca-Toluca Km 18.5, Sta. Juana 2da Sección. Almoloya de Juárez, Estado de México",
+     "lat": 19.450651,
+     "lng": -99.728231,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carr . Ixtlahuaca - San Felipe del Progreso. Ixtlahuaca de Rayón, Estado de México.",
+     "lat": 19.574898,
+     "lng": -99.782702,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carr. Toluca-Naucalpan Km. 45 Margen Derecho. Xonacatlan, Estado de México.",
+     "lat": 19.412198,
+     "lng": -99.508478,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Constituyentes #14, Col. La Cuchara. Tonala, Jalisco",
+     "lat": 20.631644,
+     "lng": -103.250158,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Luis Echeverria Alvarez #1800, Col. Santa Teresita. Saltillo, Coahuila.",
+     "lat": 25.40805,
+     "lng": -101.029396,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Lib. Oscar Flores Tapia #22250, Col. Antigua Hacienda El Jaral. Ramos Arizpe, Coahuila.",
+     "lat": 25.522842,
+     "lng": -100.921238,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Autopista Mty-Saltillo #25000-B. Ramos Arizpe, Coahuila",
+     "lat": 25.613087,
+     "lng": -100.847085,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Bravo #1137 Oriente, Col. Centro. Torreón, Coahuila",
+     "lat": 25.545133,
+     "lng": -103.436204,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Manuel L. Barragan # 1300 \"A, Col. Las Misiones, C.P. 66428, San Nicolas de Los Garza, Nuevo León",
+     "lat": 25.763054,
+     "lng": -100.305374,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Miguel Aleman No. 1200 Ote, Col. Talaberna, C.P. 67112, Guadalupe, Nuevo León",
+     "lat": 25.711113,
+     "lng": -100.220974,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Rangel Frias # 5631, Col. Del Maestro, C.P. 64180, Monterrey, Nuevo León",
+     "lat": 25.725831,
+     "lng": -100.353571,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Cabezada # 1307, Col. Barrio la Moderna, C.P. 64100, Monterrey, Nuevo León",
+     "lat": 25.778049,
+     "lng": 100.384728,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "02 de Abril # 1520, Col. Nuevo Repueblo, C.P. 64700, Monterrey, Nuevo León",
+     "lat": 25.657469,
+     "lng": -100.302182,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. San Jeronimo # 508, Col. San Jeronimo, C.P. 64640, Monterrey, Nuevo León",
+     "lat": 25.674355,
+     "lng": -100.357679,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Casa Del Obrero Mundial 5007, Col. C.R.O.C., C.P. 64200, Monterrey, Nuevo León",
+     "lat": 25.786014,
+     "lng": -100.377026,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Camino Real No. 10399, Col. El Porvenir, C.P. 0, Monterrey, Nuevo León",
+     "lat": 25.768887,
+     "lng": -100.368018,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carrt. a Huinala y Camino Al Milagro # 300, Col. Apodaca, C.P. 66600, Apodaca, Nuevo León",
+     "lat": 25.746842,
+     "lng": -100.191857,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Calle Rio Pilon # 612, Col. Pueblo Nuevo, C.P. 1, Apodaca, Nuevo León",
+     "lat": 25.759833,
+     "lng": -100.165925,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. No Reeleccion Num. 5521 Cruz Con Valle Del Nog, Col. Colinas Del Valle Verde, C.P. 64360, Monterrey, Nuevo León",
+     "lat": 25.736936,
+     "lng": -100.367227,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Camino Real No. 7726, Col. Topo Chico, C.P. 64260, Monterrey, Nuevo León",
+     "lat": 25.710928,
+     "lng": -100.221181,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Rio Orinoco No. 708, Col. Lomas de San Isidro, C.P. 66646, Apodaca, Nuevo León",
+     "lat": 25.756767,
+     "lng": -100.153549,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Prolong. Av. Bernardo Reyes # 6765, Col. Topo Chico, C.P. 64280, Monterrey, Nuevo León",
+     "lat": 25.737573,
+     "lng": -100.332462,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Camino Real # 150, Col. San Martin, C.P. 66061, General Escobedo, Nuevo León",
+     "lat": 25.797108,
+     "lng": -100.382159,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carretera a Santa Rosa No. 1000 A, Col. Fracc. Cosmopolis, C.P. 66477, Apodaca, Nuevo León",
+     "lat": 25.830018,
+     "lng": -100.244984,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd.B.Juarez y Av.Hacienda Del Rey, Col. Haciendas de Escobedo, C.P. 0, General Escobedo, Nuevo León",
+     "lat": 25.789743,
+     "lng": -100.305131,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carret. San Mateo-Cd Benito Juarez No. 300, Col. Los Fresnos, C.P. 65920, Juarez, Nuevo León",
+     "lat": 25.641554,
+     "lng": -100.09376,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carretera Monterrey-Saltillo No. 3253, Col. Al Pte. de Col Puerta de las Mitras, C.P. 66350, Santa Catarina, Nuevo León",
+     "lat": 25.690376,
+     "lng": -100.502008,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av.Eugenio Garza Sada # 2200,2201-1 Al 2200-20, Col. Los Cristales, C.P. 64985, Monterrey, Nuevo León",
+     "lat": 25.543982,
+     "lng": -100.222818,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. la Estanzuela No. 102, Col. La Estanzuela, C.P. 64984, Monterrey, Nuevo León",
+     "lat": 25.588797,
+     "lng": -100.252631,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Carret. Nacinal Km 261 No. 202-A, Col. El Cerrito, C.P. 67300, Santiago, Nuevo León",
+     "lat": 25.508605,
+     "lng": -100.194765,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Miguel Alemán esquina con Av. Acapulco, Col. La Fe, C.P. 66477, San Nicolás de Los Garza, Nuevo León",
+     "lat": 25.723977,
+     "lng": -100.213912,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Santo Domingo No. 780, Col. Bosques Del Roble, C.P. 66400, San Nicolas de Los Garza, Nuevo León",
+     "lat": 25.755452,
+     "lng": -100.283248,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Santo Domingo # 1500, Col. Praderas, C.P. 66436, San Nicolas de Los Garza, Nuevo León",
+     "lat": 25.75177,
+     "lng": -100.259259,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Molinero # 101, Col. El Faisan, C.P. 67300, Santiago, Nuevo León",
+     "lat": 25.509343,
+     "lng": -100.194265,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": 100.080948,
+     "lat": 25.655369,
+     "lng": -100.080948,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Calle Morelos No. 603, Col. San Juan, C.P. 64500, Cadereyta Jimenez, Nuevo León",
+     "lat": 25.540994,
+     "lng": -99.841348,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Bonifacio Salinas No. 114-A, Col. Fracc. Industrial las Americas, C.P. 67100, Guadalupe, Nuevo León",
+     "lat": 25.701022,
+     "lng": -100.240053,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Diego Diaz de Berlanga No. 661, Col. Nueva las Puentes, C.P. 66426, San Nicolas de Los Garza, Nuevo León",
+     "lat": 25.746126,
+     "lng": -100.260091,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "C. Bravo No. 1137 Oriente, Col. Centro, C.P. 27000, Torreón, Coahuila",
+     "lat": 25.545425,
+     "lng": -103.436096,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Alfonso Reyes # 1581, 1581-A, 1581-B, Col. Sarabia, C.P. 64490, Monterrey, Nuevo León",
+     "lat": 25.688794,
+     "lng": -100.316388,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Perif. de la Juventud No. 4301, Valle del Ángel, 31167 Chihuahua, Chih.",
+     "lat": 28.654869,
+     "lng": -106.130875,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Ave. de las Americas No. 1013, Col. Panamericana, C.P. 31107, Chihuahua, Chihuahua.",
+     "lat": 28.656691,
+     "lng": -106.108293,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Melchor Guaspe Num. 4204 Esq. Calle 44, Col. Dale, C.P. 31050, Chihuahua, Chihuahua",
+     "lat": 28.610759,
+     "lng": -106.064906,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Teofilo Borunda 2200, Col. Zarco, C.P. 31020, Chihuahua, Chihuahua.",
+     "lat": 28.627959,
+     "lng": -106.086881,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "José María Iglesias No. 5512, Col. Granjas, C.P. 31100, Chihuahua, Chihuahua.",
+     "lat": 28.667286,
+     "lng": -106.11168,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Av. Ricardo Flores Magón No. 6401, Col. Inalambrica, C.P. 31020, Chihuahua, Chihuahua.",
+     "lat": 28.612083,
+     "lng": -106.090935,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Blvd Juan Pablo II No. 4700, esq. calle 47, Col. 1 de Mayo, C.P. 31074, Chihuahua, Chihuahua",
+     "lat": 28.630746,
+     "lng": -106.022448,
+     "marca": "OXXO GAS"
+  },
+  {
+     "direccion": "Constituyentes #14, Col. La Cuchara. Tonala, Jalisco",
+     "lat": 20.687405,
+     "lng": -103.335226,
+     "marca": "OXXO GAS"
+  }
+]

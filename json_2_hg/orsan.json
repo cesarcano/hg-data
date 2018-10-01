@@ -1,0 +1,919 @@
+[
+  {
+     "direccion": "Carr. a Laredo Norte 101,Centro, SAN NICOLAS, Nuevo Leon.",
+     "lat": 25.761806,
+     "lng": -100.294175,
+     "marca": "ORSAN",
+     "folio": 2534
+  },
+  {
+     "direccion": "Ave. Eugenio Garza Sada 4306,Las Brisas, MONTERREY, Nuevo Leon.",
+     "lat": 25.624125,
+     "lng": -100.275514,
+     "marca": "ORSAN",
+     "folio": 3187
+  },
+  {
+     "direccion": "Insurgentes 3991,S/N, MONTERREY, Nuevo Leon.",
+     "lat": 25.680567,
+     "lng": -100.357444,
+     "marca": "ORSAN",
+     "folio": 3583
+  },
+  {
+     "direccion": "Ave. Nogalar Sur 351,Industrial Nogalar, SAN NICOLAS, Nuevo Leon.",
+     "lat": 25.715536,
+     "lng": -100.284253,
+     "marca": "ORSAN",
+     "folio": 3738
+  },
+  {
+     "direccion": "Ave. Morones Prieto 2300,Loma Larga, MONTERREY, Nuevo Leon.",
+     "lat": 25.667814,
+     "lng": -100.344858,
+     "marca": "ORSAN",
+     "folio": 3639
+  },
+  {
+     "direccion": "Ave. Morones Prieto 990,Caracol, MONTERREY, Nuevo Leon.",
+     "lat": 25.669492,
+     "lng": -100.290064,
+     "marca": "ORSAN",
+     "folio": 3453
+  },
+  {
+     "direccion": "Ave. Lazaro Cardenas 3808,Las Torres, MONTERREY, Nuevo Leon.",
+     "lat": 25.621358,
+     "lng": -100.286478,
+     "marca": "ORSAN",
+     "folio": 3328
+  },
+  {
+     "direccion": "Ave. Carlos Cantu 704,Centro, MONTEMORELOS, Nuevo Leon.",
+     "lat": 25.189581,
+     "lng": -99.838003,
+     "marca": "ORSAN",
+     "folio": 1997
+  },
+  {
+     "direccion": "Ave. Rodolfo Ruiz Cortines 1418,Atasta, VILLAHERMOSA, Tabasco.",
+     "lat": 17.989583,
+     "lng": -92.949564,
+     "marca": "ORSAN",
+     "folio": 1064
+  },
+  {
+     "direccion": "Carr. a Laredo Norte Km. 22.5,S/N, CIENEGA DE FLORES, Nuevo Leon.",
+     "lat": 25.868228,
+     "lng": -100.231344,
+     "marca": "ORSAN",
+     "folio": 4020
+  },
+  {
+     "direccion": "Carr. Circuito del Golfo Km. 407,Nuevo Progreso, CARDENAS, Tabasco.",
+     "lat": 17.999639,
+     "lng": -93.378736,
+     "marca": "ORSAN",
+     "folio": 1045
+  },
+  {
+     "direccion": "Ave. Paseo Tabasco 906,Jesus Garcia, VILLAHERMOSA, Tabasco.",
+     "lat": 17.991803,
+     "lng": -92.932489,
+     "marca": "ORSAN",
+     "folio": 1067
+  },
+  {
+     "direccion": "Carr. Reforma - Juarez Km 45 + 750,S/N, REFORMA, Chiapas.",
+     "lat": 17.857372,
+     "lng": -93.155428,
+     "marca": "ORSAN",
+     "folio": 2991
+  },
+  {
+     "direccion": "Ave. Adolfo Ruiz Cortines 903,Arboledas, VILLAHERMOSA, Tabasco.",
+     "lat": 17.999578,
+     "lng": -92.923347,
+     "marca": "ORSAN",
+     "folio": 4499
+  },
+  {
+     "direccion": "Av. Jose Vasconcelos 398 Pte.,Del Valle, SAN PEDRO, Nuevo Leon.",
+     "lat": 25.653908,
+     "lng": -100.380867,
+     "marca": "ORSAN",
+     "folio": 3102
+  },
+  {
+     "direccion": "Carr. Villahermosa - Frontera Km 21.5,Centro, MACULTEPEC, Tabasco.",
+     "lat": 18.160494,
+     "lng": -92.859739,
+     "marca": "ORSAN",
+     "folio": 3864
+  },
+  {
+     "direccion": "Carr. Palenque - Ocosingo Km 0.55,S/N, PALENQUE, Chiapas.",
+     "lat": 17.5021,
+     "lng": -91.991567,
+     "marca": "ORSAN",
+     "folio": 4868
+  },
+  {
+     "direccion": "Carr. A Saltillo Km. 66.5, SANTA CATARINA, Nuevo Leon.",
+     "lat": 25.685436,
+     "lng": -100.473042,
+     "marca": "ORSAN",
+     "folio": 2911
+  },
+  {
+     "direccion": "Av. Juarez 199,Centro, PALENQUE, Chiapas.",
+     "lat": 17.508136,
+     "lng": -91.988286,
+     "marca": "ORSAN",
+     "folio": 1057
+  },
+  {
+     "direccion": "Carr. Villahermosa - Frontera 423,Jose Ma. Pino Suarez, VILLAHERMOSA, Tabasco.",
+     "lat": 18.016033,
+     "lng": -92.913731,
+     "marca": "ORSAN",
+     "folio": 5394
+  },
+  {
+     "direccion": "Autopista Mexico - Queretaro 100,Fracc. Industrial La Noria, EL MARQUES, Queretaro.",
+     "lat": 20.568806,
+     "lng": -100.302361,
+     "marca": "ORSAN",
+     "folio": 5085
+  },
+  {
+     "direccion": "Av. 5 de Febrero 235 Nte.,Zona Industrial Felipe Carrillo Puerto, QUERETARO, Queretaro.",
+     "lat": 20.603686,
+     "lng": -100.418769,
+     "marca": "ORSAN",
+     "folio": 4097
+  },
+  {
+     "direccion": "Av. El Sol No.2 Esq. Av. Revolucion,Fracc. El Sol, QUERETARO, Queretaro.",
+     "lat": 20.616658,
+     "lng": -100.437439,
+     "marca": "ORSAN",
+     "folio": 4784
+  },
+  {
+     "direccion": "Av. 12 De Octubre Esq. Camino San Jose de Guanajuato,S/N, CELAYA, Guanajuato.",
+     "lat": 20.530789,
+     "lng": -100.835675,
+     "marca": "ORSAN",
+     "folio": 4293
+  },
+  {
+     "direccion": "Carr. a Tequisquiapan y Av. 2,S/N, SAN JUAN DEL RIO, Queretaro.",
+     "lat": 20.414961,
+     "lng": -99.981867,
+     "marca": "ORSAN",
+     "folio": 5530
+  },
+  {
+     "direccion": "Autopista Queretaro San Luis Potosi Km. 10+400,Fracc. El Salitre, QUERETARO, Queretaro.",
+     "lat": 20.660233,
+     "lng": -100.431711,
+     "marca": "ORSAN",
+     "folio": 5505
+  },
+  {
+     "direccion": "Autopista Queretaro San Luis Potosi Km. 178,La Estancia, SAN JUAN DEL RIO, Queretaro.",
+     "lat": 20.417628,
+     "lng": -100.044547,
+     "marca": "ORSAN",
+     "folio": 5664
+  },
+  {
+     "direccion": "Carr. Nuevo Laredo - Monterrey Km. 27,S/N, NUEVO LAREDO, Tamaulipas.",
+     "lat": 27.276325,
+     "lng": -99.612125,
+     "marca": "ORSAN",
+     "folio": 3471
+  },
+  {
+     "direccion": "Prol. Ruiz Cortines 300,Provivienda, GUADALUPE, Nuevo Leon.",
+     "lat": 25.709247,
+     "lng": -100.194383,
+     "marca": "ORSAN",
+     "folio": 5830
+  },
+  {
+     "direccion": "Libramiento Noroeste De Queretaro Km. 19.5,Lado Sur El Marques, EL MARQUES, Queretaro.",
+     "lat": 20.699736,
+     "lng": -100.338019,
+     "marca": "ORSAN",
+     "folio": 4035
+  },
+  {
+     "direccion": "Calle Uno S/N,Puerto Pesquero, CD. DEL CARMEN, Campeche.",
+     "lat": 18.64785,
+     "lng": -91.848419,
+     "marca": "ORSAN",
+     "folio": 6925
+  },
+  {
+     "direccion": "Ave. Chapultepec 180 Ote.,Paraiso, GUADALUPE, Nuevo Leon.",
+     "lat": 25.666183,
+     "lng": -100.267369,
+     "marca": "ORSAN",
+     "folio": 7457
+  },
+  {
+     "direccion": "Ave. Benito Juarez 57,Zona Hotelera, SAN LUIS POTOSI, San Luis Potosi.",
+     "lat": 22.148461,
+     "lng": -100.951742,
+     "marca": "ORSAN",
+     "folio": 2278
+  },
+  {
+     "direccion": "Carr. Circuito del Golfo Km 1,S/N, SALTO DE AGUA, Chiapas.",
+     "lat": 17.557178,
+     "lng": -92.350128,
+     "marca": "ORSAN",
+     "folio": 6429
+  },
+  {
+     "direccion": "Ave. Reforma 4400,Mexico, NUEVO LAREDO, Tamaulipas.",
+     "lat": 27.462031,
+     "lng": -99.511714,
+     "marca": "ORSAN",
+     "folio": 8425
+  },
+  {
+     "direccion": "Ave. 5 de Febrero 809 Esq. Universidad,La Sierrita, QUERETARO, Queretaro.",
+     "lat": 20.5937,
+     "lng": -100.414986,
+     "marca": "ORSAN",
+     "folio": 4882
+  },
+  {
+     "direccion": "Ave. Periferico Norte Esq. 35 A,S/N, CD. DEL CARMEN, Campeche.",
+     "lat": 18.65545,
+     "lng": -91.816903,
+     "marca": "ORSAN",
+     "folio": 8472
+  },
+  {
+     "direccion": "Zaragoza Esq. Aquiles Serdan S/N,Centro, COATZACOALCOS, Veracruz.",
+     "lat": 18.13705,
+     "lng": -94.434458,
+     "marca": "ORSAN",
+     "folio": 3995
+  },
+  {
+     "direccion": "Juarez Esq. Abasolo S/N,Centro, COATZACOALCOS, Veracruz.",
+     "lat": 18.138928,
+     "lng": -94.434339,
+     "marca": "ORSAN",
+     "folio": 410
+  },
+  {
+     "direccion": "Carr. Transismica Km. 57.5,S/N, COATZACOALCOS, Veracruz.",
+     "lat": 18.114886,
+     "lng": -94.446911,
+     "marca": "ORSAN",
+     "folio": 2952
+  },
+  {
+     "direccion": "Carr. Coatzacoalcos-Minatitlan Km. 3.5,Primero de Mayo, COATZACOALCOS, Veracruz.",
+     "lat": 18.128592,
+     "lng": -94.438739,
+     "marca": "ORSAN",
+     "folio": 2755
+  },
+  {
+     "direccion": "Carr. Coatzacoalcos-Villahermosa Km. 6+383,S/N, COATZACOALCOS, Veracruz.",
+     "lat": 18.098811,
+     "lng": -94.389447,
+     "marca": "ORSAN",
+     "folio": 5407
+  },
+  {
+     "direccion": "Av. Justo Sierra Esq. Madrid S/N,Nueva Mina, MINATITLAN, Veracruz.",
+     "lat": 17.990992,
+     "lng": -94.569808,
+     "marca": "ORSAN",
+     "folio": 4009
+  },
+  {
+     "direccion": "Av. Hidalgo 198,Centro, MINATITLAN, Veracruz.",
+     "lat": 17.991675,
+     "lng": -94.54505,
+     "marca": "ORSAN",
+     "folio": 577
+  },
+  {
+     "direccion": "Carr. Coatzacoalcos-Villahermosa Km. 37.5,S/N, AGUA DULCE, Veracruz.",
+     "lat": 18.053225,
+     "lng": -94.122656,
+     "marca": "ORSAN",
+     "folio": 3318
+  },
+  {
+     "direccion": "Blvd. Morelos 185,Prolongacion Longoria, REYNOSA, Tamaulipas.",
+     "lat": 26.068578,
+     "lng": -98.290025,
+     "marca": "ORSAN",
+     "folio": 9292
+  },
+  {
+     "direccion": "Blvd. Pedro Cardenas 1901,Fracc. Victoria, MATAMOROS, Tamaulipas.",
+     "lat": 25.852772,
+     "lng": -97.507164,
+     "marca": "ORSAN",
+     "folio": 9132
+  },
+  {
+     "direccion": "Carr. Federal 57 Km. 140 Tramo Matehuala - Huizache,S/N, VILLA GUADALUPE, San Luis Potosi.",
+     "lat": 23.210958,
+     "lng": -100.538272,
+     "marca": "ORSAN",
+     "folio": 5058
+  },
+  {
+     "direccion": "Ave. Acapulco 161,Fracc. Los Cristales, GUADALUPE, Nuevo Leon.",
+     "lat": 25.722675,
+     "lng": -100.203986,
+     "marca": "ORSAN",
+     "folio": 8974
+  },
+  {
+     "direccion": "Ave. Romulo Garza 800-A,Hacienda Los Morales, SAN NICOLAS, Nuevo Leon.",
+     "lat": 25.716081,
+     "lng": -100.248797,
+     "marca": "ORSAN",
+     "folio": 9380
+  },
+  {
+     "direccion": "Ruiz Cortines 3428 Ote.,Moderna, MONTERREY, Nuevo Leon.",
+     "lat": 25.703403,
+     "lng": -100.279656,
+     "marca": "ORSAN",
+     "folio": 2028
+  },
+  {
+     "direccion": "Carr. Cardenas Villahermosa Km 124 + 740,S/N, CARDENAS, Tabasco.",
+     "lat": 17.998453,
+     "lng": -93.349456,
+     "marca": "ORSAN",
+     "folio": 3492
+  },
+  {
+     "direccion": "Carr. 90 Irapuato - Guadalajara Km. 26.6,Rancho San Isidro, ABASOLO, Guanajuato.",
+     "lat": 20.474789,
+     "lng": -101.4996,
+     "marca": "ORSAN",
+     "folio": 7625
+  },
+  {
+     "direccion": "Av. Raul Rangel Frias 3500,Rangel Frias, MONTERREY, Nuevo Leon.",
+     "lat": 25.727678,
+     "lng": -100.34945,
+     "marca": "ORSAN",
+     "folio": 8891
+  },
+  {
+     "direccion": "Ave. Lazaro Cardenas 2885,Valle Marquez, MONTERREY, Nuevo Leon.",
+     "lat": 25.628869,
+     "lng": -100.296394,
+     "marca": "ORSAN",
+     "folio": 3919
+  },
+  {
+     "direccion": "Diagonal Morelos y Zaragoza,S/N, CABO SAN LUCAS, Baja California Sur.",
+     "lat": 22.896089,
+     "lng": -109.918764,
+     "marca": "ORSAN",
+     "folio": 5907
+  },
+  {
+     "direccion": "Carr. a San Jose del Cabo Km 2,S/N, CABO SAN LUCAS, Baja California Sur.",
+     "lat": 22.892742,
+     "lng": -109.908133,
+     "marca": "ORSAN",
+     "folio": 1695
+  },
+  {
+     "direccion": "Manzana B10 Lote 11,S/N, CABO SAN LUCAS, Baja California Sur.",
+     "lat": 22.905222,
+     "lng": -109.921853,
+     "marca": "ORSAN",
+     "folio": 8577
+  },
+  {
+     "direccion": "Carr. Cardenas Tabasco Km. 163+703,Fracc. Parque Logistico Industrial, VILLAHERMOSA, Tabasco.",
+     "lat": 17.987764,
+     "lng": -92.988267,
+     "marca": "ORSAN",
+     "folio": 9679
+  },
+  {
+     "direccion": "Av. Isla de Tris Km 2,Luis Donaldo Colosio, CIUDAD DEL CARMEN, Campeche.",
+     "lat": 18.652564,
+     "lng": -91.794878,
+     "marca": "ORSAN",
+     "folio": 9967
+  },
+  {
+     "direccion": "Av. Adolfo Ruiz Cortines S/N Europlaza,Carrizal, VILLAHERMOSA, Tabasco.",
+     "lat": 17.988431,
+     "lng": -92.964303,
+     "marca": "ORSAN",
+     "folio": 5212
+  },
+  {
+     "direccion": "Carr. Transpeninsular # 2049,Lomas Del Rosarito, SAN JOSE DEL CABO, Baja California Sur.",
+     "lat": 23.072642,
+     "lng": -109.705686,
+     "marca": "ORSAN",
+     "folio": 10095
+  },
+  {
+     "direccion": "Carr. A Dos Bocas Paraiso,R/A El Limón, PARAISO, Tabasco.",
+     "lat": 18.409628,
+     "lng": -93.214028,
+     "marca": "ORSAN",
+     "folio": 5337
+  },
+  {
+     "direccion": "Paseo de Leones S/N,Cerradas De Cumbres, MONTERREY, Nuevo Leon.",
+     "lat": 25.741517,
+     "lng": -100.414242,
+     "marca": "ORSAN",
+     "folio": 10432
+  },
+  {
+     "direccion": "Carr. Transpeninsular KM 34.6,Gaymitas, SAN JOSE DEL CABO, Baja California Sur.",
+     "lat": 23.080908,
+     "lng": -109.707819,
+     "marca": "ORSAN",
+     "folio": 8074
+  },
+  {
+     "direccion": "CARRETERA TRANSPENINSULAR 8600,EL ZACATAL, SAN JOSE DEL CABO, Baja California Sur.",
+     "lat": 23.105964,
+     "lng": -109.7118,
+     "marca": "ORSAN",
+     "folio": 9978
+  },
+  {
+     "direccion": "Libramiento Noroeste De Queretaro Km. 19.5,Lado Norte El Marques, EL MARQUES, Queretaro.",
+     "lat": 20.69985,
+     "lng": -100.337067,
+     "marca": "ORSAN",
+     "folio": 4358
+  },
+  {
+     "direccion": "Av. De las Brisas #2404 Entre calles Aguajitos y carrt. A Todos Los Santos.,brisas del Pacifico, MINI SENDERO, Baja California Sur.",
+     "lat": 22.902986,
+     "lng": -109.932072,
+     "marca": "ORSAN",
+     "folio": 10725
+  },
+  {
+     "direccion": "Carretera Transismica KM. 57.5 S/N,S/C, VILLAHERMOSA, Tabasco.",
+     "lat": 18.007761,
+     "lng": -92.975863,
+     "marca": "ORSAN",
+     "folio": 10786
+  },
+  {
+     "direccion": "Ramón Del Valle 101, Colinas de San Jeronimo, MONTERREY, Nuevo Leon.",
+     "lat": 25.681175,
+     "lng": -100.357653,
+     "marca": "ORSAN",
+     "folio": 3583
+  },
+  {
+     "direccion": "Ave. Eugenio Garza Sada 4379,Contry, MONTERREY, Nuevo Leon.",
+     "lat": 25.624331,
+     "lng": -100.274697,
+     "marca": "ORSAN",
+     "folio": 3952
+  },
+  {
+     "direccion": "CARR. BENEMERITO - NUEVO CHIHUAHUA KM 197, BENEMERITO DE LAS AMERICAS, Chiapas.",
+     "lat": 16.500214,
+     "lng": -90.654122,
+     "marca": "ORSAN",
+     "folio": 10075
+  },
+  {
+     "direccion": "Km. 17+267.10 CARRETERA FEDERAL 186 TRAMO VILLAHERMOSA-FCO. ESCARCEGA, VILLAHERMOSA, Tabasco.",
+     "lat": 17.945692,
+     "lng": -92.784033,
+     "marca": "ORSAN",
+     "folio": 11404
+  },
+  {
+     "direccion": "Av. 5 de febrero # 235, Zona Industrial Felipe Carrillo Puerto, QUERETARO, QRO, .",
+     "lat": 23.651953,
+     "lng": -100.343147,
+     "marca": "ORSAN",
+     "folio": 11481
+  },
+  {
+     "direccion": "Blvd. Bernardo Quintana No. 44,  Fracc. Arboledas, Queretaro, Queretaro.",
+     "lat": 20.615078,
+     "lng": -100.386586,
+     "marca": "ORSAN",
+     "folio": 866
+  },
+  {
+     "direccion": "Corregidora Sur No. 194. Col. Centro, Queretaro, Queretaro.",
+     "lat": 20.586275,
+     "lng": -100.389067,
+     "marca": "ORSAN",
+     "folio": 876
+  },
+  {
+     "direccion": "Av. 5 de Febrero No 104 esq. Ignacio Zaragoza, Col. Centro, Queretaro, Queretaro.",
+     "lat": 20.582236,
+     "lng": -100.407031,
+     "marca": "ORSAN",
+     "folio": 878
+  },
+  {
+     "direccion": "Av. Constituyentes No. 132 Ote. Fracc. Los Arquitos, Queretaro, Queretaro.",
+     "lat": 20.587881,
+     "lng": -100.3679,
+     "marca": "ORSAN",
+     "folio": 881
+  },
+  {
+     "direccion": "Av. Constituyentes No. 177 Pte. Col. Casa Blanca, Queretaro, Queretaro.",
+     "lat": 20.579267,
+     "lng": -100.399986,
+     "marca": "ORSAN",
+     "folio": 883
+  },
+  {
+     "direccion": "Av. 5 de Febrero km 227.6. Col. San Pablo, Queretaro, Queretaro.",
+     "lat": 20.616708,
+     "lng": -100.421639,
+     "marca": "ORSAN",
+     "folio": 886
+  },
+  {
+     "direccion": "Carr. a Celaya km. 1, Col. Allende , San Miguel de Allende, Guanajuato.",
+     "lat": 20.9044,
+     "lng": -100.748517,
+     "marca": "ORSAN",
+     "folio": 2868
+  },
+  {
+     "direccion": "Carr. Mexico-Irapuato km 300, Salamanca, Guanajuato.",
+     "lat": 20.597892,
+     "lng": -101.180108,
+     "marca": "ORSAN",
+     "folio": 2910
+  },
+  {
+     "direccion": "Carr. Mexico-Irapuato km 300, Salamanca, Guanajuato.",
+     "lat": 20.598786,
+     "lng": -101.180344,
+     "marca": "ORSAN",
+     "folio": 2912
+  },
+  {
+     "direccion": "Carr. Celaya - Queretaro km 5.9, Col. Villa Corregidora, Corregidora, Queretaro.",
+     "lat": 20.573047,
+     "lng": -100.469458,
+     "marca": "ORSAN",
+     "folio": 3922
+  },
+  {
+     "direccion": "Carr. Irapuato - Abasolo - La Piedad km. 14.5, Col. Modelo, Irapuato, Guanajuato.",
+     "lat": 20.564897,
+     "lng": -101.447128,
+     "marca": "ORSAN",
+     "folio": 3978
+  },
+  {
+     "direccion": "Carr. San Luis Potosi Km. 46 , San Jose de Iturbide, Guanajuato.",
+     "lat": 20.964033,
+     "lng": -100.426831,
+     "marca": "ORSAN",
+     "folio": 4034
+  },
+  {
+     "direccion": "Blvd. Bernardo Quintana km 17. Col. San Pablo, Queretaro, Queretaro.",
+     "lat": 20.619042,
+     "lng": -100.410978,
+     "marca": "ORSAN",
+     "folio": 4041
+  },
+  {
+     "direccion": "Av. 5 de Febrero, No 1112 Col. Centro, Queretaro, Queretaro.",
+     "lat": 20.593023,
+     "lng": -100.413953,
+     "marca": "ORSAN",
+     "folio": 4127
+  },
+  {
+     "direccion": "Ave. Luis Vega y Monroy No 400,  Col. Plazas del Sol, Queretaro, Queretaro.",
+     "lat": 20.577233,
+     "lng": -100.373683,
+     "marca": "ORSAN",
+     "folio": 4235
+  },
+  {
+     "direccion": "Carr. Mexico-Queretaro km 191+100, Col. Palo Alto, El Marques, Queretaro.",
+     "lat": 20.554731,
+     "lng": -100.217333,
+     "marca": "ORSAN",
+     "folio": 4295
+  },
+  {
+     "direccion": "Carr. Panamericana km 311, Salamanca, Guanajuato.",
+     "lat": 20.549903,
+     "lng": -101.143342,
+     "marca": "ORSAN",
+     "folio": 4377
+  },
+  {
+     "direccion": "Carr. Queretaro-Celaya km7+000, Corregidora, Queretaro.",
+     "lat": 20.572186,
+     "lng": -100.469886,
+     "marca": "ORSAN",
+     "folio": 4455
+  },
+  {
+     "direccion": "Ave. Del Sol No 1 Fracc. El Sol, Queretaro, Queretaro.",
+     "lat": 20.615753,
+     "lng": -100.436883,
+     "marca": "ORSAN",
+     "folio": 4664
+  },
+  {
+     "direccion": "Carr. Mexico-Queretaro km 191+137, El Marques, Queretaro.",
+     "lat": 20.553097,
+     "lng": -100.217767,
+     "marca": "ORSAN",
+     "folio": 5071
+  },
+  {
+     "direccion": "Rio Moctezuma No 1, Col. San Cayetano, San Juan del Rio, Queretaro.",
+     "lat": 20.388403,
+     "lng": -99.984072,
+     "marca": "ORSAN",
+     "folio": 6495
+  },
+  {
+     "direccion": "Ave. Constituyentes No 27 Col. Centro , San Juan del Rio, Queretaro.",
+     "lat": 20.395231,
+     "lng": -99.988542,
+     "marca": "ORSAN",
+     "folio": 6564
+  },
+  {
+     "direccion": "Carr. Mexico-Pachuca km 77.6, Pachuca, Hidalgo.",
+     "lat": 20.022983,
+     "lng": -98.810069,
+     "marca": "ORSAN",
+     "folio": 6771
+  },
+  {
+     "direccion": "Carr. Pachuca-Cd. Valles Tramo Actopan km 9+100 Santa Catarina Tornacuxtle, San Agustín Tlaxcala, Hidalgo.",
+     "lat": 20.124339,
+     "lng": -98.833403,
+     "marca": "ORSAN",
+     "folio": 7619
+  },
+  {
+     "direccion": "Carr. Queretaro - San Luis Potosi km. 27+841, Col. Buenavista, Queretaro, Queretaro.",
+     "lat": 20.814178,
+     "lng": -100.449333,
+     "marca": "ORSAN",
+     "folio": 8456
+  },
+  {
+     "direccion": "Av. del Canal 219 Col. Parque Plan de Labores, 52740, Estado de Mexico.",
+     "lat": 19.259144,
+     "lng": -99.474467,
+     "marca": "ORSAN",
+     "folio": 8576
+  },
+  {
+     "direccion": "Prolongacion Corregidora Nte. No 911 Col. Hacienda La Laborcilla, Queretaro, Queretaro.",
+     "lat": 20.613647,
+     "lng": -100.389,
+     "marca": "ORSAN",
+     "folio": 8728
+  },
+  {
+     "direccion": "Manzana XVI Ave. de la Luz, Esq. Prol. Bernardo Quintana, Col. Cerrito Colorado - Comevi, Queretaro, Queretaro.",
+     "lat": 20.631717,
+     "lng": -100.466339,
+     "marca": "ORSAN",
+     "folio": 9703
+  },
+  {
+     "direccion": "Blvd. Diaz Ordaz No 1395 Esq. Calle Ixtoc Col. Centro, Irapuato, Guanajuato.",
+     "lat": 20.679097,
+     "lng": -101.345817,
+     "marca": "ORSAN",
+     "folio": 5549
+  },
+  {
+     "direccion": "MIGUEL ALEMAN km:24, Apodaca, Nuevo Leon.",
+     "lat": 25.779956,
+     "lng": -100.122302,
+     "marca": "ORSAN",
+     "folio": 11575
+  },
+  {
+     "direccion": "KM 0 carretera 100 El Colorado-Higuerillas, El Marques, Queretaro.",
+     "lat": 20.562411,
+     "lng": -100.221314,
+     "marca": "ORSAN",
+     "folio": 11824
+  },
+  {
+     "direccion": "Boulevard Harold R. Pape #1912 Col. Del Prado, MONCLOVA, Coahuila.",
+     "lat": 26.9267,
+     "lng": -101.417618,
+     "marca": "ORSAN",
+     "folio": 11959
+  },
+  {
+     "direccion": "Carretera 57 KM 6.5 #1400 Col. Estancia San Juan Bautista, MONCLOVA, Coahuila.",
+     "lat": 26.957345,
+     "lng": -101.409745,
+     "marca": "ORSAN",
+     "folio": 5115
+  },
+  {
+     "direccion": "Calle de la Fuente 108 Oriente Col. Centro, MONCLOVA, Coahuila.",
+     "lat": 26.902411,
+     "lng": -101.422894,
+     "marca": "ORSAN",
+     "folio": 4668
+  },
+  {
+     "direccion": "Carretera Saltillo-Piedra Negras KM 1065.5 Col. Centro, MONCLOVA, Coahuila.",
+     "lat": 26.892235,
+     "lng": -101.423535,
+     "marca": "ORSAN",
+     "folio": 2215
+  },
+  {
+     "direccion": "Huemac 1101 Col. Anahuac, MONCLOVA, Coahuila.",
+     "lat": 26.901071,
+     "lng": -101.438081,
+     "marca": "ORSAN",
+     "folio": 6012
+  },
+  {
+     "direccion": "Presidente Carranza #75 Col. Comercial, SAN JUAN DE SABINAS, Coahuila.",
+     "lat": 27.936913,
+     "lng": -101.227725,
+     "marca": "ORSAN",
+     "folio": 5773
+  },
+  {
+     "direccion": "CARRETERA TRANSPENINSULAR No 5380 Col. El Zacatal, SAN JOSE DEL CABO, Baja California Sur.",
+     "lat": 23.098861,
+     "lng": -109.7104,
+     "marca": "ORSAN",
+     "folio": 6478
+  },
+  {
+     "direccion": "CALLE DIAGONAL MORELOS No. 3717 COL. MATAMOROS, Cabo San Lucas, Baja California Sur.",
+     "lat": 22.938031,
+     "lng": -109.938231,
+     "marca": "ORSAN",
+     "folio": 10903
+  },
+  {
+     "direccion": "CALLE DIAGONAL MORELOS No. 3717 COL. MATAMOROS, Cabo San Lucas, Baja California Sur.",
+     "lat": 22.90735,
+     "lng": -109.9642,
+     "marca": "ORSAN",
+     "folio": 10412
+  },
+  {
+     "direccion": "CALLE DIAGONAL MORELOS No. 3717 COL. MATAMOROS, Cabo San Lucas, Baja California Sur.",
+     "lat": 22.886519,
+     "lng": -109.926889,
+     "marca": "ORSAN",
+     "folio": 11249
+  },
+  {
+     "direccion": "CALLE DIAGONAL MORELOS No. 3717 COL. MATAMOROS, Cabo San Lucas, Baja California Sur.",
+     "lat": 22.907011,
+     "lng": -109.930161,
+     "marca": "ORSAN",
+     "folio": 11664
+  },
+  {
+     "direccion": "CALLE DIAGONAL MORELOS No. 3717 COL. MATAMOROS, Cabo San Lucas, Baja California Sur.",
+     "lat": 23.120553,
+     "lng": -109.712069,
+     "marca": "ORSAN",
+     "folio": 10759
+  },
+  {
+     "direccion": "CARR. ESTATAL COMALCALCO CUNDUACAN KM 28 , Comalcalco, Tabasco.",
+     "lat": 18.206433,
+     "lng": -93.205406,
+     "marca": "ORSAN",
+     "folio": 10695
+  },
+  {
+     "direccion": "Carretera Queretaro - San Luis Potosi #12717 Col. Parcela Ejido Jurica, Queretaro, Queretaro.",
+     "lat": 20.680841,
+     "lng": -100.435638,
+     "marca": "ORSAN",
+     "folio": 12439
+  },
+  {
+     "direccion": "Parcela 36-C Carretera El Colorado-Bernal km 1.5 Col. El Paraiso, El Marques, Queretaro.",
+     "lat": 20.567897,
+     "lng": -100.215334,
+     "marca": "ORSAN",
+     "folio": 6744
+  },
+  {
+     "direccion": " Carretera Federal 180 Cárdenas-Villahermosa Km. 145+297.15, VILLAHERMOSA, Tabasco.",
+     "lat": 17.981858,
+     "lng": -93.160341,
+     "marca": "ORSAN",
+     "folio": 12576
+  },
+  {
+     "direccion": "Carretera Federal Villahermosa-Cárdenas km 132, Cucuyulapa, Tabasco.",
+     "lat": 17.999844,
+     "lng": -93.280394,
+     "marca": "ORSAN",
+     "folio": 12303
+  },
+  {
+     "direccion": "Av. de la Revolucion Mexicana 1209 Fracc. Barrera, MONCLOVA, Coahuila.",
+     "lat": 26.898853,
+     "lng": -101.394944,
+     "marca": "ORSAN",
+     "folio": 12660
+  },
+  {
+     "direccion": "Autopista Cosoleacaque-La Tinaja KM 31+800, ZARAGOZA, Veracruz.",
+     "lat": 17.967008,
+     "lng": -94.652486,
+     "marca": "ORSAN",
+     "folio": 10375
+  },
+  {
+     "direccion": "Carretera 57 #5900 , Monclova, Coahuila.",
+     "lat": 26.973611,
+     "lng": -101.37838,
+     "marca": "ORSAN",
+     "folio": 9155
+  },
+  {
+     "direccion": "Carretera Estatal 200 #265 Hacienda Grande, Tequisquiapan, Queretaro.",
+     "lat": 20.53792,
+     "lng": -99.89267,
+     "marca": "ORSAN",
+     "folio": 11656
+  },
+  {
+     "direccion": "Carr. a Humilpan 407,Vista Alegre, QUERETARO, Queretaro.",
+     "lat": 20.566453,
+     "lng": -100.377911,
+     "marca": "ORSAN",
+     "folio": 5057
+  },
+  {
+     "direccion": "Ave. 5 de Febrero 1716,Fracc. Industrial Benito Juarez, QUERETARO, Queretaro.",
+     "lat": 20.631236,
+     "lng": -100.425531,
+     "marca": "ORSAN",
+     "folio": 8644
+  },
+  {
+     "direccion": "Prol. Zaragoza 305 Pte.,Fracc. El Jacal, QUERETARO, Queretaro.",
+     "lat": 20.568544,
+     "lng": -100.414736,
+     "marca": "ORSAN",
+     "folio": 3983
+  },
+  {
+     "direccion": "Ave. Constituyentes 22 Ote.,Centro, QUERETARO, Queretaro.",
+     "lat": 20.585258,
+     "lng": -100.391894,
+     "marca": "ORSAN",
+     "folio": 6102
+  },
+  {
+     "direccion": "Blvd. Bernardo Quintana 179,Fracc. Los Arcos, QUERETARO, Queretaro.",
+     "lat": 20.591244,
+     "lng": -100.366133,
+     "marca": "ORSAN",
+     "folio": 7856
+  }
+]

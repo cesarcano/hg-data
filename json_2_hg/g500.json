@@ -1,0 +1,1502 @@
+[
+  {
+     "direccion": "Carretera lechería Texcoco",
+     "lat": "19.612659",
+     "lng": "-99.0536879",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Avenida Jorge Jimenez Cantú",
+     "lat": "19.5495294",
+     "lng": "-99.2840574",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Av. Prolongación División del Norte",
+     "lat": "19.2678212",
+     "lng": "-99.1163595",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera Tlanepantla-Nicolas Romero",
+     "lat": "19.5901079",
+     "lng": "-99.2763355",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Periférico Carlos Pellicer Cámara",
+     "lat": "17.968231",
+     "lng": "-92.9418599",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Avenida Hidalgo",
+     "lat": "19.7316125",
+     "lng": "-101.1714929",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Calle 59 Tablaje Catastral por Anillo Periferico",
+     "lat": "20.9937618",
+     "lng": "-89.6828574",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera Queretáro - San Luis Potosi",
+     "lat": "20.670225140778765",
+     "lng": "-100.43403191534424",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Av. Apatlaco",
+     "lat": "19.381289758312324",
+     "lng": "-99.11113313988113",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Av. Nicolas",
+     "lat": "19.55148163066323",
+     "lng": "-99.2057228750295",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Av. de la Hacienda",
+     "lat": "19.57430272967539",
+     "lng": "-99.23245692817227",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Boulevard Harold R Pape",
+     "lat": "26.9257732",
+     "lng": "-101.4190961",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Circuito Colonias (Matriz)",
+     "lat": "20.99712600192939",
+     "lng": "-89.6237477790985",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Prolong. Bernardo Quintana",
+     "lat": "20.62044",
+     "lng": "-100.457598",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Hidalgo esquina Guanajuato",
+     "lat": "20.1250559",
+     "lng": "-98.7595303",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Boulevard Luis Donaldo Colosio",
+     "lat": "20.1071132",
+     "lng": "-98.7171241",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera Circuito del Golfo Cárdenas-Coatzacoalcos",
+     "lat": "17.9992978",
+     "lng": "-93.3945862",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera Villahermosa-Nacajuca",
+     "lat": "18.10651920858787",
+     "lng": "-92.9601633050637",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Libramiento Sur Oriente",
+     "lat": "16.7312977",
+     "lng": "-93.1069692",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Adolfo Mateos, Esquina Niños Heroes",
+     "lat": "18.2582642",
+     "lng": "-93.1850239",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Km 1 Carretera Pinotepa Nacional-Puerto Escondido",
+     "lat": "16.3351039",
+     "lng": "-98.0390791",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Km 1 Carretera Pinotepa Nacional-Acapulco",
+     "lat": "16.3543353",
+     "lng": "-98.0700333",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera Federal Costera del Pacífico tramo Puerto Escondido - Pochutla Km 201",
+     "lat": "15.7164147",
+     "lng": "-96.5837914",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera Cayaco-Puerto Márquez Km 3",
+     "lat": "16.8265333",
+     "lng": "-99.8133322",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Avenida Lázaro Cárdenas",
+     "lat": "16.8749974",
+     "lng": "-99.8177091",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Avenida Plutarco Elías Calles",
+     "lat": "28.1751583",
+     "lng": "-105.4533779",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Avenida Rio San Pedro Sur",
+     "lat": "28.1695731",
+     "lng": "-105.4737954",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Tramo Carretero Estación Paty-Visita Hermosa",
+     "lat": "20.3338108",
+     "lng": "-102.2309714",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Av. Plan de Ayala",
+     "lat": "18.923967088983197",
+     "lng": "-99.21903633316992",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Avenida 6a Oriente ",
+     "lat": "28.1946957",
+     "lng": "-105.4634095",
+     "marca": "G500"
+  },
+  {
+     "direccion": "16 de Septiembre esq. Velódromo de la Deportiva",
+     "lat": "17.97500603059598",
+     "lng": "-92.93943336676818",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Avenida Prados",
+     "lat": "19.6646751",
+     "lng": "-99.0796165",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera México - Cuautla",
+     "lat": "18.8496806",
+     "lng": "-98.9381475",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Amate esquina Carretera Federal Villahermosa - Teapa",
+     "lat": "17.9685509",
+     "lng": "-92.9190103",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Autopista México - Queretáro",
+     "lat": "19.68693826495977",
+     "lng": "-99.20334557976224",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera Chalco - Tlahuac",
+     "lat": "19.2543075",
+     "lng": "-98.9144676",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Prolongación Francisco Javier Mina",
+     "lat": "18.0093946",
+     "lng": "-92.9191396",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera Ocotlan -Santa Ana",
+     "lat": "19.317623923175535",
+     "lng": "-98.21550696627048",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Vía José López Portillo",
+     "lat": "19.6356973",
+     "lng": "-99.1063989",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Boulevard Ejercito Mexicano",
+     "lat": "26.9278409",
+     "lng": "-101.4307337",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Boulevard Fidel Velázquez",
+     "lat": "16.7754842",
+     "lng": "-93.0905851",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Rinconada Uranio",
+     "lat": "19.3063222",
+     "lng": "-99.2202255",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Calle Aldama",
+     "lat": "28.2764708",
+     "lng": "-105.4862433",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Cereal",
+     "lat": "19.7522307",
+     "lng": "-101.1784143",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Avenida Lázaro Cárdenas",
+     "lat": "20.6277098",
+     "lng": "-103.2981645",
+     "marca": "G500"
+  },
+  {
+     "direccion": "3ra Norte Sector Juarez",
+     "lat": "15.864323",
+     "lng": "-97.0720409",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Avenida Francisco I Madero Oriente",
+     "lat": "19.7116879",
+     "lng": "-101.1642974",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera México-Tepexpan Parcela",
+     "lat": "19.6144916",
+     "lng": "-99.0362468",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Avenida 17",
+     "lat": "21.020446059398665",
+     "lng": "-89.56730528092055",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera Estatal 210 km",
+     "lat": "20.6347133",
+     "lng": "-100.2602315",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera Ocozocuautla a Villaflores",
+     "lat": "16.3471135",
+     "lng": "-93.4052606",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera Principal",
+     "lat": "17.8739238",
+     "lng": "-92.4865472",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera Tuxtla Gutiérrez a Villaflores",
+     "lat": "16.3856116",
+     "lng": "-93.2834728",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Calle 69 X 70D Y 72",
+     "lat": "21.057773780811452",
+     "lng": "-89.64408200488981",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Aurora del Hierro Lt 1.",
+     "lat": "19.67274",
+     "lng": "-99.1840809",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Calle 69 X 48 Y 50",
+     "lat": "20.9417373",
+     "lng": "-89.5738692",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Periférico Paseo de la República",
+     "lat": "19.678089263525695",
+     "lng": "-101.23378910503232",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Calle 30 X 35 Y 37",
+     "lat": "20.1236017",
+     "lng": "-88.9246211",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Aeropuerto Llano San Juan",
+     "lat": "16.7688045",
+     "lng": "-93.2823422",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Calzada del Charro Oriente",
+     "lat": "28.1948967",
+     "lng": "-105.4598238",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Avenida Federico Baeza",
+     "lat": "28.1730838",
+     "lng": "-105.4715263",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera Panamericana",
+     "lat": "28.1909507",
+     "lng": "-105.45911360000002",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Av. Jacinto Canek x 136 A",
+     "lat": "20.9948702",
+     "lng": "-89.6719715",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Jesús García",
+     "lat": "20.6889112",
+     "lng": "-103.3589565",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera Libramiento",
+     "lat": "16.3491046",
+     "lng": "-98.0493876",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Avenida Juárez",
+     "lat": "18.6556472",
+     "lng": "-91.8293527",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Avenida Revolución",
+     "lat": "27.4988902",
+     "lng": "-99.5526771",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera Mexico-Texcoco 29",
+     "lat": "19.6153009",
+     "lng": "-99.01967680000001",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Av. Montevideo",
+     "lat": "19.486721",
+     "lng": "-99.1228482",
+     "marca": "G500"
+  },
+  {
+     "direccion": "División del Norte, esquina Constituyentes",
+     "lat": "20.511155",
+     "lng": "-100.8048631",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Avenida Simbolos Patrios",
+     "lat": "17.0407506",
+     "lng": "-96.7192275",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Agustín Melgar",
+     "lat": "27.6773603",
+     "lng": "-105.1731191",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Av. Agustín Melgar y Av. Coahuila",
+     "lat": "28.413665771484375",
+     "lng": "-106.86891174316406",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Av. Hidalgo y C. 15",
+     "lat": "28.399799346923828",
+     "lng": "-106.85881605815155",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Avenida Lopez de Legaspi",
+     "lat": "20.6387823",
+     "lng": "-103.3769065",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Cruz del Sur",
+     "lat": "20.6378016",
+     "lng": "-103.3948812",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Prolongación Paseo Usumacinta esquina Periférico",
+     "lat": "17.9724624",
+     "lng": "-92.9247064",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera Luis Gil Perez",
+     "lat": "17.921307141333426",
+     "lng": "-93.0182557262143",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Libramiento Sur Poniente",
+     "lat": "16.744068546069464",
+     "lng": "-93.12846651024245",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Avenida 8 de Julio",
+     "lat": "20.6234586",
+     "lng": "-103.3714714",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Av. Revolución 910",
+     "lat": "17.974022450660083",
+     "lng": "-92.9631412165329",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Boulevard Simbolos Patrios",
+     "lat": "17.0203025",
+     "lng": "-96.7110073",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Av. Javier Rojo Gomez",
+     "lat": "19.375245787924555",
+     "lng": "-99.07844031804825",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Rio Hondo - Huixquilucan ",
+     "lat": "19.4020759",
+     "lng": "-99.3235036",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Avenida Rio de las Avenidas",
+     "lat": "20.1130987",
+     "lng": "-98.7434771",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Avenida San Marcos",
+     "lat": "20.0662713",
+     "lng": "-98.7707103",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera San Isidro Mazatepec",
+     "lat": "20.4850739",
+     "lng": "-103.5102789",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Avenida Atécuaro",
+     "lat": "19.6549012",
+     "lng": "-101.202481",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera Villa Nicólas Romero",
+     "lat": "19.5691108",
+     "lng": "-99.2534584",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Avenida Patriotismo",
+     "lat": "19.3974651",
+     "lng": "-99.1808654",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera Aeropuerto - Mariano Matamoros Km. 0+200",
+     "lat": "18.8028041",
+     "lng": "-99.2230224",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Avenida del Trabajo",
+     "lat": "19.4416795",
+     "lng": "-99.1219133",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Periferico Ecológico",
+     "lat": "19.0661593",
+     "lng": "-98.2774768",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera Mexico-Toluca",
+     "lat": "19.362802792163276",
+     "lng": "-99.28549810367014",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera Federal Villahermosa-Tuxtla G. Tramo Villahermosa-Teapa lado izquierdo",
+     "lat": "17.9692742",
+     "lng": "-92.9188819",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Av. Gustavo Baz",
+     "lat": "19.5262991",
+     "lng": "-99.210066",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Paseo Constituyentes",
+     "lat": "20.5522928",
+     "lng": "-100.4230921",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Boulevard Magnocentro",
+     "lat": "19.4017479",
+     "lng": "-99.2720829",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Calzada al Sumidero esquina Libramiento Norte",
+     "lat": "16.770344071845155",
+     "lng": "-93.10277872817232",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Avenida Ignacio Zaragoza",
+     "lat": "19.3871113",
+     "lng": "-99.0384468",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Convento de Santa Monica",
+     "lat": "19.533899954703962",
+     "lng": "-99.22604506466524",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Guillermo Prieto 1100",
+     "lat": "19.7128187",
+     "lng": "-101.1937896",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Calle 20",
+     "lat": "17.462223",
+     "lng": "-91.4293266",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Calle Oriente 6",
+     "lat": "19.728018",
+     "lng": "-101.1514414",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Prolongación Héroes de Nacozari",
+     "lat": "19.0837577",
+     "lng": "-98.1987252",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Calzada de los Jinetes",
+     "lat": "19.553890169783674",
+     "lng": "-99.21109346071319",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera Valsequillo esquina 16 de Septiembre",
+     "lat": "19.0206003",
+     "lng": "-98.2116553",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera México - Queretaro",
+     "lat": "19.538638",
+     "lng": "-99.21649",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Camino los Berros-Valle de Bravo Km- 12.6 ",
+     "lat": "19.3237754",
+     "lng": "-100.0940368",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera Nacional Acapulco - Pinotepa Nacional",
+     "lat": "16.7531639",
+     "lng": "-99.2357096",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Boulevard José María Morelos",
+     "lat": "21.1304227",
+     "lng": "-101.6301649",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Boulevard Dr. Belisario Dominguez",
+     "lat": "16.75561220913169",
+     "lng": "-93.15122174110451",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Av. Tlahuac",
+     "lat": "19.322402904623086",
+     "lng": "-99.09633809325408",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Avenida Francisco I. Madero",
+     "lat": "20.1164446",
+     "lng": "-98.7261848",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Av. Luis Cabrera",
+     "lat": "19.315918",
+     "lng": "-99.2340641",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera Estatal Villahermosa Reforma",
+     "lat": "17.895280615299303",
+     "lng": "-93.06508567514652",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera Cuautitlán Melchor Ocampo Mz.60 Lt.3",
+     "lat": "19.6490241",
+     "lng": "-99.15061370000001",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera Pachuca-Tuxpan",
+     "lat": "19.6727395",
+     "lng": "-99.1840797",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Calle Público",
+     "lat": "16.72210371128874",
+     "lng": "-93.01886418226468",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera Nacional Acapulco - Pinotepa Nacional Km. 165",
+     "lat": "16.581720773323518",
+     "lng": "-98.8130428379593",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera Internacional Km 20.3 S/N",
+     "lat": "17.0220964",
+     "lng": "-96.579641",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera Internacional Oaxaca-Nochixtlan",
+     "lat": "17.086305",
+     "lng": "-96.7453878",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera Cuautitlan-Melchor Ocampo",
+     "lat": "19.6712973",
+     "lng": "-99.1740606",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera a Zachila",
+     "lat": "17.0514369",
+     "lng": "-96.71678930000002",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera Tequisquiapan",
+     "lat": "20.5976375",
+     "lng": "-100.3569188",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Montevideo",
+     "lat": "19.491351",
+     "lng": "-99.136548",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera Toluca - Atlacomulco",
+     "lat": "19.3675917",
+     "lng": "-99.6935941",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera Mexico-Toluca Km 48.5",
+     "lat": "19.281058608234705",
+     "lng": "-99.49436578728029",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera Costera del Pacífico",
+     "lat": "16.0924899",
+     "lng": "-97.6865097",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Libramiento Gomez Morin",
+     "lat": "30.4457767",
+     "lng": "-107.9045946",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera Lago de Guadalupe",
+     "lat": "19.5818056",
+     "lng": "-99.2282591",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Avenida Prolongación Paseo de la Reforma",
+     "lat": "19.3803392",
+     "lng": "-99.2519211",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera México - Texcoco",
+     "lat": "19.4160143",
+     "lng": "-98.9180477",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Av. Prolongación Bosques de Reforma",
+     "lat": "19.387693990200372",
+     "lng": "-99.26280726710775",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera Villahermosa - Cardenas",
+     "lat": "17.9890224",
+     "lng": "-92.9803459",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Calzada Ermita Iztapalapa",
+     "lat": "19.3557014",
+     "lng": "-99.0939496",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Av. Román Cepeda",
+     "lat": "28.698006471640664",
+     "lng": "-100.53821110311048",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Fausto Z Martinez",
+     "lat": "28.6798303",
+     "lng": "-100.54137070000002",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Av. Palo Solo",
+     "lat": "19.4160183",
+     "lng": "-99.2701909",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera Puerto Rico -Totutla Parcela 258",
+     "lat": "19.303339507331135",
+     "lng": "-96.91362893652183",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Autopista México - Queretaro Km 59+800",
+     "lat": "19.8411154",
+     "lng": "-99.2790252",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Josefa Ortiz de Dominguez",
+     "lat": "22.3108109",
+     "lng": "-97.8774014",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Romulo O´Farril",
+     "lat": "19.33796512967915",
+     "lng": "-99.21360962883602",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Autopista México - Queretaro",
+     "lat": "19.5384560013827",
+     "lng": "-99.2160715753937",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Galeana 505 Sur",
+     "lat": "28.697803849305462",
+     "lng": "-100.518545617791",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Libramiento ",
+     "lat": "19.704127",
+     "lng": "-99.2338336",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera Cocotitlan - Temamatla",
+     "lat": "19.2202311",
+     "lng": "-98.8672831",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Av. 5A Norte Poniente 2285",
+     "lat": "16.762014734540568",
+     "lng": "-93.13694836322935",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Prolongación 4ta Av. Sur esquina Camino al Tubo",
+     "lat": "14.8925302",
+     "lng": "-92.27486620000002",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Circuito Interior Av. Rio Consulado",
+     "lat": "19.4544047",
+     "lng": "-99.115465",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Prolongación Arneses",
+     "lat": "19.33678",
+     "lng": "-99.1130023",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Calzada San Agustin",
+     "lat": "19.4933578",
+     "lng": "-99.2151654",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Acueducto Tenayuca",
+     "lat": "19.5297884",
+     "lng": "-99.1681039",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Av. Hidalgo",
+     "lat": "19.5096482",
+     "lng": "-98.8707647",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Av. Adolfo López Mateos",
+     "lat": "19.4804853",
+     "lng": "-99.2491297",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Avenida Juarez",
+     "lat": "19.416313",
+     "lng": "-98.9153498",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Avenida 6a Norte",
+     "lat": "28.2022619",
+     "lng": "-105.4738532",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera México Picacho Ajusco",
+     "lat": "19.2833287",
+     "lng": "-99.2171988",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Calzada de Tlalpan",
+     "lat": "19.302904163089735",
+     "lng": "-99.14659906137695",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Av. Universidad",
+     "lat": "17.0364613",
+     "lng": "-96.7119058",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Av. Solaridad",
+     "lat": "19.6840312",
+     "lng": "-101.1685996",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera Toluca - Atlacomulco",
+     "lat": "19.4054245",
+     "lng": "-99.7147551",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera a los Altos",
+     "lat": "20.5883159",
+     "lng": "-103.1148548",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Calzada de Tlalpan",
+     "lat": "19.350719",
+     "lng": "-99.1458538",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Km.1 Carretera Pinotepa Nacional - Acapulco",
+     "lat": "16.3494602",
+     "lng": "-98.0620909",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Pescadores esq Carretera Oaxaca",
+     "lat": "15.8817301",
+     "lng": "-97.0791041",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Avenida Carlos Salinas de Gortari",
+     "lat": "15.867636",
+     "lng": "-97.0799764",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera Costera del Pacífico",
+     "lat": "16.0105847",
+     "lng": "-97.4516038",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Avenida Santa Rosa",
+     "lat": "19.5319805",
+     "lng": "-99.1799497",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Boulevard Valsequillo",
+     "lat": "18.9677865",
+     "lng": "-98.1811375",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Camerino Mendoza",
+     "lat": "20.1262706",
+     "lng": "-98.7450825",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Eje 6 Sur",
+     "lat": "19.3785647",
+     "lng": "-99.14539439999999",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Calzada del Hueso",
+     "lat": "19.2999546",
+     "lng": "-99.1082353",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Av.J.Jiménez Cantu",
+     "lat": "19.6794776",
+     "lng": "-99.2133747",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Periférico Luis Echeverría A",
+     "lat": "25.4000094",
+     "lng": "-101.0252599",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Periférico Luis Echeverría A",
+     "lat": "25.401972",
+     "lng": "-101.0269006",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera Atitalaquia Apaxco",
+     "lat": "20.0096889",
+     "lng": "-99.2203687",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Avenida Vía Morelos",
+     "lat": "19.5257643",
+     "lng": "-99.0844994",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Av. Morelos Norte",
+     "lat": "19.7486437",
+     "lng": "-101.172757",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera Cuautitlan-Teoloyucan",
+     "lat": "19.6972154",
+     "lng": "-99.1895467",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Av. José López Portillo",
+     "lat": "19.62460349226975",
+     "lng": "-99.07632963558194",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Av. Via Real",
+     "lat": "19.6578676",
+     "lng": "-99.0193721",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera México Querétaro",
+     "lat": "19.6305859",
+     "lng": "-99.1932242",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Av. Gustavo Baz",
+     "lat": "19.5406463",
+     "lng": "-99.2069807",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Av. Santa Cruz Ojo de Agua",
+     "lat": "19.666228",
+     "lng": "-99.0152466",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Boulevard Adolfo Lopez Mateos",
+     "lat": "19.346728965096325",
+     "lng": "-99.20237554973755",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Av. De las Fuentes",
+     "lat": "19.318637958075712",
+     "lng": "-99.21127901104506",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Calzada de los Jinetes",
+     "lat": "19.560473872584915",
+     "lng": "-99.22014401165677",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera San Martín - Tlaxcala",
+     "lat": "19.2864882",
+     "lng": "-98.422325",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Av. Alfredo del Mazo",
+     "lat": "19.516477168772045",
+     "lng": "-99.06343738227838",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Av. Principal a la Joya",
+     "lat": "19.2936909",
+     "lng": "-98.447832",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Boulevard Atlixco",
+     "lat": "19.0467754",
+     "lng": "-98.2345726",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera San Martin - Tlaxcala",
+     "lat": "19.2911664",
+     "lng": "-98.4129146",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Avenida Patria",
+     "lat": "20.6410368",
+     "lng": "-103.2824299",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Boulevard Interlomas",
+     "lat": "19.399568",
+     "lng": "-99.2688606",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Av. Tamaulipas",
+     "lat": "19.3540474",
+     "lng": "-99.2762778",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Av. Adolfo Ruiz Cortines",
+     "lat": "19.55447544537421",
+     "lng": "-99.26679671964337",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Av. Marcelino Buendía Eje 5 Sur",
+     "lat": "19.376193894035335",
+     "lng": "-99.06214358383636",
+     "marca": "G500"
+  },
+  {
+     "direccion": "La Presa Carretera Pachuca-Cd. Sahagún",
+     "lat": "19.7836735",
+     "lng": "-98.5780991",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera Alfonso Pérez Gasga",
+     "lat": "17.0372122",
+     "lng": "-97.9163697",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Avenida Santo Tomás",
+     "lat": "19.4828245",
+     "lng": "-99.1807593",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Calzada de la Viga",
+     "lat": "19.413919286217837",
+     "lng": "-99.12827659999999",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Contadores",
+     "lat": "19.374920872791982",
+     "lng": "-99.10766898220902",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Avenida Solidaridad Las Torres",
+     "lat": "19.2787259",
+     "lng": "-99.5484522",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Libramiento Autopista México - Acapulco",
+     "lat": "18.959110292587365",
+     "lng": "-99.21129020852891",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Av. 16 esquina Rio Churubusco",
+     "lat": "19.4087965",
+     "lng": "-99.0924875",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Av. Periférico Carlos Pellicer",
+     "lat": "17.96788620896139",
+     "lng": "-92.94803801230319",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Rio de la Plata",
+     "lat": "19.4279126",
+     "lng": "-99.1746274",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Avenida Juarez",
+     "lat": "19.0531936",
+     "lng": "-98.2212219",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera Nacional Acapulco Pinotepa",
+     "lat": "16.47372488080991",
+     "lng": "-98.42292697202765",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Avenida General Porfirio Díaz",
+     "lat": "16.4698284",
+     "lng": "-98.4065267",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera Federal México - Puebla",
+     "lat": "19.213949",
+     "lng": "-98.4211411",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Libertad Norte",
+     "lat": "19.2887293",
+     "lng": "-98.4434875",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Anillo Periférico Arco Sur",
+     "lat": "19.2671764",
+     "lng": "-98.4481445",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera México-Laredo",
+     "lat": "19.5200748",
+     "lng": "-99.096646",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Avenida San Mateo",
+     "lat": "19.5610717",
+     "lng": "-99.24637109999998",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Av Tetiz",
+     "lat": "19.2841725",
+     "lng": "-99.2327551",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Calle 60 X 119 Y 21",
+     "lat": "20.9331722",
+     "lng": "-89.6302979",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera San Martin - El Verde",
+     "lat": "19.2754082",
+     "lng": "-98.4516224",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Calzada de Tlalpan",
+     "lat": "19.3124146",
+     "lng": "-99.1407937",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera Morelia Salamanca ",
+     "lat": "19.7962809",
+     "lng": "-101.1622214",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Boulevard Isidro Fabela Norte",
+     "lat": "19.3047788",
+     "lng": "-99.6436343",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Puente Calderon",
+     "lat": "19.70283485155635",
+     "lng": "-101.21354287308577",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera Federal México - Puebla",
+     "lat": "19.1489507",
+     "lng": "-98.3989934",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Calle 62 por 23 y 62",
+     "lat": "20.9999888",
+     "lng": "-89.6888681",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Vía Morelos Km 14200",
+     "lat": "19.5330334",
+     "lng": "-99.0700818",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Avenida Central",
+     "lat": "19.6073333",
+     "lng": "-99.0111973",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera Lechería Texcoco",
+     "lat": "19.6152619",
+     "lng": "-99.001821",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Avenida Ejército Mexicano",
+     "lat": "19.840413",
+     "lng": "-98.9724833",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Paseo Constituyentes",
+     "lat": "20.5546149",
+     "lng": "-100.4205793",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Boulevard Bernardo Quintana",
+     "lat": "20.620467415666937",
+     "lng": "-100.41333294019773",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Avenida Revolución",
+     "lat": "19.3984346",
+     "lng": "-99.1849598",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Av. Adolfo Lopez Mateos",
+     "lat": "19.2937933",
+     "lng": "-99.7257973",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Periférico Sur",
+     "lat": "19.322774",
+     "lng": "-99.217301",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Federico Tena",
+     "lat": "19.51220690517093",
+     "lng": "-101.61230985634461",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Av. Hidalgo",
+     "lat": "19.6205448",
+     "lng": "-99.3240555",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera San Pedro Tepojaco",
+     "lat": "19.6446135",
+     "lng": "-99.2723358",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Av Juan Pablo II",
+     "lat": "19.6749388",
+     "lng": "-101.1791223",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Libramiento Norte Ignacio Zaragoza",
+     "lat": "19.5177768",
+     "lng": "-101.6173287",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Av. Cerro del Sombrerete",
+     "lat": "20.63858862229854",
+     "lng": "-100.41552055449222",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera Panamericana esquina Eje Nor-Oriente",
+     "lat": "20.5159729",
+     "lng": "-100.7797844",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Avenida Tecnológico",
+     "lat": "20.3745629",
+     "lng": "-99.978688",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Avenida Tata Vasco",
+     "lat": "19.7048934",
+     "lng": "-101.1776287",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Manuel Doblado",
+     "lat": "19.332740528623596",
+     "lng": "-98.19762830180514",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Av. Paseo Usumacinta",
+     "lat": "17.9932031",
+     "lng": "-92.9489708",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera Federal Mexico Puebla KM 22.5 ",
+     "lat": "19.3346478",
+     "lng": "-98.9531952",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera Estatal Queretaro-Tlacote",
+     "lat": "20.590817",
+     "lng": "-100.450847",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Carretera Lago de Guadalupe Km. 5.5",
+     "lat": "19.609312",
+     "lng": "-99.2344357",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Zaragoza Poniente",
+     "lat": "20.58404358316815",
+     "lng": "-100.40319746627046",
+     "marca": "G500"
+  },
+  {
+     "direccion": "Mellado",
+     "lat": "18.666894277759525",
+     "lng": "-97.00069306137698",
+     "marca": "G500"
+  }
+]

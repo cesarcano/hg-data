@@ -1,0 +1,50 @@
+[
+  {
+     "direccion": "Avenida del Roble No. 14058",
+     "lat": 32.43441,
+     "lng": -116.953,
+     "marca": "CHEVRON"
+  },
+  {
+     "direccion": "Circuito Loma Dorada No. 19161",
+     "lat": 32.49984,
+     "lng": -116.909,
+     "marca": "CHEVRON"
+  },
+  {
+     "direccion": "Carretera a San Felipe No. 199",
+     "lat": 32.60459,
+     "lng": -115.436,
+     "marca": "CHEVRON"
+  },
+  {
+     "direccion": "Boulevard Cuauht&#233;moc Sur No. 4690",
+     "lat": 32.49725,
+     "lng": -117.02,
+     "marca": "CHEVRON"
+  },
+  {
+     "direccion": "Boulevard Insurgentes No. 16500",
+     "lat": 32.50465,
+     "lng": -116.952,
+     "marca": "CHEVRON"
+  },
+  {
+     "direccion": "Calle 4ta. Sur No. 902",
+     "lat": 32.53723,
+     "lng": -116.923,
+     "marca": "CHEVRON"
+  },
+  {
+     "direccion": "Boulevard Manuel J. Clouthier No. 18378",
+     "lat": 32.49483,
+     "lng": -116.924,
+     "marca": "CHEVRON"
+  },
+  {
+     "direccion": "Ca&#241;adas del Florido 30 No 23460",
+     "lat": 32.46892,
+     "lng": -116.846,
+     "marca": "CHEVRON"
+  }
+]

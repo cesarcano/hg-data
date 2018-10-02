@@ -1,14 +1,16 @@
 [
   {
      "direccion": "Golfo de México 112",
-     "lat": "22.144978",
-     "lng": "-100.946287",
-     "marca": "COMBURED"
+     "lat": 22.144978,
+     "lng": -100.946287,
+     "marca": "COMBURED",
+     "url_img": "https://firebasestorage.googleapis.com/v0/b/hellogas-3db04.appspot.com/o/marcadores%2Fico_chevron.png?alt=media&token=26bbaec3-854c-422b-be9d-17c3415bc83c"
   },
   {
      "direccion": "Av. Motales Saucito 2425",
-     "lat": "22.168183",
-     "lng": "-101.018579",
-     "marca": "COMBURED"
+     "lat": 22.168183,
+     "lng": -101.018579,
+     "marca": "COMBURED",
+     "url_img": "https://firebasestorage.googleapis.com/v0/b/hellogas-3db04.appspot.com/o/marcadores%2Fico_chevron.png?alt=media&token=26bbaec3-854c-422b-be9d-17c3415bc83c"
   }
 ]
